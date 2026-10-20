@@ -1,0 +1,133 @@
+# CiberBot PT — configuração
+# Todos os textos e limites podem ser alterados aqui, sem mexer no código.
+
+[geral]
+titulo = "CiberBot PT — Resumo diário de cibersegurança"
+fuso_horario = "Europe/Lisbon"
+janela_horas = 36          # só entram itens publicados nas últimas X horas
+max_itens = 25             # máximo de destaques por edição
+max_por_fonte = 8          # máximo por fonte (cada fonte pode ter o seu "max_itens")
+estado = "state/vistos.json"
+ordem_seccoes = ["portugal", "exploradas", "criticas", "noticias"]
+
+[limites]                  # máximo de itens por secção
+portugal = 6
+exploradas = 8
+criticas = 6
+noticias = 10
+
+[web]
+ativo = true
+pasta = "docs"             # o GitHub Pages serve esta pasta
+url_publica = ""           # ex.: "https://o-teu-utilizador.github.io/ciberbot-pt/" (aparece nas mensagens)
+
+[traducao]
+ativa = true
+modelo = "claude-haiku-5-5"   # pode ser substituído pela variável CIBERBOT_MODELO
+lote = 8                      # itens por pedido à API
+resumo_max_caracteres = 380
+
+# --------------------------------------------------------------------------------------
+# FONTES
+#   tipo: "rss" (RSS ou Atom), "kev" (catálogo CISA) ou "nvd" (CVE críticos do NIST)
+#   idioma: "pt" (não traduz) ou "en" (traduz para PT-PT)
+#   categoria: portugal | exploradas | criticas | noticias  (define a secção)
+#   peso: importância base da fonte na ordenação
+# Se uma fonte falhar, as outras continuam e a falha aparece nas notas da edição.
+# --------------------------------------------------------------------------------------
+
+[[fontes]]
+nome = "CNCS — Alertas de Segurança"
+tipo = "rss"
+url = "https://www.cncs.gov.pt/docs/alertas-seguranca/feed-rss/index.xml"
+idioma = "pt"
+categoria = "portugal"
+peso = 40
+
+# Blogue português de segurança (feed WordPress padrão — confirma que responde antes de depender dele).
+[[fontes]]
+nome = "Segurança Informática"
+tipo = "rss"
+url = "https://seguranca-informatica.pt/feed/"
+idioma = "pt"
+categoria = "portugal"
+peso = 20
+max_itens = 4
+
+[[fontes]]
+nome = "CISA — Vulnerabilidades exploradas (KEV)"
+tipo = "kev"
+url = "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json"
+idioma = "en"
+categoria = "exploradas"
+peso = 60
+max_itens = 8
+
+[[fontes]]
+nome = "NVD — CVE críticos"
+tipo = "nvd"
+url = "https://services.nvd.nist.gov/rest/json/cves/2.0"
+idioma = "en"
+categoria = "criticas"
+peso = 30
+max_itens = 6
+
+[[fontes]]
+nome = "BleepingComputer"
+tipo = "rss"
+url = "https://www.bleepingcomputer.com/feed/"
+idioma = "en"
+categoria = "noticias"
+peso = 25
+
+[[fontes]]
+nome = "The Hacker News"
+tipo = "rss"
+url = "https://feeds.feedburner.com/TheHackersNews"
+idioma = "en"
+categoria = "noticias"
+peso = 25
+
+[[fontes]]
+nome = "Krebs on Security"
+tipo = "rss"
+url = "https://krebsonsecurity.com/feed/"
+idioma = "en"
+categoria = "noticias"
+peso = 25
+max_itens = 3
+
+# Exemplo para acrescentar mais fontes (copiar e adaptar):
+# [[fontes]]
+# nome = "Nome da fonte"
+# tipo = "rss"
+# url = "https://exemplo.pt/feed/"
+# idioma = "pt"
+# categoria = "portugal"
+# peso = 20
+# palavras_obrigatorias = ["segurança", "ciberataque", "vulnerabilidade"]   # opcional: filtra feeds generalistas
+
+# Termos que aumentam a pontuação (procura por palavra inteira, sem distinguir maiúsculas).
+[palavras_chave]
+"zero-day" = 25
+"0-day" = 25
+"dia zero" = 25
+"actively exploited" = 20
+"exploited in the wild" = 20
+"exploração ativa" = 20
+"ransomware" = 15
+"supply chain" = 12
+"cadeia de fornecimento" = 12
+"remote code execution" = 12
+"execução remota de código" = 12
+"data breach" = 10
+"fuga de dados" = 10
+"ciberataque" = 8
+"backdoor" = 8
+"critical" = 6
+"crítica" = 6
+"phishing" = 3
+"portugal" = 20
+"português" = 10
+"portuguesa" = 10
+"cncs" = 10

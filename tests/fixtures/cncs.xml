@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CNCS - Alertas de Segurança (exemplo)</title>
+    <link>https://exemplo.test/</link>
+    <description>Dados fictícios para testes</description>
+    <item>
+      <title>Vulnerabilidade crítica no ExemploCorp VPN Gateway</title>
+      <link>https://exemplo.test/alertas/vpn-gateway</link>
+      <guid isPermaLink="false">cncs-2026-0101</guid>
+      <pubDate>Mon, 19 Oct 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[<p>O CNCS recomenda a atualização imediata do <strong>ExemploCorp VPN Gateway</strong> para a versão 9.4.2, devido a uma vulnerabilidade de execução remota de código (CVE-2026-90001) que já está a ser explorada por atacantes.</p>]]></description>
+    </item>
+    <item>
+      <title>Campanha de phishing em Portugal usa falsas mensagens de entidades públicas</title>
+      <link>https://exemplo.test/alertas/phishing-entidades</link>
+      <guid isPermaLink="false">cncs-2026-0102</guid>
+      <pubDate>Tue, 20 Oct 2026 05:30:00 +0000</pubDate>
+      <description><![CDATA[<p>Estão a circular mensagens que imitam entidades públicas e pedem o pagamento de supostas taxas em atraso. Não clique em ligações suspeitas e confirme sempre no site oficial.</p>]]></description>
+    </item>
+    <item>
+      <title>Alerta antigo que já não deve aparecer</title>
+      <link>https://exemplo.test/alertas/antigo</link>
+      <guid isPermaLink="false">cncs-2026-0050</guid>
+      <pubDate>Thu, 01 Oct 2026 09:00:00 +0000</pubDate>
+      <description>Fora da janela de tempo.</description>
+    </item>
+  </channel>
+</rss>

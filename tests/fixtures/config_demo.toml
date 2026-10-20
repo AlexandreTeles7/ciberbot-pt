@@ -1,0 +1,67 @@
+# Configuração usada pela demonstração e pelos testes (dados fictícios, sem rede).
+[geral]
+titulo = "CiberBot PT — Pré-visualização (dados de exemplo)"
+fuso_horario = "Europe/Lisbon"
+janela_horas = 36
+max_itens = 25
+max_por_fonte = 8
+ordem_seccoes = ["portugal", "exploradas", "criticas", "noticias"]
+
+[limites]
+portugal = 6
+exploradas = 8
+criticas = 6
+noticias = 10
+
+[traducao]
+ativa = true
+lote = 4
+
+[[fontes]]
+nome = "CNCS — Alertas de Segurança"
+tipo = "rss"
+url = "https://exemplo.test/cncs.xml"
+idioma = "pt"
+categoria = "portugal"
+peso = 40
+
+[[fontes]]
+nome = "CISA — Vulnerabilidades exploradas (KEV)"
+tipo = "kev"
+url = "https://exemplo.test/kev.json"
+idioma = "en"
+categoria = "exploradas"
+peso = 60
+
+[[fontes]]
+nome = "NVD — CVE críticos"
+tipo = "nvd"
+url = "https://exemplo.test/nvd.json"
+idioma = "en"
+categoria = "criticas"
+peso = 30
+
+[[fontes]]
+nome = "Notícias (RSS)"
+tipo = "rss"
+url = "https://exemplo.test/noticias.xml"
+idioma = "en"
+categoria = "noticias"
+peso = 25
+
+[[fontes]]
+nome = "Blogue (Atom)"
+tipo = "rss"
+url = "https://exemplo.test/atom.xml"
+idioma = "en"
+categoria = "noticias"
+peso = 25
+
+[palavras_chave]
+"zero-day" = 25
+"ransomware" = 15
+"data breach" = 10
+"remote code execution" = 12
+"phishing" = 3
+"portugal" = 20
+"rce" = 8

@@ -1,0 +1,65 @@
+{
+  "resultsPerPage": 4,
+  "startIndex": 0,
+  "totalResults": 4,
+  "format": "NVD_CVE",
+  "version": "2.0",
+  "timestamp": "2026-10-20T06:00:00.000",
+  "vulnerabilities": [
+    {
+      "cve": {
+        "id": "CVE-2026-90010",
+        "published": "2026-10-19T21:15:07.350",
+        "lastModified": "2026-10-20T01:00:00.000",
+        "vulnStatus": "Received",
+        "descriptions": [
+          {"lang": "en", "value": "A heap-based buffer overflow in the ExemploDB network service allows remote unauthenticated attackers to execute arbitrary code. Versions before 4.2.1 are affected."},
+          {"lang": "es", "value": "Descripción en español que deve ser ignorada."}
+        ],
+        "metrics": {
+          "cvssMetricV31": [{"cvssData": {"version": "3.1", "baseScore": 9.8, "baseSeverity": "CRITICAL"}}]
+        }
+      }
+    },
+    {
+      "cve": {
+        "id": "CVE-2026-90011",
+        "published": "2026-10-19T16:40:00.000",
+        "lastModified": "2026-10-19T18:00:00.000",
+        "vulnStatus": "Analyzed",
+        "descriptions": [
+          {"lang": "en", "value": "Improper input validation in the AcmeSoft admin console lets an authenticated user escalate privileges to administrator. Fixed in version 7.1."}
+        ],
+        "metrics": {
+          "cvssMetricV31": [{"cvssData": {"version": "3.1", "baseScore": 9.1, "baseSeverity": "CRITICAL"}}]
+        }
+      }
+    },
+    {
+      "cve": {
+        "id": "CVE-2026-90001",
+        "published": "2026-10-19T14:00:00.000",
+        "lastModified": "2026-10-19T14:30:00.000",
+        "vulnStatus": "Analyzed",
+        "descriptions": [
+          {"lang": "en", "value": "ExemploCorp VPN Gateway before 9.4.2 allows remote attackers to execute arbitrary commands via a crafted request."}
+        ],
+        "metrics": {
+          "cvssMetricV31": [{"cvssData": {"version": "3.1", "baseScore": 9.8, "baseSeverity": "CRITICAL"}}]
+        }
+      }
+    },
+    {
+      "cve": {
+        "id": "CVE-2026-90012",
+        "published": "2026-10-19T10:00:00.000",
+        "lastModified": "2026-10-19T11:00:00.000",
+        "vulnStatus": "Rejected",
+        "descriptions": [
+          {"lang": "en", "value": "** REJECT ** DO NOT USE THIS CVE ID. Duplicate of another entry."}
+        ],
+        "metrics": {}
+      }
+    }
+  ]
+}

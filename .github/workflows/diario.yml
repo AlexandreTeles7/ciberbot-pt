@@ -1,0 +1,54 @@
+name: Resumo diário
+
+on:
+  schedule:
+    # 07:00 UTC = 07:00 no inverno e 08:00 no verão em Lisboa.
+    # O GitHub pode atrasar a execução alguns minutos.
+    - cron: "0 7 * * *"
+  workflow_dispatch:   # permite correr à mão em Actions → Resumo diário → Run workflow
+
+permissions:
+  contents: write      # para guardar o estado e o site no repositório
+
+concurrency:
+  group: ciberbot
+  cancel-in-progress: false
+
+jobs:
+  resumo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Gerar e publicar o resumo
+        run: python -m ciberbot run
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          NVD_API_KEY: ${{ secrets.NVD_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          EMAIL_DE: ${{ secrets.EMAIL_DE }}
+          EMAIL_PARA: ${{ secrets.EMAIL_PARA }}
+
+      - name: Guardar estado e site no repositório
+        if: always()
+        run: |
+          git config user.name "ciberbot"
+          git config user.email "ciberbot@users.noreply.github.com"
+          for pasta in state docs; do
+            if [ -e "$pasta" ]; then git add "$pasta"; fi
+          done
+          if ! git diff --cached --quiet; then
+            git commit -m "Resumo de $(date -u +%F)"
+            git push
+          fi

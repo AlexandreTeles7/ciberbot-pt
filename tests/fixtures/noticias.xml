@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Notícias de segurança (exemplo)</title>
+    <link>https://exemplo.test/</link>
+    <description>Dados fictícios para testes</description>
+    <item>
+      <title>ExemploCorp VPN Gateway zero-day exploited in the wild to deploy ransomware</title>
+      <link>https://exemplo.test/noticias/vpn-zero-day</link>
+      <guid>noticias-1001</guid>
+      <pubDate>Mon, 19 Oct 2026 18:00:00 +0000</pubDate>
+      <description><![CDATA[<p>Attackers are chaining <b>CVE-2026-90001</b> with stolen credentials to deploy ransomware on corporate networks. The vendor has released version 9.4.2 and urges all customers to update immediately.</p>]]></description>
+    </item>
+    <item>
+      <title>Data breach at AcmeSoft exposes records of 2 million customers</title>
+      <link>https://exemplo.test/noticias/acmesoft-breach</link>
+      <guid>noticias-1002</guid>
+      <pubDate>Tue, 20 Oct 2026 03:00:00 +0000</pubDate>
+      <description>The company confirmed that an unauthorized party accessed a customer database containing names, email addresses and hashed passwords. Notification emails are being sent to affected users.</description>
+    </item>
+    <item>
+      <title>New Android banking trojan spreads through fake update pages</title>
+      <link>https://exemplo.test/noticias/android-trojan</link>
+      <guid>noticias-1003</guid>
+      <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+      <description>Researchers describe a trojan that overlays banking apps and intercepts one-time codes. It is distributed through websites that imitate system update notices.</description>
+    </item>
+    <item>
+      <title>Weekly roundup: patches, leaks and arrests</title>
+      <link>https://exemplo.test/noticias/roundup</link>
+      <guid>noticias-1004</guid>
+      <pubDate>Mon, 19 Oct 2026 09:00:00 +0000</pubDate>
+      <description>A summary of the week's security news, including several vendor patches and two arrests linked to credential theft.</description>
+    </item>
+  </channel>
+</rss>

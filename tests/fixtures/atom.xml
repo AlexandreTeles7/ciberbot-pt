@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Blogue de segurança (exemplo)</title>
+  <link rel="self" href="https://exemplo.test/atom.xml"/>
+  <link rel="alternate" href="https://exemplo.test/"/>
+  <updated>2026-10-19T14:00:00Z</updated>
+  <id>urn:exemplo:blogue</id>
+  <entry>
+    <title>Inside a phishing kit targeting European banks</title>
+    <link rel="alternate" href="https://exemplo.test/blogue/phishing-kit"/>
+    <id>urn:exemplo:blogue:1</id>
+    <updated>2026-10-19T14:00:00Z</updated>
+    <summary type="html">&lt;p&gt;A closer look at a phishing kit that relays victims' credentials and session cookies in real time, bypassing some forms of multi-factor authentication.&lt;/p&gt;</summary>
+  </entry>
+</feed>

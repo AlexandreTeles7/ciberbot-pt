@@ -1,0 +1,38 @@
+{
+  "CVE-2026-90001: ExemploCorp VPN Gateway Remote Code Execution Vulnerability": {
+    "titulo": "CVE-2026-90001: vulnerabilidade de execução remota de código no ExemploCorp VPN Gateway",
+    "resumo": "O ExemploCorp VPN Gateway contém uma vulnerabilidade de execução remota de código que permite a um atacante não autenticado executar comandos arbitrários através de um pedido especialmente construído."
+  },
+  "CVE-2026-90002: AcmeSoft Mail Server Authentication Bypass Vulnerability": {
+    "titulo": "CVE-2026-90002: contornamento da autenticação no AcmeSoft Mail Server",
+    "resumo": "O AcmeSoft Mail Server contém uma vulnerabilidade que permite a um atacante aceder a caixas de correio sem credenciais válidas."
+  },
+  "CVE-2026-90010: A heap-based buffer overflow in the ExemploDB network service allows remote unauthenticated attackers to execute arbitrary code": {
+    "titulo": "CVE-2026-90010: falha no serviço de rede do ExemploDB permite execução remota de código",
+    "resumo": "Um excesso de memória (buffer overflow) no serviço de rede do ExemploDB permite que atacantes remotos, sem autenticação, executem código arbitrário. As versões anteriores à 4.2.1 estão afetadas."
+  },
+  "CVE-2026-90011: Improper input validation in the AcmeSoft admin console lets an authenticated user escalate privileges to administrator": {
+    "titulo": "CVE-2026-90011: validação inadequada na consola de administração do AcmeSoft permite escalada de privilégios",
+    "resumo": "A validação inadequada de dados na consola de administração do AcmeSoft permite que um utilizador autenticado obtenha privilégios de administrador. Corrigido na versão 7.1."
+  },
+  "ExemploCorp VPN Gateway zero-day exploited in the wild to deploy ransomware": {
+    "titulo": "Zero-day no ExemploCorp VPN Gateway explorado ativamente para instalar ransomware",
+    "resumo": "Os atacantes combinam a CVE-2026-90001 com credenciais roubadas para instalar ransomware em redes empresariais. O fabricante lançou a versão 9.4.2 e pede a todos os clientes que atualizem de imediato."
+  },
+  "Data breach at AcmeSoft exposes records of 2 million customers": {
+    "titulo": "Fuga de dados na AcmeSoft expõe registos de 2 milhões de clientes",
+    "resumo": "A empresa confirmou que uma entidade não autorizada acedeu a uma base de dados de clientes com nomes, endereços de email e palavras-passe protegidas por hash. Estão a ser enviadas notificações por email aos utilizadores afetados."
+  },
+  "Inside a phishing kit targeting European banks": {
+    "titulo": "Por dentro de um kit de phishing dirigido a bancos europeus",
+    "resumo": "Uma análise a um kit de phishing que reencaminha em tempo real as credenciais e os cookies de sessão das vítimas, contornando algumas formas de autenticação multifator."
+  },
+  "New Android banking trojan spreads through fake update pages": {
+    "titulo": "Novo trojan bancário para Android propaga-se através de falsas páginas de atualização",
+    "resumo": "Investigadores descrevem um trojan que se sobrepõe às aplicações bancárias e intercepta códigos de utilização única. É distribuído por sites que imitam avisos de atualização do sistema."
+  },
+  "Weekly roundup: patches, leaks and arrests": {
+    "titulo": "Resumo semanal: atualizações, fugas de informação e detenções",
+    "resumo": "Um resumo das notícias de segurança da semana, incluindo várias atualizações de fabricantes e duas detenções ligadas ao roubo de credenciais."
+  }
+}
