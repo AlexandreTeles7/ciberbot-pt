@@ -19,7 +19,7 @@ noticias = 10
 [web]
 ativo = true
 pasta = "docs"             # o GitHub Pages serve esta pasta
-url_publica = ""           # ex.: "https://o-teu-utilizador.github.io/ciberbot-pt/" (aparece nas mensagens)
+url_publica = "https://alexandreteles7.github.io/ciberbot-pt/"   # aparece nas mensagens ("Ver no site")
 
 [traducao]
 ativa = true
