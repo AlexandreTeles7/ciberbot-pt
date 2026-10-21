@@ -1,0 +1,82 @@
+{
+ "versao": 1,
+ "vistos": {
+  "1d9dfaf86dbd4e7b": "2026-10-21",
+  "360f703803c359f9": "2026-10-21",
+  "3f25203e8a3b16f0": "2026-10-21",
+  "58c11ae1ff85094d": "2026-10-21",
+  "5e5d7bd79d9a90d4": "2026-10-21",
+  "622754d280c91bdf": "2026-10-21",
+  "7af0d3a1968a6eb8": "2026-10-21",
+  "7d7f6d9840133844": "2026-10-21",
+  "db53400872d72a0d": "2026-10-21",
+  "e99fb38de9d42b5b": "2026-10-21",
+  "kev:CVE-2026-106931": "2026-10-21",
+  "kev:CVE-2026-110936": "2026-10-21",
+  "kev:CVE-2026-96654": "2026-10-21",
+  "kev:CVE-2026-96655": "2026-10-21",
+  "kev:CVE-2026-96656": "2026-10-21"
+ },
+ "titulos": {
+  "1d9dfaf86dbd4e7b": [
+   "2026-10-21",
+   "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan"
+  ],
+  "360f703803c359f9": [
+   "2026-10-21",
+   "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution"
+  ],
+  "3f25203e8a3b16f0": [
+   "2026-10-21",
+   "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion"
+  ],
+  "58c11ae1ff85094d": [
+   "2026-10-21",
+   "Stolen UpdraftCentral keys used to backdoor WordPress sites"
+  ],
+  "5e5d7bd79d9a90d4": [
+   "2026-10-21",
+   "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't"
+  ],
+  "622754d280c91bdf": [
+   "2026-10-21",
+   "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA"
+  ],
+  "7af0d3a1968a6eb8": [
+   "2026-10-21",
+   "CISA: SafePay ransomware hit over 600 critical infrastructure orgs"
+  ],
+  "7d7f6d9840133844": [
+   "2026-10-21",
+   "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws"
+  ],
+  "db53400872d72a0d": [
+   "2026-10-21",
+   "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites"
+  ],
+  "e99fb38de9d42b5b": [
+   "2026-10-21",
+   "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert"
+  ],
+  "kev:CVE-2026-106931": [
+   "2026-10-21",
+   "CVE-2026-106931: EG Secure Solutions SiteGuard Server Edition OS Command Injection Vulnerability"
+  ],
+  "kev:CVE-2026-110936": [
+   "2026-10-21",
+   "CVE-2026-110936: Siemens Software Center Uncontrolled Search Path Element Vulnerability"
+  ],
+  "kev:CVE-2026-96654": [
+   "2026-10-21",
+   "CVE-2026-96654: Plex Media Server Improper Neutralization of Encoded URI Schemes in a Web Page Vulnerability"
+  ],
+  "kev:CVE-2026-96655": [
+   "2026-10-21",
+   "CVE-2026-96655: Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability"
+  ],
+  "kev:CVE-2026-96656": [
+   "2026-10-21",
+   "CVE-2026-96656: Plex Media Server External Control of File Name or Path Vulnerability"
+  ]
+ }
+}
