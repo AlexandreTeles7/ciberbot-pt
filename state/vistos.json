@@ -1,15 +1,20 @@
 {
  "versao": 1,
  "vistos": {
+  "056dff6934f33a5f": "2026-10-26",
   "0c4cb52f67a4b751": "2026-10-23",
   "0d1dd88c3dfef7df": "2026-10-24",
+  "10b635c0c5610166": "2026-10-26",
   "10ea65771ed6ab64": "2026-10-23",
   "17badb5b86f5b831": "2026-10-22",
+  "187f0ea815623945": "2026-10-26",
   "1d9dfaf86dbd4e7b": "2026-10-21",
   "1fb3ab061dc5bf28": "2026-10-23",
   "1fc3644013f7b1e9": "2026-10-22",
   "1ff80951fd06075f": "2026-10-22",
   "223c462a3bee5d9a": "2026-10-25",
+  "25e1980b6cd9663c": "2026-10-26",
+  "26b5cde7ab423073": "2026-10-26",
   "2c129bf8a7fbc0c5": "2026-10-22",
   "2e08fa4fc3620dce": "2026-10-22",
   "360f703803c359f9": "2026-10-21",
@@ -19,6 +24,7 @@
   "4cf6d8665d7bdcac": "2026-10-24",
   "58c11ae1ff85094d": "2026-10-21",
   "594d0ea4475e799a": "2026-10-22",
+  "5b83a33e8a1a6f8f": "2026-10-26",
   "5e5d7bd79d9a90d4": "2026-10-21",
   "622754d280c91bdf": "2026-10-21",
   "647ce94048879b72": "2026-10-24",
@@ -31,6 +37,7 @@
   "8dfa4c01da706a7b": "2026-10-25",
   "97ae72ec6d5bf887": "2026-10-22",
   "9ef8e97907d2b0da": "2026-10-23",
+  "a16b2754a6c591fd": "2026-10-26",
   "b8354cf6ee2773d2": "2026-10-22",
   "b94ba5597b835da7": "2026-10-23",
   "bf34b5eb6312f9e1": "2026-10-24",
@@ -38,13 +45,16 @@
   "cf695e392515d9e9": "2026-10-22",
   "d9406a657ec1d3c5": "2026-10-23",
   "da00ff3ce8e95e36": "2026-10-22",
+  "da3d205db86b9086": "2026-10-26",
   "da5af132b6ecf517": "2026-10-24",
   "db53400872d72a0d": "2026-10-21",
   "de30d2ce6557a445": "2026-10-23",
+  "e0ae260b2730b53a": "2026-10-26",
   "e13aa3e0536d58cf": "2026-10-23",
   "e99fb38de9d42b5b": "2026-10-21",
   "ec73a23647a4a017": "2026-10-22",
   "f46872103dd8d250": "2026-10-23",
+  "fb0c164b0656aa65": "2026-10-26",
   "kev:CVE-2026-106931": "2026-10-21",
   "kev:CVE-2026-110447": "2026-10-24",
   "kev:CVE-2026-110936": "2026-10-21",
@@ -54,6 +64,10 @@
   "kev:CVE-2026-96656": "2026-10-21"
  },
  "titulos": {
+  "056dff6934f33a5f": [
+   "2026-10-26",
+   "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts"
+  ],
   "0c4cb52f67a4b751": [
    "2026-10-23",
    "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack"
@@ -62,6 +76,10 @@
    "2026-10-24",
    "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws"
   ],
+  "10b635c0c5610166": [
+   "2026-10-26",
+   "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware"
+  ],
   "10ea65771ed6ab64": [
    "2026-10-23",
    "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More"
@@ -69,6 +87,10 @@
   "17badb5b86f5b831": [
    "2026-10-22",
    "Authorities disrupt nearly 11,000 cybercrime networks in Africa"
+  ],
+  "187f0ea815623945": [
+   "2026-10-26",
+   "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs"
   ],
   "1d9dfaf86dbd4e7b": [
    "2026-10-21",
@@ -89,6 +111,14 @@
   "223c462a3bee5d9a": [
    "2026-10-25",
    "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot"
+  ],
+  "25e1980b6cd9663c": [
+   "2026-10-26",
+   "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses"
+  ],
+  "26b5cde7ab423073": [
+   "2026-10-26",
+   "Kali Linux 2026.3 released with 6 new tools, desktop updates"
   ],
   "2c129bf8a7fbc0c5": [
    "2026-10-22",
@@ -125,6 +155,10 @@
   "594d0ea4475e799a": [
    "2026-10-22",
    "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases"
+  ],
+  "5b83a33e8a1a6f8f": [
+   "2026-10-26",
+   "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers"
   ],
   "5e5d7bd79d9a90d4": [
    "2026-10-21",
@@ -174,6 +208,10 @@
    "2026-10-23",
    "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks"
   ],
+  "a16b2754a6c591fd": [
+   "2026-10-26",
+   "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations"
+  ],
   "b8354cf6ee2773d2": [
    "2026-10-22",
    "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge"
@@ -202,6 +240,10 @@
    "2026-10-22",
    "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions"
   ],
+  "da3d205db86b9086": [
+   "2026-10-26",
+   "PHP2Shell security flaws now sucessfully exploited in the wild"
+  ],
   "da5af132b6ecf517": [
    "2026-10-24",
    "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software"
@@ -213,6 +255,10 @@
   "de30d2ce6557a445": [
    "2026-10-23",
    "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes"
+  ],
+  "e0ae260b2730b53a": [
+   "2026-10-26",
+   "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes"
   ],
   "e13aa3e0536d58cf": [
    "2026-10-23",
@@ -229,6 +275,10 @@
   "f46872103dd8d250": [
    "2026-10-23",
    "Machine speed attacks require machine speed detection and response"
+  ],
+  "fb0c164b0656aa65": [
+   "2026-10-26",
+   "Chinese man extradited for role in $36 million cryptocurrency scam"
   ],
   "kev:CVE-2026-106931": [
    "2026-10-21",
