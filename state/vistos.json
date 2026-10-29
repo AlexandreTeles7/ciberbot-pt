@@ -16,15 +16,18 @@
   "1ff80951fd06075f": "2026-10-22",
   "223c462a3bee5d9a": "2026-10-25",
   "2317a10c8ae199b9": "2026-10-28",
+  "247e49d809980bd7": "2026-10-29",
   "25e1980b6cd9663c": "2026-10-26",
   "26b5cde7ab423073": "2026-10-26",
   "2a000ff73bb6f7ac": "2026-10-27",
   "2c129bf8a7fbc0c5": "2026-10-22",
   "2c614b999eb78eb4": "2026-10-27",
   "2e08fa4fc3620dce": "2026-10-22",
+  "30dfb98cd1b9df64": "2026-10-29",
   "33a9096f1329449b": "2026-10-27",
   "360f703803c359f9": "2026-10-21",
   "3b11f73a0131f915": "2026-10-28",
+  "3cff7520904e9c06": "2026-10-29",
   "3f25203e8a3b16f0": "2026-10-21",
   "48f4a4fb8ae4d85c": "2026-10-24",
   "4a36dea4db8df076": "2026-10-27",
@@ -38,13 +41,17 @@
   "622754d280c91bdf": "2026-10-21",
   "647ce94048879b72": "2026-10-24",
   "7153257bd2ee8aa9": "2026-10-24",
+  "72f0ec645c06997c": "2026-10-29",
   "73ff89d9e54d94e9": "2026-10-24",
   "7a185c8dd28887ab": "2026-10-28",
   "7af0d3a1968a6eb8": "2026-10-21",
   "7d7f6d9840133844": "2026-10-21",
   "7dd1bd8a2d9aeb5b": "2026-10-24",
   "7ff8a46d80fca6af": "2026-10-28",
+  "8312b7e4bcf8250d": "2026-10-29",
   "84c33bee635a4d3c": "2026-10-22",
+  "86fc80d7d9005f72": "2026-10-29",
+  "8c6e20208c035ba2": "2026-10-29",
   "8dfa4c01da706a7b": "2026-10-25",
   "97ae72ec6d5bf887": "2026-10-22",
   "9c7dbd668911c763": "2026-10-27",
@@ -58,6 +65,7 @@
   "bd0fe0e079e67b7a": "2026-10-28",
   "bf34b5eb6312f9e1": "2026-10-24",
   "c448be233b4677e5": "2026-10-24",
+  "c5120161a306d6fc": "2026-10-29",
   "cf695e392515d9e9": "2026-10-22",
   "d9406a657ec1d3c5": "2026-10-23",
   "da00ff3ce8e95e36": "2026-10-22",
@@ -67,6 +75,7 @@
   "dbd63f3f484e39d8": "2026-10-27",
   "de30d2ce6557a445": "2026-10-23",
   "e0ae260b2730b53a": "2026-10-26",
+  "e0f0bac86d45ea83": "2026-10-29",
   "e13aa3e0536d58cf": "2026-10-23",
   "e2f4209aab878930": "2026-10-28",
   "e3c586ca8891fcfe": "2026-10-28",
@@ -74,6 +83,7 @@
   "e99fb38de9d42b5b": "2026-10-21",
   "ec73a23647a4a017": "2026-10-22",
   "f46872103dd8d250": "2026-10-23",
+  "fa6478a9df14d955": "2026-10-29",
   "fb0c164b0656aa65": "2026-10-26",
   "kev:CVE-2026-106931": "2026-10-21",
   "kev:CVE-2026-109618": "2026-10-27",
@@ -82,6 +92,8 @@
   "kev:CVE-2026-110936": "2026-10-21",
   "kev:CVE-2026-111497": "2026-10-28",
   "kev:CVE-2026-114625": "2026-10-24",
+  "kev:CVE-2026-41709": "2026-10-29",
+  "kev:CVE-2026-46300": "2026-10-29",
   "kev:CVE-2026-48356": "2026-10-28",
   "kev:CVE-2026-96654": "2026-10-21",
   "kev:CVE-2026-96655": "2026-10-21",
@@ -124,10 +136,6 @@
    "2026-10-26",
    "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs"
   ],
-  "1d9dfaf86dbd4e7b": [
-   "2026-10-21",
-   "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan"
-  ],
   "1fb3ab061dc5bf28": [
    "2026-10-23",
    "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image"
@@ -147,6 +155,10 @@
   "2317a10c8ae199b9": [
    "2026-10-28",
    "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges"
+  ],
+  "247e49d809980bd7": [
+   "2026-10-29",
+   "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns"
   ],
   "25e1980b6cd9663c": [
    "2026-10-26",
@@ -172,21 +184,21 @@
    "2026-10-22",
    "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release"
   ],
+  "30dfb98cd1b9df64": [
+   "2026-10-29",
+   "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility"
+  ],
   "33a9096f1329449b": [
    "2026-10-27",
    "Energy giant ENGIE discloses data breach affecting customers"
-  ],
-  "360f703803c359f9": [
-   "2026-10-21",
-   "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution"
   ],
   "3b11f73a0131f915": [
    "2026-10-28",
    "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits"
   ],
-  "3f25203e8a3b16f0": [
-   "2026-10-21",
-   "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion"
+  "3cff7520904e9c06": [
+   "2026-10-29",
+   "Volt Typhoon hides zero-day attacks using 'Silent Train' framework"
   ],
   "48f4a4fb8ae4d85c": [
    "2026-10-24",
@@ -208,10 +220,6 @@
    "2026-10-28",
    "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass"
   ],
-  "58c11ae1ff85094d": [
-   "2026-10-21",
-   "Stolen UpdraftCentral keys used to backdoor WordPress sites"
-  ],
   "594d0ea4475e799a": [
    "2026-10-22",
    "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases"
@@ -219,14 +227,6 @@
   "5b83a33e8a1a6f8f": [
    "2026-10-26",
    "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers"
-  ],
-  "5e5d7bd79d9a90d4": [
-   "2026-10-21",
-   "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't"
-  ],
-  "622754d280c91bdf": [
-   "2026-10-21",
-   "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA"
   ],
   "647ce94048879b72": [
    "2026-10-24",
@@ -236,6 +236,10 @@
    "2026-10-24",
    "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions"
   ],
+  "72f0ec645c06997c": [
+   "2026-10-29",
+   "Webinar: How to Build AI Threat Readiness Into Your Security Operations"
+  ],
   "73ff89d9e54d94e9": [
    "2026-10-24",
    "PHP shares mitigation for new RCE vulnerability with no patch"
@@ -243,14 +247,6 @@
   "7a185c8dd28887ab": [
    "2026-10-28",
    "Japan's GMO urges customers to shut down PCs amid ransomware threat"
-  ],
-  "7af0d3a1968a6eb8": [
-   "2026-10-21",
-   "CISA: SafePay ransomware hit over 600 critical infrastructure orgs"
-  ],
-  "7d7f6d9840133844": [
-   "2026-10-21",
-   "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws"
   ],
   "7dd1bd8a2d9aeb5b": [
    "2026-10-24",
@@ -260,9 +256,21 @@
    "2026-10-28",
    "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws"
   ],
+  "8312b7e4bcf8250d": [
+   "2026-10-29",
+   "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys"
+  ],
   "84c33bee635a4d3c": [
    "2026-10-22",
    "Alerta de Vulnerabilidade - Fortinet FortiSIEM"
+  ],
+  "86fc80d7d9005f72": [
+   "2026-10-29",
+   "Sony ISP subsidiary data breach exposes 2.5 million customer records"
+  ],
+  "8c6e20208c035ba2": [
+   "2026-10-29",
+   "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls"
   ],
   "8dfa4c01da706a7b": [
    "2026-10-25",
@@ -316,6 +324,10 @@
    "2026-10-24",
    "Quest Diagnostics confirms data breach exposed patient records"
   ],
+  "c5120161a306d6fc": [
+   "2026-10-29",
+   "Windows 11 KB5127936 update released with 41 changes and fixes"
+  ],
   "cf695e392515d9e9": [
    "2026-10-22",
    "Widespread PHP Flaw May Cause Many Site Outages Today"
@@ -336,10 +348,6 @@
    "2026-10-24",
    "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software"
   ],
-  "db53400872d72a0d": [
-   "2026-10-21",
-   "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites"
-  ],
   "dbd63f3f484e39d8": [
    "2026-10-27",
    "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More"
@@ -351,6 +359,10 @@
   "e0ae260b2730b53a": [
    "2026-10-26",
    "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes"
+  ],
+  "e0f0bac86d45ea83": [
+   "2026-10-29",
+   "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open"
   ],
   "e13aa3e0536d58cf": [
    "2026-10-23",
@@ -368,10 +380,6 @@
    "2026-10-28",
    "UNM Health ransomware attack disrupts patient care, surgeries"
   ],
-  "e99fb38de9d42b5b": [
-   "2026-10-21",
-   "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert"
-  ],
   "ec73a23647a4a017": [
    "2026-10-22",
    "PHP ships emergency patches for critical PHP2Shell flaws"
@@ -380,13 +388,13 @@
    "2026-10-23",
    "Machine speed attacks require machine speed detection and response"
   ],
+  "fa6478a9df14d955": [
+   "2026-10-29",
+   "New Cisco firewall zero-day exploited to crash SSL VPN devices"
+  ],
   "fb0c164b0656aa65": [
    "2026-10-26",
    "Chinese man extradited for role in $36 million cryptocurrency scam"
-  ],
-  "kev:CVE-2026-106931": [
-   "2026-10-21",
-   "CVE-2026-106931: EG Secure Solutions SiteGuard Server Edition OS Command Injection Vulnerability"
   ],
   "kev:CVE-2026-109618": [
    "2026-10-27",
@@ -400,10 +408,6 @@
    "2026-10-24",
    "CVE-2026-110447: Collabora Online – Built-in CODE Server OS Command Injection Vulnerability"
   ],
-  "kev:CVE-2026-110936": [
-   "2026-10-21",
-   "CVE-2026-110936: Siemens Software Center Uncontrolled Search Path Element Vulnerability"
-  ],
   "kev:CVE-2026-111497": [
    "2026-10-28",
    "CVE-2026-111497: Google Brotli Unchecked Return Value Vulnerability"
@@ -412,21 +416,17 @@
    "2026-10-24",
    "CVE-2026-114625: Arista VeloCloud Orchestrator SQL Injection Vulnerability"
   ],
+  "kev:CVE-2026-41709": [
+   "2026-10-29",
+   "CVE-2026-41709: Broadcom VMWare ESX Insufficient Logging Vulnerability"
+  ],
+  "kev:CVE-2026-46300": [
+   "2026-10-29",
+   "CVE-2026-46300: Linux Kernel Missing Initialization of a Variable Vulnerability"
+  ],
   "kev:CVE-2026-48356": [
    "2026-10-28",
    "CVE-2026-48356: Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability"
-  ],
-  "kev:CVE-2026-96654": [
-   "2026-10-21",
-   "CVE-2026-96654: Plex Media Server Improper Neutralization of Encoded URI Schemes in a Web Page Vulnerability"
-  ],
-  "kev:CVE-2026-96655": [
-   "2026-10-21",
-   "CVE-2026-96655: Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability"
-  ],
-  "kev:CVE-2026-96656": [
-   "2026-10-21",
-   "CVE-2026-96656: Plex Media Server External Control of File Name or Path Vulnerability"
   ]
  }
 }

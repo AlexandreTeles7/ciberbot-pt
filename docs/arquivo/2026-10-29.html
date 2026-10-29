@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="pt-PT">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CiberBot PT — Resumo diário de cibersegurança — 29 de outubro de 2026</title>
+<meta name="description" content="Resumo diário de cibersegurança em português de Portugal: ataques, vulnerabilidades e alertas.">
+<style>
+:root{--fundo:#f6f7f9;--cartao:#fff;--texto:#16191d;--suave:#5b6472;--linha:#e3e6ea;--link:#0b5fd6;--chip:#eef1f5;
+--s-portugal:#1f8a4c;--s-exploradas:#d6322f;--s-criticas:#e07a12;--s-noticias:#3a6fd8;--s-outra:#6b7280}
+@media (prefers-color-scheme:dark){:root{--fundo:#0f1216;--cartao:#171b21;--texto:#e8eaed;--suave:#9aa3af;
+--linha:#262c34;--link:#7db4ff;--chip:#222831;--s-portugal:#4cc17f;--s-exploradas:#ff6b66;--s-criticas:#ffa04a;
+--s-noticias:#7aa2ff;--s-outra:#9aa3af}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--fundo);color:var(--texto);font:16px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+a{color:var(--link)}
+.caixa{max-width:760px;margin:0 auto;padding:0 16px}
+.topo{padding:28px 0 4px}
+.marca{margin:0;color:var(--suave);font-size:.8rem;letter-spacing:.06em;text-transform:uppercase}
+h1{margin:.25em 0 .15em;font-size:1.7rem;line-height:1.2}
+.data{margin:0;color:var(--suave)}
+h2{font-size:1.1rem;margin:2em 0 .7em}
+.cartao{background:var(--cartao);border:1px solid var(--linha);border-left:4px solid var(--cor);
+border-radius:10px;padding:13px 16px;margin:0 0 12px}
+.s-portugal{--cor:var(--s-portugal)}.s-exploradas{--cor:var(--s-exploradas)}
+.s-criticas{--cor:var(--s-criticas)}.s-noticias{--cor:var(--s-noticias)}.s-outra{--cor:var(--s-outra)}
+.cartao h3{margin:0 0 .3em;font-size:1.02rem;line-height:1.35}
+.cartao h3 a{color:inherit;text-decoration:none}.cartao h3 a:hover{text-decoration:underline}
+.cartao p{margin:.3em 0}
+.meta{color:var(--suave);font-size:.85rem}
+.chip{display:inline-block;background:var(--chip);border-radius:999px;padding:1px 9px;margin:3px 4px 0 0;font-size:.78rem}
+.nota{background:var(--chip);border-radius:10px;padding:10px 14px;font-size:.9rem;color:var(--suave)}
+.arquivo ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:6px 14px}
+.rodape{color:var(--suave);font-size:.82rem;padding:28px 16px 44px}
+</style>
+</head>
+<body>
+<header class="topo caixa">
+<p class="marca">CiberBot PT</p>
+<h1>CiberBot PT — Resumo diário de cibersegurança</h1>
+<p class="data">29 de outubro de 2026 · 12 destaques</p>
+</header>
+<main class="caixa">
+<section><h2>🔴 Vulnerabilidades exploradas ativamente</h2>
+<article class="cartao s-exploradas"><h3><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-41709" rel="noopener noreferrer">CVE-2026-41709: Broadcom VMWare ESX Insufficient Logging Vulnerability</a></h3><p>Broadcom VMWare ESX contains an insufficient logging vulnerability that could allow a malicious actor with admin access to perform certain operations without being logged.</p><p class="meta">CISA — Vulnerabilidades exploradas (KEV) · 28/10</p><span class="chip">Explorada ativamente</span><span class="chip">Prazo CISA: 11/11/2026</span><span class="chip">Em inglês</span></article>
+<article class="cartao s-exploradas"><h3><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-46300" rel="noopener noreferrer">CVE-2026-46300: Linux Kernel Missing Initialization of a Variable Vulnerability</a></h3><p>Linux Kernel contains a missing initialization of a variable vulnerability that could allow for unintended modification of page-cache-backed data via failure to preserve the shared-fragment marker during socket buffer coalescing, causing ESP input processing to decrypt shared fragments in place. This vulnerability can be chained with CVE-2026-109618 and CVE-2026-109619 to implant PHP webshells and run commands as root.</p><p class="meta">CISA — Vulnerabilidades exploradas (KEV) · 28/10</p><span class="chip">Explorada ativamente</span><span class="chip">Prazo CISA: 31/10/2026</span><span class="chip">Em inglês</span></article></section>
+<section><h2>📰 Ataques e notícias</h2>
+<article class="cartao s-noticias"><h3><a href="https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html" rel="noopener noreferrer">Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls</a></h3><p>Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-76418, is rated 8.6 on the CVSS scoring system. Successful exploitation could allow an unauthenticated, remote attacker to cause the</p><p class="meta">The Hacker News · 29/10</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html" rel="noopener noreferrer">China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility</a></h3><p>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that it had been weaponized by a China-nexus threat actor known as Warp Panda in attacks targeting the U.S. legal sector. The vulnerability in question is CVE-2026-41709 (CVSS score:</p><p class="meta">The Hacker News · 29/10</p><span class="chip">Na lista KEV da CISA</span><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/" rel="noopener noreferrer">New Cisco firewall zero-day exploited to crash SSL VPN devices</a></h3><p>Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall devices. [...]</p><p class="meta">BleepingComputer · 29/10</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html" rel="noopener noreferrer">Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns</a></h3><p>The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put to use for zero-day exploitation and strategic access. "First identified in late 2023, Silent Train uses rotating chains of compromised SOHO, IoT, and enterprise infrastructure," Lumen Technologies Black Lotus Labs said in a report shared</p><p class="meta">The Hacker News · 28/10</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/" rel="noopener noreferrer">Volt Typhoon hides zero-day attacks using 'Silent Train' framework</a></h3><p>Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-value systems. [...]</p><p class="meta">BleepingComputer · 28/10</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html" rel="noopener noreferrer">Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open</a></h3><p>An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab released a fix, Alpine Linux said on 28 October. The flaw, CVE-2026-97229 (CVSS score: 10.0), can let an attacker run code on a GitLab server through a crafted regular expression in a CI configuration. Alpine found no evidence that the attack worked but</p><p class="meta">The Hacker News · 29/10</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html" rel="noopener noreferrer">Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys</a></h3><p>Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network. The malware, called KeyDrift, is designed to copy the keys that encrypt traffic between sites and store them for later use, Cisco Talos said on October 28. Talos calls the attacks historical but does not specify when they</p><p class="meta">The Hacker News · 29/10</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/" rel="noopener noreferrer">Sony ISP subsidiary data breach exposes 2.5 million customer records</a></h3><p>Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]</p><p class="meta">BleepingComputer · 28/10</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/" rel="noopener noreferrer">Windows 11 KB5127936 update released with 41 changes and fixes</a></h3><p>Microsoft released the KB5127936 preview cumulative update for Windows 11 versions 25H2 and 26H2, with 41 changes, including File Explorer and Cloud rebuild improvements. [...]</p><p class="meta">BleepingComputer · 29/10</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html" rel="noopener noreferrer">Webinar: How to Build AI Threat Readiness Into Your Security Operations</a></h3><p>Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers discover vulnerabilities, generate exploit code, and move through weaknesses faster than traditional security processes were built to handle. The challenge is no longer just finding another vulnerability or</p><p class="meta">The Hacker News · 29/10</p><span class="chip">Em inglês</span></article></section>
+<p class="nota">Notas desta edição:</p><ul class="nota"><li>Fonte «NVD — CVE críticos» indisponível: services.nvd.nist.gov: HTTP 403</li><li>Sem ANTHROPIC_API_KEY: os itens em inglês ficam sem tradução.</li></ul>
+<p><a href="../index.html">← Edição mais recente</a></p>
+</main>
+<footer class="rodape caixa">
+Gerado automaticamente em 29/10/2026 às 13:59. Traduzido automaticamente para português de Portugal. Confirme sempre os detalhes na fonte original.
+</footer>
+</body>
+</html>
