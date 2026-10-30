@@ -2,12 +2,15 @@
  "versao": 1,
  "vistos": {
   "0131084012e5632c": "2026-10-27",
+  "05324fe81587751b": "2026-10-30",
   "056dff6934f33a5f": "2026-10-26",
   "0778766d81ebd40a": "2026-10-28",
   "0c4cb52f67a4b751": "2026-10-23",
   "0d1dd88c3dfef7df": "2026-10-24",
   "10b635c0c5610166": "2026-10-26",
   "10ea65771ed6ab64": "2026-10-23",
+  "11e2d419eed360ba": "2026-10-30",
+  "147e205edeec7f3b": "2026-10-30",
   "17badb5b86f5b831": "2026-10-22",
   "187f0ea815623945": "2026-10-26",
   "1d9dfaf86dbd4e7b": "2026-10-21",
@@ -24,6 +27,7 @@
   "2c614b999eb78eb4": "2026-10-27",
   "2e08fa4fc3620dce": "2026-10-22",
   "30dfb98cd1b9df64": "2026-10-29",
+  "322cd6145e6d248e": "2026-10-30",
   "33a9096f1329449b": "2026-10-27",
   "360f703803c359f9": "2026-10-21",
   "3b11f73a0131f915": "2026-10-28",
@@ -47,16 +51,20 @@
   "7af0d3a1968a6eb8": "2026-10-21",
   "7d7f6d9840133844": "2026-10-21",
   "7dd1bd8a2d9aeb5b": "2026-10-24",
+  "7e4a62a39299b0f2": "2026-10-30",
   "7ff8a46d80fca6af": "2026-10-28",
   "8312b7e4bcf8250d": "2026-10-29",
   "84c33bee635a4d3c": "2026-10-22",
   "86fc80d7d9005f72": "2026-10-29",
   "8c6e20208c035ba2": "2026-10-29",
   "8dfa4c01da706a7b": "2026-10-25",
+  "931d1d1fb61725d1": "2026-10-30",
   "97ae72ec6d5bf887": "2026-10-22",
   "9c7dbd668911c763": "2026-10-27",
+  "9ede2fbb7007f983": "2026-10-30",
   "9ef8e97907d2b0da": "2026-10-23",
   "a16b2754a6c591fd": "2026-10-26",
+  "ad4ab055d32c0e10": "2026-10-30",
   "af97a1baa7e30536": "2026-10-27",
   "b18cc5e9f3ba64ec": "2026-10-27",
   "b82fb8aafed9023c": "2026-10-27",
@@ -66,7 +74,9 @@
   "bf34b5eb6312f9e1": "2026-10-24",
   "c448be233b4677e5": "2026-10-24",
   "c5120161a306d6fc": "2026-10-29",
+  "ccf3e44e7f67cd8e": "2026-10-30",
   "cf695e392515d9e9": "2026-10-22",
+  "d7d0b1ca37bb0612": "2026-10-30",
   "d9406a657ec1d3c5": "2026-10-23",
   "da00ff3ce8e95e36": "2026-10-22",
   "da3d205db86b9086": "2026-10-26",
@@ -95,14 +105,20 @@
   "kev:CVE-2026-41709": "2026-10-29",
   "kev:CVE-2026-46300": "2026-10-29",
   "kev:CVE-2026-48356": "2026-10-28",
+  "kev:CVE-2026-76418": "2026-10-30",
   "kev:CVE-2026-96654": "2026-10-21",
   "kev:CVE-2026-96655": "2026-10-21",
-  "kev:CVE-2026-96656": "2026-10-21"
+  "kev:CVE-2026-96656": "2026-10-21",
+  "kev:CVE-2026-97229": "2026-10-30"
  },
  "titulos": {
   "0131084012e5632c": [
    "2026-10-27",
    "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution"
+  ],
+  "05324fe81587751b": [
+   "2026-10-30",
+   "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV"
   ],
   "056dff6934f33a5f": [
    "2026-10-26",
@@ -128,9 +144,13 @@
    "2026-10-23",
    "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More"
   ],
-  "17badb5b86f5b831": [
-   "2026-10-22",
-   "Authorities disrupt nearly 11,000 cybercrime networks in Africa"
+  "11e2d419eed360ba": [
+   "2026-10-30",
+   "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis"
+  ],
+  "147e205edeec7f3b": [
+   "2026-10-30",
+   "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor"
   ],
   "187f0ea815623945": [
    "2026-10-26",
@@ -139,14 +159,6 @@
   "1fb3ab061dc5bf28": [
    "2026-10-23",
    "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image"
-  ],
-  "1fc3644013f7b1e9": [
-   "2026-10-22",
-   "GitLab warns of new max severity code execution vulnerability"
-  ],
-  "1ff80951fd06075f": [
-   "2026-10-22",
-   "Alerta de Vulnerabilidade - PHP"
   ],
   "223c462a3bee5d9a": [
    "2026-10-25",
@@ -172,21 +184,17 @@
    "2026-10-27",
    "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware"
   ],
-  "2c129bf8a7fbc0c5": [
-   "2026-10-22",
-   "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor"
-  ],
   "2c614b999eb78eb4": [
    "2026-10-27",
    "Microsoft releases emergency .NET patches for critical Brotli flaw"
   ],
-  "2e08fa4fc3620dce": [
-   "2026-10-22",
-   "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release"
-  ],
   "30dfb98cd1b9df64": [
    "2026-10-29",
    "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility"
+  ],
+  "322cd6145e6d248e": [
+   "2026-10-30",
+   "Microsoft finally fixes VPN issues caused by September updates"
   ],
   "33a9096f1329449b": [
    "2026-10-27",
@@ -220,10 +228,6 @@
    "2026-10-28",
    "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass"
   ],
-  "594d0ea4475e799a": [
-   "2026-10-22",
-   "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases"
-  ],
   "5b83a33e8a1a6f8f": [
    "2026-10-26",
    "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers"
@@ -252,6 +256,10 @@
    "2026-10-24",
    "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline"
   ],
+  "7e4a62a39299b0f2": [
+   "2026-10-30",
+   "CISA says max severity GitLab flaw now exploited in the wild"
+  ],
   "7ff8a46d80fca6af": [
    "2026-10-28",
    "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws"
@@ -259,10 +267,6 @@
   "8312b7e4bcf8250d": [
    "2026-10-29",
    "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys"
-  ],
-  "84c33bee635a4d3c": [
-   "2026-10-22",
-   "Alerta de Vulnerabilidade - Fortinet FortiSIEM"
   ],
   "86fc80d7d9005f72": [
    "2026-10-29",
@@ -276,13 +280,17 @@
    "2026-10-25",
    "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication"
   ],
-  "97ae72ec6d5bf887": [
-   "2026-10-22",
-   "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack"
+  "931d1d1fb61725d1": [
+   "2026-10-30",
+   "Japan Airlines suffers third-party data breach exposing passenger info"
   ],
   "9c7dbd668911c763": [
    "2026-10-27",
    "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches"
+  ],
+  "9ede2fbb7007f983": [
+   "2026-10-30",
+   "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories"
   ],
   "9ef8e97907d2b0da": [
    "2026-10-23",
@@ -291,6 +299,10 @@
   "a16b2754a6c591fd": [
    "2026-10-26",
    "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations"
+  ],
+  "ad4ab055d32c0e10": [
+   "2026-10-30",
+   "Drupal warns of critical Commerce Core flaw exploited in attacks"
   ],
   "af97a1baa7e30536": [
    "2026-10-27",
@@ -303,10 +315,6 @@
   "b82fb8aafed9023c": [
    "2026-10-27",
    "AI-Generated Fake Login Pages Are Making Account Takeovers Easier"
-  ],
-  "b8354cf6ee2773d2": [
-   "2026-10-22",
-   "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge"
   ],
   "b94ba5597b835da7": [
    "2026-10-23",
@@ -328,17 +336,17 @@
    "2026-10-29",
    "Windows 11 KB5127936 update released with 41 changes and fixes"
   ],
-  "cf695e392515d9e9": [
-   "2026-10-22",
-   "Widespread PHP Flaw May Cause Many Site Outages Today"
+  "ccf3e44e7f67cd8e": [
+   "2026-10-30",
+   "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving"
+  ],
+  "d7d0b1ca37bb0612": [
+   "2026-10-30",
+   "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw"
   ],
   "d9406a657ec1d3c5": [
    "2026-10-23",
    "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances"
-  ],
-  "da00ff3ce8e95e36": [
-   "2026-10-22",
-   "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions"
   ],
   "da3d205db86b9086": [
    "2026-10-26",
@@ -379,10 +387,6 @@
   "e8c9ad44f915c99d": [
    "2026-10-28",
    "UNM Health ransomware attack disrupts patient care, surgeries"
-  ],
-  "ec73a23647a4a017": [
-   "2026-10-22",
-   "PHP ships emergency patches for critical PHP2Shell flaws"
   ],
   "f46872103dd8d250": [
    "2026-10-23",
@@ -427,6 +431,14 @@
   "kev:CVE-2026-48356": [
    "2026-10-28",
    "CVE-2026-48356: Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability"
+  ],
+  "kev:CVE-2026-76418": [
+   "2026-10-30",
+   "CVE-2026-76418: Cisco Secure Firewall ASA Software and Cisco Secure FTD Software Unchecked Return Value to NULL Pointer Dereference Vulnerability"
+  ],
+  "kev:CVE-2026-97229": [
+   "2026-10-30",
+   "CVE-2026-97229: GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound Vulnerability"
   ]
  }
 }
