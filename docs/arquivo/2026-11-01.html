@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="pt-PT">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CiberBot PT — Resumo diário de cibersegurança — 1 de novembro de 2026</title>
+<meta name="description" content="Resumo diário de cibersegurança em português de Portugal: ataques, vulnerabilidades e alertas.">
+<style>
+:root{--fundo:#f6f7f9;--cartao:#fff;--texto:#16191d;--suave:#5b6472;--linha:#e3e6ea;--link:#0b5fd6;--chip:#eef1f5;
+--s-portugal:#1f8a4c;--s-exploradas:#d6322f;--s-criticas:#e07a12;--s-noticias:#3a6fd8;--s-outra:#6b7280}
+@media (prefers-color-scheme:dark){:root{--fundo:#0f1216;--cartao:#171b21;--texto:#e8eaed;--suave:#9aa3af;
+--linha:#262c34;--link:#7db4ff;--chip:#222831;--s-portugal:#4cc17f;--s-exploradas:#ff6b66;--s-criticas:#ffa04a;
+--s-noticias:#7aa2ff;--s-outra:#9aa3af}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--fundo);color:var(--texto);font:16px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+a{color:var(--link)}
+.caixa{max-width:760px;margin:0 auto;padding:0 16px}
+.topo{padding:28px 0 4px}
+.marca{margin:0;color:var(--suave);font-size:.8rem;letter-spacing:.06em;text-transform:uppercase}
+h1{margin:.25em 0 .15em;font-size:1.7rem;line-height:1.2}
+.data{margin:0;color:var(--suave)}
+h2{font-size:1.1rem;margin:2em 0 .7em}
+.cartao{background:var(--cartao);border:1px solid var(--linha);border-left:4px solid var(--cor);
+border-radius:10px;padding:13px 16px;margin:0 0 12px}
+.s-portugal{--cor:var(--s-portugal)}.s-exploradas{--cor:var(--s-exploradas)}
+.s-criticas{--cor:var(--s-criticas)}.s-noticias{--cor:var(--s-noticias)}.s-outra{--cor:var(--s-outra)}
+.cartao h3{margin:0 0 .3em;font-size:1.02rem;line-height:1.35}
+.cartao h3 a{color:inherit;text-decoration:none}.cartao h3 a:hover{text-decoration:underline}
+.cartao p{margin:.3em 0}
+.meta{color:var(--suave);font-size:.85rem}
+.chip{display:inline-block;background:var(--chip);border-radius:999px;padding:1px 9px;margin:3px 4px 0 0;font-size:.78rem}
+.nota{background:var(--chip);border-radius:10px;padding:10px 14px;font-size:.9rem;color:var(--suave)}
+.arquivo ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:6px 14px}
+.rodape{color:var(--suave);font-size:.82rem;padding:28px 16px 44px}
+</style>
+</head>
+<body>
+<header class="topo caixa">
+<p class="marca">CiberBot PT</p>
+<h1>CiberBot PT — Resumo diário de cibersegurança</h1>
+<p class="data">1 de novembro de 2026 · 8 destaques</p>
+</header>
+<main class="caixa">
+<section><h2>📰 Ataques e notícias</h2>
+<article class="cartao s-noticias"><h3><a href="https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html" rel="noopener noreferrer">CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key</a></h3><p>A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have the trusted client's public certificate. Once in, the attacker would act as that client, with access to the cluster and its virtual machines. If the impersonated account is</p><p class="meta">The Hacker News · 01/11</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/" rel="noopener noreferrer">OpenAI says it's doubling Pro usage limits and bringing Work features to Chat</a></h3><p>OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]</p><p class="meta">BleepingComputer · 01/11</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html" rel="noopener noreferrer">Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script</a></h3><p>Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded from an outside company. Polymarket says it is refunding about $2.7 million to 726 affected wallets. Blockchain records show crypto worth about $2.64 million reached</p><p class="meta">The Hacker News · 01/11</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html" rel="noopener noreferrer">FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist</a></h3><p>The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and UNC4899. The FBI, along with the U.S. Secret Service (USSS) and the Internal Revenue Service Criminal Investigation (IRS-CI), said it</p><p class="meta">The Hacker News · 01/11</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://thehackernews.com/2026/11/netamloader-malware-targets-government.html" rel="noopener noreferrer">NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection</a></h3><p>Cybersecurity researchers have disclosed details of what has been described as a "highly sophisticated infection chain" targeting government organizations in Asia. The activity, detailed by Kaspersky this week, targeted a custom Windows 10 build used exclusively by government entities in Asia and involves the deployment of a previously undocumented .NET assembly-loading framework codenamed</p><p class="meta">The Hacker News · 01/11</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/" rel="noopener noreferrer">Northflank security breach leads to abuse of customers' AI API keys</a></h3><p>Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]</p><p class="meta">BleepingComputer · 31/10</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/" rel="noopener noreferrer">New Android SMS of Death exploit can remotely crash unpatched phones</a></h3><p>A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed "SMS of Death" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message. [...]</p><p class="meta">BleepingComputer · 31/10</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/" rel="noopener noreferrer">Reddit to lock content behind logins to fight scrapers</a></h3><p>Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a "logged-in service," offering limited access to visitors without accounts. [...]</p><p class="meta">BleepingComputer · 31/10</p><span class="chip">Em inglês</span></article></section>
+<p class="nota">Notas desta edição:</p><ul class="nota"><li>Fonte «NVD — CVE críticos» indisponível: services.nvd.nist.gov: HTTP 403</li><li>Sem ANTHROPIC_API_KEY: os itens em inglês ficam sem tradução.</li></ul>
+<p><a href="../index.html">← Edição mais recente</a></p>
+</main>
+<footer class="rodape caixa">
+Gerado automaticamente em 01/11/2026 às 14:07. Traduzido automaticamente para português de Portugal. Confirme sempre os detalhes na fonte original.
+</footer>
+</body>
+</html>
