@@ -4,6 +4,7 @@
   "0131084012e5632c": "2026-10-27",
   "04057c8d489e0045": "2026-11-02",
   "05324fe81587751b": "2026-10-30",
+  "0539d07ef28f9ef3": "2026-11-03",
   "056dff6934f33a5f": "2026-10-26",
   "0778766d81ebd40a": "2026-10-28",
   "0c4cb52f67a4b751": "2026-10-23",
@@ -26,6 +27,7 @@
   "247e49d809980bd7": "2026-10-29",
   "25e1980b6cd9663c": "2026-10-26",
   "26b5cde7ab423073": "2026-10-26",
+  "291bdcc83b6af9d7": "2026-11-03",
   "2a000ff73bb6f7ac": "2026-10-27",
   "2b83e3830b432881": "2026-11-01",
   "2c129bf8a7fbc0c5": "2026-10-22",
@@ -51,6 +53,7 @@
   "4cf6d8665d7bdcac": "2026-10-24",
   "4e197ce9171682ba": "2026-11-02",
   "5060525796dadc15": "2026-10-28",
+  "531efb27f6159372": "2026-11-03",
   "58c11ae1ff85094d": "2026-10-21",
   "594d0ea4475e799a": "2026-10-22",
   "5b83a33e8a1a6f8f": "2026-10-26",
@@ -78,8 +81,10 @@
   "8c6a3be34f9e6140": "2026-11-02",
   "8c6e20208c035ba2": "2026-10-29",
   "8dfa4c01da706a7b": "2026-10-25",
+  "923a6f68d1dc2a26": "2026-11-03",
   "931d1d1fb61725d1": "2026-10-30",
   "97ae72ec6d5bf887": "2026-10-22",
+  "983ab8b5d4b16718": "2026-11-03",
   "9a9c7ae127735754": "2026-11-01",
   "9bb9f09dc3ac9075": "2026-11-01",
   "9c7dbd668911c763": "2026-10-27",
@@ -87,7 +92,9 @@
   "9ef8e97907d2b0da": "2026-10-23",
   "a16b2754a6c591fd": "2026-10-26",
   "a212e990851bb9aa": "2026-10-31",
+  "aa00a83e706f1432": "2026-11-03",
   "ad4ab055d32c0e10": "2026-10-30",
+  "adc722ef6f8bb031": "2026-11-03",
   "af97a1baa7e30536": "2026-10-27",
   "b18cc5e9f3ba64ec": "2026-10-27",
   "b65441b6fb2b5a93": "2026-11-01",
@@ -95,10 +102,12 @@
   "b8354cf6ee2773d2": "2026-10-22",
   "b94ba5597b835da7": "2026-10-23",
   "bd0fe0e079e67b7a": "2026-10-28",
+  "be72867527b132f3": "2026-11-03",
   "bf34b5eb6312f9e1": "2026-10-24",
   "c448be233b4677e5": "2026-10-24",
   "c5120161a306d6fc": "2026-10-29",
   "ccf3e44e7f67cd8e": "2026-10-30",
+  "cd17200bec849aee": "2026-11-03",
   "cf695e392515d9e9": "2026-10-22",
   "cf7bf66c31737ed8": "2026-11-01",
   "d1ec5e3e407810cd": "2026-10-31",
@@ -111,6 +120,7 @@
   "db53400872d72a0d": "2026-10-21",
   "dbd63f3f484e39d8": "2026-10-27",
   "de30d2ce6557a445": "2026-10-23",
+  "dea8933201de5391": "2026-11-03",
   "e0ae260b2730b53a": "2026-10-26",
   "e0f0bac86d45ea83": "2026-10-29",
   "e13aa3e0536d58cf": "2026-10-23",
@@ -154,17 +164,13 @@
    "2026-10-30",
    "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV"
   ],
-  "056dff6934f33a5f": [
-   "2026-10-26",
-   "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts"
+  "0539d07ef28f9ef3": [
+   "2026-11-03",
+   "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing"
   ],
   "0778766d81ebd40a": [
    "2026-10-28",
    "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed"
-  ],
-  "10b635c0c5610166": [
-   "2026-10-26",
-   "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware"
   ],
   "11e2d419eed360ba": [
    "2026-10-30",
@@ -177,10 +183,6 @@
   "1779f457631c9925": [
    "2026-11-02",
    "Microsoft fixes Smart App Control broken by October Windows update"
-  ],
-  "187f0ea815623945": [
-   "2026-10-26",
-   "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs"
   ],
   "1b52ce14888974c1": [
    "2026-11-01",
@@ -198,13 +200,9 @@
    "2026-10-29",
    "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns"
   ],
-  "25e1980b6cd9663c": [
-   "2026-10-26",
-   "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses"
-  ],
-  "26b5cde7ab423073": [
-   "2026-10-26",
-   "Kali Linux 2026.3 released with 6 new tools, desktop updates"
+  "291bdcc83b6af9d7": [
+   "2026-11-03",
+   "Police seizes over 100 servers in investment scam crackdown"
   ],
   "2a000ff73bb6f7ac": [
    "2026-10-27",
@@ -278,9 +276,9 @@
    "2026-10-28",
    "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass"
   ],
-  "5b83a33e8a1a6f8f": [
-   "2026-10-26",
-   "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers"
+  "531efb27f6159372": [
+   "2026-11-03",
+   "Harvard University data breach exposed info of 851,000 accounts"
   ],
   "65516a06ab6385eb": [
    "2026-11-02",
@@ -338,9 +336,17 @@
    "2026-10-29",
    "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls"
   ],
+  "923a6f68d1dc2a26": [
+   "2026-11-03",
+   "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw"
+  ],
   "931d1d1fb61725d1": [
    "2026-10-30",
    "Japan Airlines suffers third-party data breach exposing passenger info"
+  ],
+  "983ab8b5d4b16718": [
+   "2026-11-03",
+   "The 4 Elements of Exposure Prioritization and How to Operationalize Them"
   ],
   "9a9c7ae127735754": [
    "2026-11-01",
@@ -358,17 +364,21 @@
    "2026-10-30",
    "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories"
   ],
-  "a16b2754a6c591fd": [
-   "2026-10-26",
-   "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations"
-  ],
   "a212e990851bb9aa": [
    "2026-10-31",
    "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats"
   ],
+  "aa00a83e706f1432": [
+   "2026-11-03",
+   "UK school estate hit by 3AM ransomware in suspected AI-assisted attack"
+  ],
   "ad4ab055d32c0e10": [
    "2026-10-30",
    "Drupal warns of critical Commerce Core flaw exploited in attacks"
+  ],
+  "adc722ef6f8bb031": [
+   "2026-11-03",
+   "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More"
   ],
   "af97a1baa7e30536": [
    "2026-10-27",
@@ -390,6 +400,10 @@
    "2026-10-28",
    "Nefilim and Hive ransomware affiliate gets 70 months in prison"
   ],
+  "be72867527b132f3": [
+   "2026-11-03",
+   "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs"
+  ],
   "c5120161a306d6fc": [
    "2026-10-29",
    "Windows 11 KB5127936 update released with 41 changes and fixes"
@@ -397,6 +411,10 @@
   "ccf3e44e7f67cd8e": [
    "2026-10-30",
    "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving"
+  ],
+  "cd17200bec849aee": [
+   "2026-11-03",
+   "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors"
   ],
   "cf7bf66c31737ed8": [
    "2026-11-01",
@@ -414,17 +432,13 @@
    "2026-10-30",
    "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw"
   ],
-  "da3d205db86b9086": [
-   "2026-10-26",
-   "PHP2Shell security flaws now sucessfully exploited in the wild"
-  ],
   "dbd63f3f484e39d8": [
    "2026-10-27",
    "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More"
   ],
-  "e0ae260b2730b53a": [
-   "2026-10-26",
-   "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes"
+  "dea8933201de5391": [
+   "2026-11-03",
+   "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware"
   ],
   "e0f0bac86d45ea83": [
    "2026-10-29",
@@ -449,10 +463,6 @@
   "fa6478a9df14d955": [
    "2026-10-29",
    "New Cisco firewall zero-day exploited to crash SSL VPN devices"
-  ],
-  "fb0c164b0656aa65": [
-   "2026-10-26",
-   "Chinese man extradited for role in $36 million cryptocurrency scam"
   ],
   "kev:CVE-2026-109618": [
    "2026-10-27",
