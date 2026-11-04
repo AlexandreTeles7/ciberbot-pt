@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="pt-PT">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CiberBot PT — Resumo diário de cibersegurança — 4 de novembro de 2026</title>
+<meta name="description" content="Resumo diário de cibersegurança em português de Portugal: ataques, vulnerabilidades e alertas.">
+<style>
+:root{--fundo:#f6f7f9;--cartao:#fff;--texto:#16191d;--suave:#5b6472;--linha:#e3e6ea;--link:#0b5fd6;--chip:#eef1f5;
+--s-portugal:#1f8a4c;--s-exploradas:#d6322f;--s-criticas:#e07a12;--s-noticias:#3a6fd8;--s-outra:#6b7280}
+@media (prefers-color-scheme:dark){:root{--fundo:#0f1216;--cartao:#171b21;--texto:#e8eaed;--suave:#9aa3af;
+--linha:#262c34;--link:#7db4ff;--chip:#222831;--s-portugal:#4cc17f;--s-exploradas:#ff6b66;--s-criticas:#ffa04a;
+--s-noticias:#7aa2ff;--s-outra:#9aa3af}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--fundo);color:var(--texto);font:16px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+a{color:var(--link)}
+.caixa{max-width:760px;margin:0 auto;padding:0 16px}
+.topo{padding:28px 0 4px}
+.marca{margin:0;color:var(--suave);font-size:.8rem;letter-spacing:.06em;text-transform:uppercase}
+h1{margin:.25em 0 .15em;font-size:1.7rem;line-height:1.2}
+.data{margin:0;color:var(--suave)}
+h2{font-size:1.1rem;margin:2em 0 .7em}
+.cartao{background:var(--cartao);border:1px solid var(--linha);border-left:4px solid var(--cor);
+border-radius:10px;padding:13px 16px;margin:0 0 12px}
+.s-portugal{--cor:var(--s-portugal)}.s-exploradas{--cor:var(--s-exploradas)}
+.s-criticas{--cor:var(--s-criticas)}.s-noticias{--cor:var(--s-noticias)}.s-outra{--cor:var(--s-outra)}
+.cartao h3{margin:0 0 .3em;font-size:1.02rem;line-height:1.35}
+.cartao h3 a{color:inherit;text-decoration:none}.cartao h3 a:hover{text-decoration:underline}
+.cartao p{margin:.3em 0}
+.meta{color:var(--suave);font-size:.85rem}
+.chip{display:inline-block;background:var(--chip);border-radius:999px;padding:1px 9px;margin:3px 4px 0 0;font-size:.78rem}
+.nota{background:var(--chip);border-radius:10px;padding:10px 14px;font-size:.9rem;color:var(--suave)}
+.arquivo ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:6px 14px}
+.rodape{color:var(--suave);font-size:.82rem;padding:28px 16px 44px}
+</style>
+</head>
+<body>
+<header class="topo caixa">
+<p class="marca">CiberBot PT</p>
+<h1>CiberBot PT — Resumo diário de cibersegurança</h1>
+<p class="data">4 de novembro de 2026 · 11 destaques</p>
+</header>
+<main class="caixa">
+<section><h2>🔴 Vulnerabilidades exploradas ativamente</h2>
+<article class="cartao s-exploradas"><h3><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-119977" rel="noopener noreferrer">CVE-2026-119977: WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability</a></h3><p>WordPress WordPress Core contains a time-of-check time-of-use (TOCTOU) race condition vulnerability that could allow unauthenticated attackers to execute code on the server during the upgrade window. This is due to predictable, web-accessible staging paths used during full-package core upgrades.</p><p class="meta">CISA — Vulnerabilidades exploradas (KEV) · 03/11</p><span class="chip">Explorada ativamente</span><span class="chip">Prazo CISA: 06/11/2026</span><span class="chip">Em inglês</span></article></section>
+<section><h2>📰 Ataques e notícias</h2>
+<article class="cartao s-noticias"><h3><a href="https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/" rel="noopener noreferrer">CISA flags WordPress RCE flaw as actively exploited in attacks</a></h3><p>The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]</p><p class="meta">BleepingComputer · 04/11</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html" rel="noopener noreferrer">CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades</a></h3><p>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The high-severity vulnerability, tracked as CVE-2026-119977 (CVSS score: 8.1), is a case of Time-of-check Time-of-use (TOCTOU) race condition that could be exploited to achieve arbitrary code</p><p class="meta">The Hacker News · 04/11</p><span class="chip">Na lista KEV da CISA</span><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html" rel="noopener noreferrer">APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits</a></h3><p>The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Plerdy SEO Tracker. "The injected JavaScript code collects browser and device attributes," Sekoia researchers Amaury-Jacques Garçon and</p><p class="meta">The Hacker News · 04/11</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html" rel="noopener noreferrer">China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor</a></h3><p>A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method as part of a surveillance campaign designed to deploy an implant called DarkVigil (aka FDMTP). The campaign, observed starting July 1, 2026, is assessed to have targeted organizations and</p><p class="meta">The Hacker News · 04/11</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/" rel="noopener noreferrer">WorkOS says attacker used ARTEX AI to breach internal sales app</a></h3><p>Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]</p><p class="meta">BleepingComputer · 03/11</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html" rel="noopener noreferrer">Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads</a></h3><p>A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project disclosed the flaw in an advisory and fixed it in versions 8.1.4.1 and 8.0.5.2. The flaw is in Active Storage, the part of Rails that handles file uploads. Some apps store</p><p class="meta">The Hacker News · 04/11</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html" rel="noopener noreferrer">Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction</a></h3><p>A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its November security bulletin. The flaw, CVE-2026-58868, affects Android 14 through 17. Phones get the fix with security patch level 2026-11-01 or later, which phone makers and carriers send on their own schedules. As of November 4, Google's bulletin did not report</p><p class="meta">The Hacker News · 04/11</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/" rel="noopener noreferrer">Hackers hijack cPGuard autoupdate to deploy backdoor, steal data</a></h3><p>Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]</p><p class="meta">BleepingComputer · 03/11</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/" rel="noopener noreferrer">Google Calendar phishing campaign hijacks sessions, bypasses MFA</a></h3><p>A phishing campaign used Google Calendar invites, trusted redirects, and fake login pages to hijack corporate Google sessions and bypass MFA protections. Material Security examines how Operation CloudFire tracked the attacks, blocked malicious messages, and helped take down nearly 900 domains used by the attackers. [...]</p><p class="meta">BleepingComputer · 04/11</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html" rel="noopener noreferrer">cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes</a></h3><p>An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers. The script installed a backdoor and collected password hashes and other sensitive files from servers that ran it, cPGuard maker OPSSHIELD said in an advisory. The attacker has since taken some of that data. cPGuard 5.88.25 and later versions</p><p class="meta">The Hacker News · 03/11</p><span class="chip">Em inglês</span></article></section>
+<p class="nota">Notas desta edição:</p><ul class="nota"><li>Fonte «NVD — CVE críticos» indisponível: services.nvd.nist.gov: HTTP 403</li><li>Sem ANTHROPIC_API_KEY: os itens em inglês ficam sem tradução.</li></ul>
+<p><a href="../index.html">← Edição mais recente</a></p>
+</main>
+<footer class="rodape caixa">
+Gerado automaticamente em 04/11/2026 às 15:13. Traduzido automaticamente para português de Portugal. Confirme sempre os detalhes na fonte original.
+</footer>
+</body>
+</html>

@@ -28,7 +28,9 @@
   "25e1980b6cd9663c": "2026-10-26",
   "26b5cde7ab423073": "2026-10-26",
   "291bdcc83b6af9d7": "2026-11-03",
+  "29a62b990aed57d6": "2026-11-04",
   "2a000ff73bb6f7ac": "2026-10-27",
+  "2a0586978abf8da4": "2026-11-04",
   "2b83e3830b432881": "2026-11-01",
   "2c129bf8a7fbc0c5": "2026-10-22",
   "2c614b999eb78eb4": "2026-10-27",
@@ -44,6 +46,7 @@
   "3b11f73a0131f915": "2026-10-28",
   "3cff7520904e9c06": "2026-10-29",
   "3f25203e8a3b16f0": "2026-10-21",
+  "412bbcc50c0cc7e0": "2026-11-04",
   "43a45abe0c3f3e56": "2026-11-02",
   "47209968a5bd49e4": "2026-10-31",
   "475c39df4ec690c2": "2026-11-01",
@@ -60,6 +63,8 @@
   "5e5d7bd79d9a90d4": "2026-10-21",
   "622754d280c91bdf": "2026-10-21",
   "647ce94048879b72": "2026-10-24",
+  "6483914e8552b14f": "2026-11-04",
+  "64f10897699a8adb": "2026-11-04",
   "65516a06ab6385eb": "2026-11-02",
   "7153257bd2ee8aa9": "2026-10-24",
   "72f0ec645c06997c": "2026-10-29",
@@ -68,7 +73,9 @@
   "7a185c8dd28887ab": "2026-10-28",
   "7a56590de43658cf": "2026-10-31",
   "7af0d3a1968a6eb8": "2026-10-21",
+  "7d4c87ceae4423a3": "2026-11-04",
   "7d7f6d9840133844": "2026-10-21",
+  "7da7001e78b0225e": "2026-11-04",
   "7dd1bd8a2d9aeb5b": "2026-10-24",
   "7e4a62a39299b0f2": "2026-10-30",
   "7e7e16dcd7b29b4c": "2026-11-02",
@@ -80,6 +87,7 @@
   "877faff2da7d007c": "2026-11-02",
   "8c6a3be34f9e6140": "2026-11-02",
   "8c6e20208c035ba2": "2026-10-29",
+  "8d1e797803bc9077": "2026-11-04",
   "8dfa4c01da706a7b": "2026-10-25",
   "923a6f68d1dc2a26": "2026-11-03",
   "931d1d1fb61725d1": "2026-10-30",
@@ -130,9 +138,11 @@
   "e99fb38de9d42b5b": "2026-10-21",
   "ec73a23647a4a017": "2026-10-22",
   "f46872103dd8d250": "2026-10-23",
+  "f712928c8ed41532": "2026-11-04",
   "f7a301bf16bfa63a": "2026-11-02",
   "fa6478a9df14d955": "2026-10-29",
   "fb0c164b0656aa65": "2026-10-26",
+  "ff4fa7f7f457c5af": "2026-11-04",
   "kev:CVE-2026-106931": "2026-10-21",
   "kev:CVE-2026-109618": "2026-10-27",
   "kev:CVE-2026-109619": "2026-10-27",
@@ -142,6 +152,7 @@
   "kev:CVE-2026-111497": "2026-10-28",
   "kev:CVE-2026-114625": "2026-10-24",
   "kev:CVE-2026-118527": "2026-10-31",
+  "kev:CVE-2026-119977": "2026-11-04",
   "kev:CVE-2026-41709": "2026-10-29",
   "kev:CVE-2026-46300": "2026-10-29",
   "kev:CVE-2026-48356": "2026-10-28",
@@ -152,10 +163,6 @@
   "kev:CVE-2026-97229": "2026-10-30"
  },
  "titulos": {
-  "0131084012e5632c": [
-   "2026-10-27",
-   "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution"
-  ],
   "04057c8d489e0045": [
    "2026-11-02",
    "BTCPay Server warns of hot wallet crypto thefts on outdated instances"
@@ -204,17 +211,17 @@
    "2026-11-03",
    "Police seizes over 100 servers in investment scam crackdown"
   ],
-  "2a000ff73bb6f7ac": [
-   "2026-10-27",
-   "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware"
+  "29a62b990aed57d6": [
+   "2026-11-04",
+   "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads"
+  ],
+  "2a0586978abf8da4": [
+   "2026-11-04",
+   "WorkOS says attacker used ARTEX AI to breach internal sales app"
   ],
   "2b83e3830b432881": [
    "2026-11-01",
    "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat"
-  ],
-  "2c614b999eb78eb4": [
-   "2026-10-27",
-   "Microsoft releases emergency .NET patches for critical Brotli flaw"
   ],
   "307b0a3b0a435904": [
    "2026-10-31",
@@ -236,10 +243,6 @@
    "2026-10-31",
    "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access"
   ],
-  "33a9096f1329449b": [
-   "2026-10-27",
-   "Energy giant ENGIE discloses data breach affecting customers"
-  ],
   "35bed86130fbe803": [
    "2026-10-31",
    "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours"
@@ -251,6 +254,10 @@
   "3cff7520904e9c06": [
    "2026-10-29",
    "Volt Typhoon hides zero-day attacks using 'Silent Train' framework"
+  ],
+  "412bbcc50c0cc7e0": [
+   "2026-11-04",
+   "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data"
   ],
   "43a45abe0c3f3e56": [
    "2026-11-02",
@@ -264,10 +271,6 @@
    "2026-11-01",
    "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key"
   ],
-  "4a36dea4db8df076": [
-   "2026-10-27",
-   "CISA confirms PHP2Shell vulnerabilities now exploited in attacks"
-  ],
   "4e197ce9171682ba": [
    "2026-11-02",
    "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment"
@@ -279,6 +282,14 @@
   "531efb27f6159372": [
    "2026-11-03",
    "Harvard University data breach exposed info of 851,000 accounts"
+  ],
+  "6483914e8552b14f": [
+   "2026-11-04",
+   "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits"
+  ],
+  "64f10897699a8adb": [
+   "2026-11-04",
+   "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction"
   ],
   "65516a06ab6385eb": [
    "2026-11-02",
@@ -299,6 +310,14 @@
   "7a56590de43658cf": [
    "2026-10-31",
    "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%"
+  ],
+  "7d4c87ceae4423a3": [
+   "2026-11-04",
+   "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor"
+  ],
+  "7da7001e78b0225e": [
+   "2026-11-04",
+   "CISA flags WordPress RCE flaw as actively exploited in attacks"
   ],
   "7e4a62a39299b0f2": [
    "2026-10-30",
@@ -336,6 +355,10 @@
    "2026-10-29",
    "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls"
   ],
+  "8d1e797803bc9077": [
+   "2026-11-04",
+   "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes"
+  ],
   "923a6f68d1dc2a26": [
    "2026-11-03",
    "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw"
@@ -355,10 +378,6 @@
   "9bb9f09dc3ac9075": [
    "2026-11-01",
    "Northflank security breach leads to abuse of customers' AI API keys"
-  ],
-  "9c7dbd668911c763": [
-   "2026-10-27",
-   "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches"
   ],
   "9ede2fbb7007f983": [
    "2026-10-30",
@@ -380,21 +399,9 @@
    "2026-11-03",
    "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More"
   ],
-  "af97a1baa7e30536": [
-   "2026-10-27",
-   "Apple backports CoreGraphics zero-day patches to older iPhones"
-  ],
-  "b18cc5e9f3ba64ec": [
-   "2026-10-27",
-   "University of Copenhagen data breach exposes data of 525,000 people"
-  ],
   "b65441b6fb2b5a93": [
    "2026-11-01",
    "New Android SMS of Death exploit can remotely crash unpatched phones"
-  ],
-  "b82fb8aafed9023c": [
-   "2026-10-27",
-   "AI-Generated Fake Login Pages Are Making Account Takeovers Easier"
   ],
   "bd0fe0e079e67b7a": [
    "2026-10-28",
@@ -432,10 +439,6 @@
    "2026-10-30",
    "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw"
   ],
-  "dbd63f3f484e39d8": [
-   "2026-10-27",
-   "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More"
-  ],
   "dea8933201de5391": [
    "2026-11-03",
    "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware"
@@ -456,6 +459,10 @@
    "2026-10-28",
    "UNM Health ransomware attack disrupts patient care, surgeries"
   ],
+  "f712928c8ed41532": [
+   "2026-11-04",
+   "Google Calendar phishing campaign hijacks sessions, bypasses MFA"
+  ],
   "f7a301bf16bfa63a": [
    "2026-11-02",
    "Hackers disrupt refrigeration systems at European supermarkets"
@@ -464,13 +471,9 @@
    "2026-10-29",
    "New Cisco firewall zero-day exploited to crash SSL VPN devices"
   ],
-  "kev:CVE-2026-109618": [
-   "2026-10-27",
-   "CVE-2026-109618: PHP Memory Corruption Vulnerability"
-  ],
-  "kev:CVE-2026-109619": [
-   "2026-10-27",
-   "CVE-2026-109619: PHP Stale Internal Request-State Vulnerability"
+  "ff4fa7f7f457c5af": [
+   "2026-11-04",
+   "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades"
   ],
   "kev:CVE-2026-111357": [
    "2026-10-31",
@@ -483,6 +486,10 @@
   "kev:CVE-2026-118527": [
    "2026-10-31",
    "CVE-2026-118527: Ivanti Connect Secure Generation of Predictable Numbers or Identifiers Vulnerability"
+  ],
+  "kev:CVE-2026-119977": [
+   "2026-11-04",
+   "CVE-2026-119977: WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability"
   ],
   "kev:CVE-2026-41709": [
    "2026-10-29",
