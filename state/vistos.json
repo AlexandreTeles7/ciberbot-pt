@@ -24,6 +24,7 @@
   "223c462a3bee5d9a": "2026-10-25",
   "2317a10c8ae199b9": "2026-10-28",
   "236a880aa08ed0f7": "2026-11-02",
+  "23a4ea514ae34149": "2026-11-05",
   "247e49d809980bd7": "2026-10-29",
   "25e1980b6cd9663c": "2026-10-26",
   "26b5cde7ab423073": "2026-10-26",
@@ -38,12 +39,14 @@
   "307b0a3b0a435904": "2026-10-31",
   "30dfb98cd1b9df64": "2026-10-29",
   "31fd152f9956be6a": "2026-10-31",
+  "322116d1bcc16570": "2026-11-05",
   "322cd6145e6d248e": "2026-10-30",
   "325ff25b77b765bd": "2026-10-31",
   "33a9096f1329449b": "2026-10-27",
   "35bed86130fbe803": "2026-10-31",
   "360f703803c359f9": "2026-10-21",
   "3b11f73a0131f915": "2026-10-28",
+  "3b7b06199f66a875": "2026-11-05",
   "3cff7520904e9c06": "2026-10-29",
   "3f25203e8a3b16f0": "2026-10-21",
   "412bbcc50c0cc7e0": "2026-11-04",
@@ -51,10 +54,12 @@
   "47209968a5bd49e4": "2026-10-31",
   "475c39df4ec690c2": "2026-11-01",
   "48f4a4fb8ae4d85c": "2026-10-24",
+  "49540df35d1fc1f9": "2026-11-05",
   "4a36dea4db8df076": "2026-10-27",
   "4c7ac59e25565bd3": "2026-10-23",
   "4cf6d8665d7bdcac": "2026-10-24",
   "4e197ce9171682ba": "2026-11-02",
+  "4ff14f41af02dbe5": "2026-11-05",
   "5060525796dadc15": "2026-10-28",
   "531efb27f6159372": "2026-11-03",
   "58c11ae1ff85094d": "2026-10-21",
@@ -62,6 +67,7 @@
   "5b83a33e8a1a6f8f": "2026-10-26",
   "5e5d7bd79d9a90d4": "2026-10-21",
   "622754d280c91bdf": "2026-10-21",
+  "626a9341f83dc60b": "2026-11-05",
   "647ce94048879b72": "2026-10-24",
   "6483914e8552b14f": "2026-11-04",
   "64f10897699a8adb": "2026-11-04",
@@ -81,12 +87,14 @@
   "7e7e16dcd7b29b4c": "2026-11-02",
   "7ff8a46d80fca6af": "2026-10-28",
   "80ea3f790938b473": "2026-10-31",
+  "816b0cc9bcf37f15": "2026-11-05",
   "8312b7e4bcf8250d": "2026-10-29",
   "84c33bee635a4d3c": "2026-10-22",
   "86fc80d7d9005f72": "2026-10-29",
   "877faff2da7d007c": "2026-11-02",
   "8c6a3be34f9e6140": "2026-11-02",
   "8c6e20208c035ba2": "2026-10-29",
+  "8cb5da7135cb389e": "2026-11-05",
   "8d1e797803bc9077": "2026-11-04",
   "8dfa4c01da706a7b": "2026-10-25",
   "923a6f68d1dc2a26": "2026-11-03",
@@ -105,6 +113,7 @@
   "adc722ef6f8bb031": "2026-11-03",
   "af97a1baa7e30536": "2026-10-27",
   "b18cc5e9f3ba64ec": "2026-10-27",
+  "b64a141a0615f5d6": "2026-11-05",
   "b65441b6fb2b5a93": "2026-11-01",
   "b82fb8aafed9023c": "2026-10-27",
   "b8354cf6ee2773d2": "2026-10-22",
@@ -112,6 +121,7 @@
   "bd0fe0e079e67b7a": "2026-10-28",
   "be72867527b132f3": "2026-11-03",
   "bf34b5eb6312f9e1": "2026-10-24",
+  "c41b887e34f9ae90": "2026-11-05",
   "c448be233b4677e5": "2026-10-24",
   "c5120161a306d6fc": "2026-10-29",
   "ccf3e44e7f67cd8e": "2026-10-30",
@@ -137,12 +147,14 @@
   "e8c9ad44f915c99d": "2026-10-28",
   "e99fb38de9d42b5b": "2026-10-21",
   "ec73a23647a4a017": "2026-10-22",
+  "ee23cc992c42202f": "2026-11-05",
   "f46872103dd8d250": "2026-10-23",
   "f712928c8ed41532": "2026-11-04",
   "f7a301bf16bfa63a": "2026-11-02",
   "fa6478a9df14d955": "2026-10-29",
   "fb0c164b0656aa65": "2026-10-26",
   "ff4fa7f7f457c5af": "2026-11-04",
+  "kev:CVE-2024-27834": "2026-11-05",
   "kev:CVE-2026-106931": "2026-10-21",
   "kev:CVE-2026-109618": "2026-10-27",
   "kev:CVE-2026-109619": "2026-10-27",
@@ -175,10 +187,6 @@
    "2026-11-03",
    "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing"
   ],
-  "0778766d81ebd40a": [
-   "2026-10-28",
-   "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed"
-  ],
   "11e2d419eed360ba": [
    "2026-10-30",
    "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis"
@@ -195,13 +203,13 @@
    "2026-11-01",
    "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection"
   ],
-  "2317a10c8ae199b9": [
-   "2026-10-28",
-   "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges"
-  ],
   "236a880aa08ed0f7": [
    "2026-11-02",
    "Your Mobile Carrier Stores Your Call Logs for Years"
+  ],
+  "23a4ea514ae34149": [
+   "2026-11-05",
+   "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out"
   ],
   "247e49d809980bd7": [
    "2026-10-29",
@@ -235,6 +243,10 @@
    "2026-10-31",
    "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era."
   ],
+  "322116d1bcc16570": [
+   "2026-11-05",
+   "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says"
+  ],
   "322cd6145e6d248e": [
    "2026-10-30",
    "Microsoft finally fixes VPN issues caused by September updates"
@@ -247,9 +259,9 @@
    "2026-10-31",
    "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours"
   ],
-  "3b11f73a0131f915": [
-   "2026-10-28",
-   "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits"
+  "3b7b06199f66a875": [
+   "2026-11-05",
+   "GhostMap Android flaw lets malicious app trigger persistent boot loop"
   ],
   "3cff7520904e9c06": [
    "2026-10-29",
@@ -271,17 +283,25 @@
    "2026-11-01",
    "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key"
   ],
+  "49540df35d1fc1f9": [
+   "2026-11-05",
+   "DreamHost confirms data breach exposed FTP logins and webmail sessions"
+  ],
   "4e197ce9171682ba": [
    "2026-11-02",
    "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment"
   ],
-  "5060525796dadc15": [
-   "2026-10-28",
-   "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass"
+  "4ff14f41af02dbe5": [
+   "2026-11-05",
+   "Recorteiro: a Rust banking trojan that cuts holes in your screen and hides behind fake electricity bills in Portugal"
   ],
   "531efb27f6159372": [
    "2026-11-03",
    "Harvard University data breach exposed info of 851,000 accounts"
+  ],
+  "626a9341f83dc60b": [
+   "2026-11-05",
+   "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches"
   ],
   "6483914e8552b14f": [
    "2026-11-04",
@@ -303,10 +323,6 @@
    "2026-11-01",
    "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist"
   ],
-  "7a185c8dd28887ab": [
-   "2026-10-28",
-   "Japan's GMO urges customers to shut down PCs amid ransomware threat"
-  ],
   "7a56590de43658cf": [
    "2026-10-31",
    "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%"
@@ -327,13 +343,13 @@
    "2026-11-02",
    "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks"
   ],
-  "7ff8a46d80fca6af": [
-   "2026-10-28",
-   "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws"
-  ],
   "80ea3f790938b473": [
    "2026-10-31",
    "Chainalysis discloses data breach from \"offensive agentic techniques\""
+  ],
+  "816b0cc9bcf37f15": [
+   "2026-11-05",
+   "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content"
   ],
   "8312b7e4bcf8250d": [
    "2026-10-29",
@@ -354,6 +370,10 @@
   "8c6e20208c035ba2": [
    "2026-10-29",
    "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls"
+  ],
+  "8cb5da7135cb389e": [
+   "2026-11-05",
+   "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution"
   ],
   "8d1e797803bc9077": [
    "2026-11-04",
@@ -399,17 +419,21 @@
    "2026-11-03",
    "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More"
   ],
+  "b64a141a0615f5d6": [
+   "2026-11-05",
+   "Closing the Identity Gap at the Service Desk"
+  ],
   "b65441b6fb2b5a93": [
    "2026-11-01",
    "New Android SMS of Death exploit can remotely crash unpatched phones"
   ],
-  "bd0fe0e079e67b7a": [
-   "2026-10-28",
-   "Nefilim and Hive ransomware affiliate gets 70 months in prison"
-  ],
   "be72867527b132f3": [
    "2026-11-03",
    "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs"
+  ],
+  "c41b887e34f9ae90": [
+   "2026-11-05",
+   "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run"
   ],
   "c5120161a306d6fc": [
    "2026-10-29",
@@ -447,17 +471,9 @@
    "2026-10-29",
    "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open"
   ],
-  "e2f4209aab878930": [
-   "2026-10-28",
-   "Hackers now scanning systems for recently-patched Oracle flaw"
-  ],
-  "e3c586ca8891fcfe": [
-   "2026-10-28",
-   "CISA warns of hackers now exploiting critical Node2Shell flaw"
-  ],
-  "e8c9ad44f915c99d": [
-   "2026-10-28",
-   "UNM Health ransomware attack disrupts patient care, surgeries"
+  "ee23cc992c42202f": [
+   "2026-11-05",
+   "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026"
   ],
   "f712928c8ed41532": [
    "2026-11-04",
@@ -475,13 +491,13 @@
    "2026-11-04",
    "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades"
   ],
+  "kev:CVE-2024-27834": [
+   "2026-11-05",
+   "CVE-2024-27834: Apple Multiple Products Improper Authentication Vulnerability"
+  ],
   "kev:CVE-2026-111357": [
    "2026-10-31",
    "CVE-2026-111357: Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability"
-  ],
-  "kev:CVE-2026-111497": [
-   "2026-10-28",
-   "CVE-2026-111497: Google Brotli Unchecked Return Value Vulnerability"
   ],
   "kev:CVE-2026-118527": [
    "2026-10-31",
@@ -498,10 +514,6 @@
   "kev:CVE-2026-46300": [
    "2026-10-29",
    "CVE-2026-46300: Linux Kernel Missing Initialization of a Variable Vulnerability"
-  ],
-  "kev:CVE-2026-48356": [
-   "2026-10-28",
-   "CVE-2026-48356: Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability"
   ],
   "kev:CVE-2026-76418": [
    "2026-10-30",
