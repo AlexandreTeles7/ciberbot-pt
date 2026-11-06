@@ -6,9 +6,12 @@
   "05324fe81587751b": "2026-10-30",
   "0539d07ef28f9ef3": "2026-11-03",
   "056dff6934f33a5f": "2026-10-26",
+  "0706d993935be7b7": "2026-11-06",
   "0778766d81ebd40a": "2026-10-28",
+  "07ded687620c9a3f": "2026-11-06",
   "0c4cb52f67a4b751": "2026-10-23",
   "0d1dd88c3dfef7df": "2026-10-24",
+  "0fc545917cf25e50": "2026-11-06",
   "10b635c0c5610166": "2026-10-26",
   "10ea65771ed6ab64": "2026-10-23",
   "11e2d419eed360ba": "2026-10-30",
@@ -32,6 +35,7 @@
   "29a62b990aed57d6": "2026-11-04",
   "2a000ff73bb6f7ac": "2026-10-27",
   "2a0586978abf8da4": "2026-11-04",
+  "2a564473be5f6f02": "2026-11-06",
   "2b83e3830b432881": "2026-11-01",
   "2c129bf8a7fbc0c5": "2026-10-22",
   "2c614b999eb78eb4": "2026-10-27",
@@ -49,7 +53,9 @@
   "3b7b06199f66a875": "2026-11-05",
   "3cff7520904e9c06": "2026-10-29",
   "3f25203e8a3b16f0": "2026-10-21",
+  "401c132c974373b0": "2026-11-06",
   "412bbcc50c0cc7e0": "2026-11-04",
+  "42f5da3d18205a2e": "2026-11-06",
   "43a45abe0c3f3e56": "2026-11-02",
   "47209968a5bd49e4": "2026-10-31",
   "475c39df4ec690c2": "2026-11-01",
@@ -89,6 +95,7 @@
   "80ea3f790938b473": "2026-10-31",
   "816b0cc9bcf37f15": "2026-11-05",
   "8312b7e4bcf8250d": "2026-10-29",
+  "8493208604e5f691": "2026-11-06",
   "84c33bee635a4d3c": "2026-10-22",
   "86fc80d7d9005f72": "2026-10-29",
   "877faff2da7d007c": "2026-11-02",
@@ -99,6 +106,7 @@
   "8dfa4c01da706a7b": "2026-10-25",
   "923a6f68d1dc2a26": "2026-11-03",
   "931d1d1fb61725d1": "2026-10-30",
+  "941e277ba15aa99e": "2026-11-06",
   "97ae72ec6d5bf887": "2026-10-22",
   "983ab8b5d4b16718": "2026-11-03",
   "9a9c7ae127735754": "2026-11-01",
@@ -108,6 +116,7 @@
   "9ef8e97907d2b0da": "2026-10-23",
   "a16b2754a6c591fd": "2026-10-26",
   "a212e990851bb9aa": "2026-10-31",
+  "a706922feef76cbb": "2026-11-06",
   "aa00a83e706f1432": "2026-11-03",
   "ad4ab055d32c0e10": "2026-10-30",
   "adc722ef6f8bb031": "2026-11-03",
@@ -126,6 +135,7 @@
   "c5120161a306d6fc": "2026-10-29",
   "ccf3e44e7f67cd8e": "2026-10-30",
   "cd17200bec849aee": "2026-11-03",
+  "ce86d2165d2f82bf": "2026-11-06",
   "cf695e392515d9e9": "2026-10-22",
   "cf7bf66c31737ed8": "2026-11-01",
   "d1ec5e3e407810cd": "2026-10-31",
@@ -187,6 +197,18 @@
    "2026-11-03",
    "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing"
   ],
+  "0706d993935be7b7": [
+   "2026-11-06",
+   "Hackers backdoor Linux servers using trojanized CWP web server"
+  ],
+  "07ded687620c9a3f": [
+   "2026-11-06",
+   "DigiCert data breach exposes customer information, identity documents"
+  ],
+  "0fc545917cf25e50": [
+   "2026-11-06",
+   "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs"
+  ],
   "11e2d419eed360ba": [
    "2026-10-30",
    "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis"
@@ -211,10 +233,6 @@
    "2026-11-05",
    "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out"
   ],
-  "247e49d809980bd7": [
-   "2026-10-29",
-   "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns"
-  ],
   "291bdcc83b6af9d7": [
    "2026-11-03",
    "Police seizes over 100 servers in investment scam crackdown"
@@ -227,6 +245,10 @@
    "2026-11-04",
    "WorkOS says attacker used ARTEX AI to breach internal sales app"
   ],
+  "2a564473be5f6f02": [
+   "2026-11-06",
+   "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers"
+  ],
   "2b83e3830b432881": [
    "2026-11-01",
    "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat"
@@ -234,10 +256,6 @@
   "307b0a3b0a435904": [
    "2026-10-31",
    "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide"
-  ],
-  "30dfb98cd1b9df64": [
-   "2026-10-29",
-   "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility"
   ],
   "31fd152f9956be6a": [
    "2026-10-31",
@@ -263,13 +281,17 @@
    "2026-11-05",
    "GhostMap Android flaw lets malicious app trigger persistent boot loop"
   ],
-  "3cff7520904e9c06": [
-   "2026-10-29",
-   "Volt Typhoon hides zero-day attacks using 'Silent Train' framework"
+  "401c132c974373b0": [
+   "2026-11-06",
+   "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux"
   ],
   "412bbcc50c0cc7e0": [
    "2026-11-04",
    "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data"
+  ],
+  "42f5da3d18205a2e": [
+   "2026-11-06",
+   "D-Link warns of multiple zero-days in DGS-3130 Series switches"
   ],
   "43a45abe0c3f3e56": [
    "2026-11-02",
@@ -315,10 +337,6 @@
    "2026-11-02",
    "Ivanti patches two more Connect Secure zero-days chained in attacks"
   ],
-  "72f0ec645c06997c": [
-   "2026-10-29",
-   "Webinar: How to Build AI Threat Readiness Into Your Security Operations"
-  ],
   "77867c1a3e93bbaf": [
    "2026-11-01",
    "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist"
@@ -351,13 +369,9 @@
    "2026-11-05",
    "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content"
   ],
-  "8312b7e4bcf8250d": [
-   "2026-10-29",
-   "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys"
-  ],
-  "86fc80d7d9005f72": [
-   "2026-10-29",
-   "Sony ISP subsidiary data breach exposes 2.5 million customer records"
+  "8493208604e5f691": [
+   "2026-11-06",
+   "The Flood is Coming And The Pipes Were Already Full"
   ],
   "877faff2da7d007c": [
    "2026-11-02",
@@ -366,10 +380,6 @@
   "8c6a3be34f9e6140": [
    "2026-11-02",
    "Synology warns of C3RB3R ransomware attacks targeting NAS devices"
-  ],
-  "8c6e20208c035ba2": [
-   "2026-10-29",
-   "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls"
   ],
   "8cb5da7135cb389e": [
    "2026-11-05",
@@ -386,6 +396,10 @@
   "931d1d1fb61725d1": [
    "2026-10-30",
    "Japan Airlines suffers third-party data breach exposing passenger info"
+  ],
+  "941e277ba15aa99e": [
+   "2026-11-06",
+   "Chainalysis says breach exposed credentials for all customers"
   ],
   "983ab8b5d4b16718": [
    "2026-11-03",
@@ -406,6 +420,10 @@
   "a212e990851bb9aa": [
    "2026-10-31",
    "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats"
+  ],
+  "a706922feef76cbb": [
+   "2026-11-06",
+   "MetaMask says recent attack didn't affect wallet infrastructure"
   ],
   "aa00a83e706f1432": [
    "2026-11-03",
@@ -435,10 +453,6 @@
    "2026-11-05",
    "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run"
   ],
-  "c5120161a306d6fc": [
-   "2026-10-29",
-   "Windows 11 KB5127936 update released with 41 changes and fixes"
-  ],
   "ccf3e44e7f67cd8e": [
    "2026-10-30",
    "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving"
@@ -446,6 +460,10 @@
   "cd17200bec849aee": [
    "2026-11-03",
    "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors"
+  ],
+  "ce86d2165d2f82bf": [
+   "2026-11-06",
+   "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It"
   ],
   "cf7bf66c31737ed8": [
    "2026-11-01",
@@ -467,10 +485,6 @@
    "2026-11-03",
    "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware"
   ],
-  "e0f0bac86d45ea83": [
-   "2026-10-29",
-   "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open"
-  ],
   "ee23cc992c42202f": [
    "2026-11-05",
    "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026"
@@ -482,10 +496,6 @@
   "f7a301bf16bfa63a": [
    "2026-11-02",
    "Hackers disrupt refrigeration systems at European supermarkets"
-  ],
-  "fa6478a9df14d955": [
-   "2026-10-29",
-   "New Cisco firewall zero-day exploited to crash SSL VPN devices"
   ],
   "ff4fa7f7f457c5af": [
    "2026-11-04",
@@ -506,14 +516,6 @@
   "kev:CVE-2026-119977": [
    "2026-11-04",
    "CVE-2026-119977: WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability"
-  ],
-  "kev:CVE-2026-41709": [
-   "2026-10-29",
-   "CVE-2026-41709: Broadcom VMWare ESX Insufficient Logging Vulnerability"
-  ],
-  "kev:CVE-2026-46300": [
-   "2026-10-29",
-   "CVE-2026-46300: Linux Kernel Missing Initialization of a Variable Vulnerability"
   ],
   "kev:CVE-2026-76418": [
    "2026-10-30",
