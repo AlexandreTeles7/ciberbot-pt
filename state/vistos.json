@@ -11,6 +11,7 @@
   "07ded687620c9a3f": "2026-11-06",
   "0c4cb52f67a4b751": "2026-10-23",
   "0d1dd88c3dfef7df": "2026-10-24",
+  "0ef1ad50a6b00f8d": "2026-11-07",
   "0fc545917cf25e50": "2026-11-06",
   "10b635c0c5610166": "2026-10-26",
   "10ea65771ed6ab64": "2026-10-23",
@@ -26,6 +27,7 @@
   "1ff80951fd06075f": "2026-10-22",
   "223c462a3bee5d9a": "2026-10-25",
   "2317a10c8ae199b9": "2026-10-28",
+  "235a55b1b1f97ee8": "2026-11-07",
   "236a880aa08ed0f7": "2026-11-02",
   "23a4ea514ae34149": "2026-11-05",
   "247e49d809980bd7": "2026-10-29",
@@ -47,6 +49,7 @@
   "322cd6145e6d248e": "2026-10-30",
   "325ff25b77b765bd": "2026-10-31",
   "33a9096f1329449b": "2026-10-27",
+  "342f053ed7e61040": "2026-11-07",
   "35bed86130fbe803": "2026-10-31",
   "360f703803c359f9": "2026-10-21",
   "3b11f73a0131f915": "2026-10-28",
@@ -78,10 +81,12 @@
   "6483914e8552b14f": "2026-11-04",
   "64f10897699a8adb": "2026-11-04",
   "65516a06ab6385eb": "2026-11-02",
+  "6e34794bc0b4e365": "2026-11-07",
   "7153257bd2ee8aa9": "2026-10-24",
   "72f0ec645c06997c": "2026-10-29",
   "73ff89d9e54d94e9": "2026-10-24",
   "77867c1a3e93bbaf": "2026-11-01",
+  "78f17183ce2a8c71": "2026-11-07",
   "7a185c8dd28887ab": "2026-10-28",
   "7a56590de43658cf": "2026-10-31",
   "7af0d3a1968a6eb8": "2026-10-21",
@@ -94,6 +99,7 @@
   "7ff8a46d80fca6af": "2026-10-28",
   "80ea3f790938b473": "2026-10-31",
   "816b0cc9bcf37f15": "2026-11-05",
+  "82e0032b3a0a1f7a": "2026-11-07",
   "8312b7e4bcf8250d": "2026-10-29",
   "8493208604e5f691": "2026-11-06",
   "84c33bee635a4d3c": "2026-10-22",
@@ -104,8 +110,10 @@
   "8cb5da7135cb389e": "2026-11-05",
   "8d1e797803bc9077": "2026-11-04",
   "8dfa4c01da706a7b": "2026-10-25",
+  "9163a649e86680ec": "2026-11-07",
   "923a6f68d1dc2a26": "2026-11-03",
   "931d1d1fb61725d1": "2026-10-30",
+  "93e9c76800069225": "2026-11-07",
   "941e277ba15aa99e": "2026-11-06",
   "97ae72ec6d5bf887": "2026-10-22",
   "983ab8b5d4b16718": "2026-11-03",
@@ -149,6 +157,7 @@
   "dbd63f3f484e39d8": "2026-10-27",
   "de30d2ce6557a445": "2026-10-23",
   "dea8933201de5391": "2026-11-03",
+  "df3181809a908e26": "2026-11-07",
   "e0ae260b2730b53a": "2026-10-26",
   "e0f0bac86d45ea83": "2026-10-29",
   "e13aa3e0536d58cf": "2026-10-23",
@@ -159,6 +168,7 @@
   "ec73a23647a4a017": "2026-10-22",
   "ee23cc992c42202f": "2026-11-05",
   "f46872103dd8d250": "2026-10-23",
+  "f4f71b36046b35fb": "2026-11-07",
   "f712928c8ed41532": "2026-11-04",
   "f7a301bf16bfa63a": "2026-11-02",
   "fa6478a9df14d955": "2026-10-29",
@@ -175,6 +185,7 @@
   "kev:CVE-2026-114625": "2026-10-24",
   "kev:CVE-2026-118527": "2026-10-31",
   "kev:CVE-2026-119977": "2026-11-04",
+  "kev:CVE-2026-19868": "2026-11-07",
   "kev:CVE-2026-41709": "2026-10-29",
   "kev:CVE-2026-46300": "2026-10-29",
   "kev:CVE-2026-48356": "2026-10-28",
@@ -189,10 +200,6 @@
    "2026-11-02",
    "BTCPay Server warns of hot wallet crypto thefts on outdated instances"
   ],
-  "05324fe81587751b": [
-   "2026-10-30",
-   "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV"
-  ],
   "0539d07ef28f9ef3": [
    "2026-11-03",
    "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing"
@@ -205,17 +212,13 @@
    "2026-11-06",
    "DigiCert data breach exposes customer information, identity documents"
   ],
+  "0ef1ad50a6b00f8d": [
+   "2026-11-07",
+   "QNAP says hackers breaching NAS devices in Plex2Shell attacks"
+  ],
   "0fc545917cf25e50": [
    "2026-11-06",
    "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs"
-  ],
-  "11e2d419eed360ba": [
-   "2026-10-30",
-   "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis"
-  ],
-  "147e205edeec7f3b": [
-   "2026-10-30",
-   "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor"
   ],
   "1779f457631c9925": [
    "2026-11-02",
@@ -224,6 +227,10 @@
   "1b52ce14888974c1": [
    "2026-11-01",
    "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection"
+  ],
+  "235a55b1b1f97ee8": [
+   "2026-11-07",
+   "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs"
   ],
   "236a880aa08ed0f7": [
    "2026-11-02",
@@ -265,13 +272,13 @@
    "2026-11-05",
    "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says"
   ],
-  "322cd6145e6d248e": [
-   "2026-10-30",
-   "Microsoft finally fixes VPN issues caused by September updates"
-  ],
   "325ff25b77b765bd": [
    "2026-10-31",
    "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access"
+  ],
+  "342f053ed7e61040": [
+   "2026-11-07",
+   "Fake security tools on GitHub push backdoors and infostealers"
   ],
   "35bed86130fbe803": [
    "2026-10-31",
@@ -337,9 +344,17 @@
    "2026-11-02",
    "Ivanti patches two more Connect Secure zero-days chained in attacks"
   ],
+  "6e34794bc0b4e365": [
+   "2026-11-07",
+   "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time"
+  ],
   "77867c1a3e93bbaf": [
    "2026-11-01",
    "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist"
+  ],
+  "78f17183ce2a8c71": [
+   "2026-11-07",
+   "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot"
   ],
   "7a56590de43658cf": [
    "2026-10-31",
@@ -353,10 +368,6 @@
    "2026-11-04",
    "CISA flags WordPress RCE flaw as actively exploited in attacks"
   ],
-  "7e4a62a39299b0f2": [
-   "2026-10-30",
-   "CISA says max severity GitLab flaw now exploited in the wild"
-  ],
   "7e7e16dcd7b29b4c": [
    "2026-11-02",
    "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks"
@@ -368,6 +379,10 @@
   "816b0cc9bcf37f15": [
    "2026-11-05",
    "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content"
+  ],
+  "82e0032b3a0a1f7a": [
+   "2026-11-07",
+   "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub"
   ],
   "8493208604e5f691": [
    "2026-11-06",
@@ -389,13 +404,17 @@
    "2026-11-04",
    "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes"
   ],
+  "9163a649e86680ec": [
+   "2026-11-07",
+   "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It"
+  ],
   "923a6f68d1dc2a26": [
    "2026-11-03",
    "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw"
   ],
-  "931d1d1fb61725d1": [
-   "2026-10-30",
-   "Japan Airlines suffers third-party data breach exposing passenger info"
+  "93e9c76800069225": [
+   "2026-11-07",
+   "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks"
   ],
   "941e277ba15aa99e": [
    "2026-11-06",
@@ -413,10 +432,6 @@
    "2026-11-01",
    "Northflank security breach leads to abuse of customers' AI API keys"
   ],
-  "9ede2fbb7007f983": [
-   "2026-10-30",
-   "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories"
-  ],
   "a212e990851bb9aa": [
    "2026-10-31",
    "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats"
@@ -428,10 +443,6 @@
   "aa00a83e706f1432": [
    "2026-11-03",
    "UK school estate hit by 3AM ransomware in suspected AI-assisted attack"
-  ],
-  "ad4ab055d32c0e10": [
-   "2026-10-30",
-   "Drupal warns of critical Commerce Core flaw exploited in attacks"
   ],
   "adc722ef6f8bb031": [
    "2026-11-03",
@@ -453,10 +464,6 @@
    "2026-11-05",
    "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run"
   ],
-  "ccf3e44e7f67cd8e": [
-   "2026-10-30",
-   "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving"
-  ],
   "cd17200bec849aee": [
    "2026-11-03",
    "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors"
@@ -477,17 +484,21 @@
    "2026-10-31",
    "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data"
   ],
-  "d7d0b1ca37bb0612": [
-   "2026-10-30",
-   "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw"
-  ],
   "dea8933201de5391": [
    "2026-11-03",
    "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware"
   ],
+  "df3181809a908e26": [
+   "2026-11-07",
+   "Runaway AI hacking agent behind WorkOS breach after escaping sandbox"
+  ],
   "ee23cc992c42202f": [
    "2026-11-05",
    "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026"
+  ],
+  "f4f71b36046b35fb": [
+   "2026-11-07",
+   "Veeam warns of Software Appliance boot failures on AMD EPYC hosts"
   ],
   "f712928c8ed41532": [
    "2026-11-04",
@@ -517,13 +528,9 @@
    "2026-11-04",
    "CVE-2026-119977: WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability"
   ],
-  "kev:CVE-2026-76418": [
-   "2026-10-30",
-   "CVE-2026-76418: Cisco Secure Firewall ASA Software and Cisco Secure FTD Software Unchecked Return Value to NULL Pointer Dereference Vulnerability"
-  ],
-  "kev:CVE-2026-97229": [
-   "2026-10-30",
-   "CVE-2026-97229: GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound Vulnerability"
+  "kev:CVE-2026-19868": [
+   "2026-11-07",
+   "CVE-2026-19868: SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability"
   ]
  }
 }
