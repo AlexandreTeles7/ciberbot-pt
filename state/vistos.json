@@ -22,8 +22,10 @@
   "187f0ea815623945": "2026-10-26",
   "1b52ce14888974c1": "2026-11-01",
   "1d9dfaf86dbd4e7b": "2026-10-21",
+  "1f9f8e2357b80706": "2026-11-09",
   "1fb3ab061dc5bf28": "2026-10-23",
   "1fc3644013f7b1e9": "2026-10-22",
+  "1ff5e289160abe4d": "2026-11-09",
   "1ff80951fd06075f": "2026-10-22",
   "223c462a3bee5d9a": "2026-10-25",
   "2317a10c8ae199b9": "2026-10-28",
@@ -33,6 +35,7 @@
   "247e49d809980bd7": "2026-10-29",
   "25e1980b6cd9663c": "2026-10-26",
   "26b5cde7ab423073": "2026-10-26",
+  "28101c6a3c570cf0": "2026-11-09",
   "291bdcc83b6af9d7": "2026-11-03",
   "29a62b990aed57d6": "2026-11-04",
   "2a000ff73bb6f7ac": "2026-10-27",
@@ -52,6 +55,8 @@
   "342f053ed7e61040": "2026-11-07",
   "35bed86130fbe803": "2026-10-31",
   "360f703803c359f9": "2026-10-21",
+  "392ab4caa5b24152": "2026-11-09",
+  "3a87eee490d2bd6e": "2026-11-09",
   "3b11f73a0131f915": "2026-10-28",
   "3b7b06199f66a875": "2026-11-05",
   "3cff7520904e9c06": "2026-10-29",
@@ -73,6 +78,7 @@
   "531efb27f6159372": "2026-11-03",
   "58c11ae1ff85094d": "2026-10-21",
   "594d0ea4475e799a": "2026-10-22",
+  "5a4d1c63e61dd391": "2026-11-09",
   "5b83a33e8a1a6f8f": "2026-10-26",
   "5e5d7bd79d9a90d4": "2026-10-21",
   "622754d280c91bdf": "2026-10-21",
@@ -81,6 +87,7 @@
   "6483914e8552b14f": "2026-11-04",
   "64f10897699a8adb": "2026-11-04",
   "65516a06ab6385eb": "2026-11-02",
+  "6b60799be66ee77f": "2026-11-09",
   "6e34794bc0b4e365": "2026-11-07",
   "7153257bd2ee8aa9": "2026-10-24",
   "72f0ec645c06997c": "2026-10-29",
@@ -105,6 +112,7 @@
   "84c33bee635a4d3c": "2026-10-22",
   "86fc80d7d9005f72": "2026-10-29",
   "877faff2da7d007c": "2026-11-02",
+  "893508bab2b3a700": "2026-11-09",
   "8c6a3be34f9e6140": "2026-11-02",
   "8c6e20208c035ba2": "2026-10-29",
   "8cb5da7135cb389e": "2026-11-05",
@@ -127,6 +135,7 @@
   "a706922feef76cbb": "2026-11-06",
   "a8e87db82c158675": "2026-11-08",
   "aa00a83e706f1432": "2026-11-03",
+  "ad2441413f27e2cb": "2026-11-09",
   "ad4ab055d32c0e10": "2026-10-30",
   "adc722ef6f8bb031": "2026-11-03",
   "af97a1baa7e30536": "2026-10-27",
@@ -157,6 +166,7 @@
   "da5af132b6ecf517": "2026-10-24",
   "db53400872d72a0d": "2026-10-21",
   "dbd63f3f484e39d8": "2026-10-27",
+  "ddbf1ba441ad947a": "2026-11-09",
   "de30d2ce6557a445": "2026-10-23",
   "dea8933201de5391": "2026-11-03",
   "df3181809a908e26": "2026-11-07",
@@ -177,6 +187,7 @@
   "fb0c164b0656aa65": "2026-10-26",
   "ff4fa7f7f457c5af": "2026-11-04",
   "kev:CVE-2024-27834": "2026-11-05",
+  "kev:CVE-2026-102895": "2026-11-09",
   "kev:CVE-2026-106931": "2026-10-21",
   "kev:CVE-2026-109618": "2026-10-27",
   "kev:CVE-2026-109619": "2026-10-27",
@@ -185,8 +196,10 @@
   "kev:CVE-2026-111357": "2026-10-31",
   "kev:CVE-2026-111497": "2026-10-28",
   "kev:CVE-2026-114625": "2026-10-24",
+  "kev:CVE-2026-116779": "2026-11-09",
   "kev:CVE-2026-118527": "2026-10-31",
   "kev:CVE-2026-119977": "2026-11-04",
+  "kev:CVE-2026-123158": "2026-11-09",
   "kev:CVE-2026-19868": "2026-11-07",
   "kev:CVE-2026-41709": "2026-10-29",
   "kev:CVE-2026-46300": "2026-10-29",
@@ -226,9 +239,13 @@
    "2026-11-02",
    "Microsoft fixes Smart App Control broken by October Windows update"
   ],
-  "1b52ce14888974c1": [
-   "2026-11-01",
-   "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection"
+  "1f9f8e2357b80706": [
+   "2026-11-09",
+   "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety"
+  ],
+  "1ff5e289160abe4d": [
+   "2026-11-09",
+   "The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI."
   ],
   "235a55b1b1f97ee8": [
    "2026-11-07",
@@ -241,6 +258,10 @@
   "23a4ea514ae34149": [
    "2026-11-05",
    "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out"
+  ],
+  "28101c6a3c570cf0": [
+   "2026-11-09",
+   "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars"
   ],
   "291bdcc83b6af9d7": [
    "2026-11-03",
@@ -258,10 +279,6 @@
    "2026-11-06",
    "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers"
   ],
-  "2b83e3830b432881": [
-   "2026-11-01",
-   "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat"
-  ],
   "322116d1bcc16570": [
    "2026-11-05",
    "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says"
@@ -269,6 +286,14 @@
   "342f053ed7e61040": [
    "2026-11-07",
    "Fake security tools on GitHub push backdoors and infostealers"
+  ],
+  "392ab4caa5b24152": [
+   "2026-11-09",
+   "US bans MEXC crypto exchange over sanctions evasion, cybercrime links"
+  ],
+  "3a87eee490d2bd6e": [
+   "2026-11-09",
+   "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More"
   ],
   "3b7b06199f66a875": [
    "2026-11-05",
@@ -290,10 +315,6 @@
    "2026-11-02",
    "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access"
   ],
-  "475c39df4ec690c2": [
-   "2026-11-01",
-   "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key"
-  ],
   "49540df35d1fc1f9": [
    "2026-11-05",
    "DreamHost confirms data breach exposed FTP logins and webmail sessions"
@@ -309,6 +330,10 @@
   "531efb27f6159372": [
    "2026-11-03",
    "Harvard University data breach exposed info of 851,000 accounts"
+  ],
+  "5a4d1c63e61dd391": [
+   "2026-11-09",
+   "Ukraine dismantles crypto scam network that stole €4.3 million"
   ],
   "626a9341f83dc60b": [
    "2026-11-05",
@@ -326,13 +351,13 @@
    "2026-11-02",
    "Ivanti patches two more Connect Secure zero-days chained in attacks"
   ],
+  "6b60799be66ee77f": [
+   "2026-11-09",
+   "Hackers exploit SSHole OpenSSH flaw to breach Linux systems"
+  ],
   "6e34794bc0b4e365": [
    "2026-11-07",
    "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time"
-  ],
-  "77867c1a3e93bbaf": [
-   "2026-11-01",
-   "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist"
   ],
   "78f17183ce2a8c71": [
    "2026-11-07",
@@ -366,6 +391,10 @@
    "2026-11-02",
    "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers"
   ],
+  "893508bab2b3a700": [
+   "2026-11-09",
+   "Binance denies data breach after alleged ShinyHunters claims"
+  ],
   "8c6a3be34f9e6140": [
    "2026-11-02",
    "Synology warns of C3RB3R ransomware attacks targeting NAS devices"
@@ -398,14 +427,6 @@
    "2026-11-03",
    "The 4 Elements of Exposure Prioritization and How to Operationalize Them"
   ],
-  "9a9c7ae127735754": [
-   "2026-11-01",
-   "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script"
-  ],
-  "9bb9f09dc3ac9075": [
-   "2026-11-01",
-   "Northflank security breach leads to abuse of customers' AI API keys"
-  ],
   "a706922feef76cbb": [
    "2026-11-06",
    "MetaMask says recent attack didn't affect wallet infrastructure"
@@ -418,6 +439,10 @@
    "2026-11-03",
    "UK school estate hit by 3AM ransomware in suspected AI-assisted attack"
   ],
+  "ad2441413f27e2cb": [
+   "2026-11-09",
+   "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia"
+  ],
   "adc722ef6f8bb031": [
    "2026-11-03",
    "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More"
@@ -425,10 +450,6 @@
   "b64a141a0615f5d6": [
    "2026-11-05",
    "Closing the Identity Gap at the Service Desk"
-  ],
-  "b65441b6fb2b5a93": [
-   "2026-11-01",
-   "New Android SMS of Death exploit can remotely crash unpatched phones"
   ],
   "be72867527b132f3": [
    "2026-11-03",
@@ -450,9 +471,9 @@
    "2026-11-06",
    "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It"
   ],
-  "cf7bf66c31737ed8": [
-   "2026-11-01",
-   "Reddit to lock content behind logins to fight scrapers"
+  "ddbf1ba441ad947a": [
+   "2026-11-09",
+   "FBI agent stole $2.5 million in crypto from hackers under investigation"
   ],
   "dea8933201de5391": [
    "2026-11-03",
@@ -486,9 +507,21 @@
    "2026-11-05",
    "CVE-2024-27834: Apple Multiple Products Improper Authentication Vulnerability"
   ],
+  "kev:CVE-2026-102895": [
+   "2026-11-09",
+   "CVE-2026-102895: GPUStack Improper Authentication Vulnerability"
+  ],
+  "kev:CVE-2026-116779": [
+   "2026-11-09",
+   "CVE-2026-116779: SignalWire FreeSwitch Code Injection Vulnerability"
+  ],
   "kev:CVE-2026-119977": [
    "2026-11-04",
    "CVE-2026-119977: WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability"
+  ],
+  "kev:CVE-2026-123158": [
+   "2026-11-09",
+   "CVE-2026-123158: OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability"
   ],
   "kev:CVE-2026-19868": [
    "2026-11-07",
