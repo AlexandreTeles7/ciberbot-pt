@@ -6,6 +6,7 @@
   "05324fe81587751b": "2026-10-30",
   "0539d07ef28f9ef3": "2026-11-03",
   "056dff6934f33a5f": "2026-10-26",
+  "05a43acc03a5bf1f": "2026-11-10",
   "0706d993935be7b7": "2026-11-06",
   "0778766d81ebd40a": "2026-10-28",
   "07ded687620c9a3f": "2026-11-06",
@@ -35,6 +36,7 @@
   "247e49d809980bd7": "2026-10-29",
   "25e1980b6cd9663c": "2026-10-26",
   "26b5cde7ab423073": "2026-10-26",
+  "27f7a293a72555ec": "2026-11-10",
   "28101c6a3c570cf0": "2026-11-09",
   "291bdcc83b6af9d7": "2026-11-03",
   "29a62b990aed57d6": "2026-11-04",
@@ -90,6 +92,8 @@
   "6b60799be66ee77f": "2026-11-09",
   "6e34794bc0b4e365": "2026-11-07",
   "7153257bd2ee8aa9": "2026-10-24",
+  "7181bc89e17ec8f7": "2026-11-10",
+  "71fc018d64212e1a": "2026-11-10",
   "72f0ec645c06997c": "2026-10-29",
   "73ff89d9e54d94e9": "2026-10-24",
   "77867c1a3e93bbaf": "2026-11-01",
@@ -128,6 +132,7 @@
   "9a9c7ae127735754": "2026-11-01",
   "9bb9f09dc3ac9075": "2026-11-01",
   "9c7dbd668911c763": "2026-10-27",
+  "9c8a2348b395f8b5": "2026-11-10",
   "9ede2fbb7007f983": "2026-10-30",
   "9ef8e97907d2b0da": "2026-10-23",
   "a16b2754a6c591fd": "2026-10-26",
@@ -135,8 +140,10 @@
   "a706922feef76cbb": "2026-11-06",
   "a8e87db82c158675": "2026-11-08",
   "aa00a83e706f1432": "2026-11-03",
+  "ab020fdbb671b250": "2026-11-10",
   "ad2441413f27e2cb": "2026-11-09",
   "ad4ab055d32c0e10": "2026-10-30",
+  "ad5759c70e6325dd": "2026-11-10",
   "adc722ef6f8bb031": "2026-11-03",
   "af97a1baa7e30536": "2026-10-27",
   "b18cc5e9f3ba64ec": "2026-10-27",
@@ -152,6 +159,7 @@
   "c41b887e34f9ae90": "2026-11-05",
   "c448be233b4677e5": "2026-10-24",
   "c5120161a306d6fc": "2026-10-29",
+  "cc1c23ce200849b7": "2026-11-10",
   "ccf3e44e7f67cd8e": "2026-10-30",
   "cd17200bec849aee": "2026-11-03",
   "ce86d2165d2f82bf": "2026-11-06",
@@ -171,6 +179,7 @@
   "dea8933201de5391": "2026-11-03",
   "df3181809a908e26": "2026-11-07",
   "e0ae260b2730b53a": "2026-10-26",
+  "e0c28598a04a6ac2": "2026-11-10",
   "e0f0bac86d45ea83": "2026-10-29",
   "e13aa3e0536d58cf": "2026-10-23",
   "e2f4209aab878930": "2026-10-28",
@@ -179,6 +188,7 @@
   "e99fb38de9d42b5b": "2026-10-21",
   "ec73a23647a4a017": "2026-10-22",
   "ee23cc992c42202f": "2026-11-05",
+  "f44f79890a66cae0": "2026-11-10",
   "f46872103dd8d250": "2026-10-23",
   "f4f71b36046b35fb": "2026-11-07",
   "f712928c8ed41532": "2026-11-04",
@@ -200,6 +210,7 @@
   "kev:CVE-2026-118527": "2026-10-31",
   "kev:CVE-2026-119977": "2026-11-04",
   "kev:CVE-2026-123158": "2026-11-09",
+  "kev:CVE-2026-123218": "2026-11-10",
   "kev:CVE-2026-19868": "2026-11-07",
   "kev:CVE-2026-41709": "2026-10-29",
   "kev:CVE-2026-46300": "2026-10-29",
@@ -211,13 +222,13 @@
   "kev:CVE-2026-97229": "2026-10-30"
  },
  "titulos": {
-  "04057c8d489e0045": [
-   "2026-11-02",
-   "BTCPay Server warns of hot wallet crypto thefts on outdated instances"
-  ],
   "0539d07ef28f9ef3": [
    "2026-11-03",
    "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing"
+  ],
+  "05a43acc03a5bf1f": [
+   "2026-11-10",
+   "Hackers now exploit critical Barracuda ESG flaws to gain root access"
   ],
   "0706d993935be7b7": [
    "2026-11-06",
@@ -235,10 +246,6 @@
    "2026-11-06",
    "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs"
   ],
-  "1779f457631c9925": [
-   "2026-11-02",
-   "Microsoft fixes Smart App Control broken by October Windows update"
-  ],
   "1f9f8e2357b80706": [
    "2026-11-09",
    "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety"
@@ -251,13 +258,13 @@
    "2026-11-07",
    "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs"
   ],
-  "236a880aa08ed0f7": [
-   "2026-11-02",
-   "Your Mobile Carrier Stores Your Call Logs for Years"
-  ],
   "23a4ea514ae34149": [
    "2026-11-05",
    "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out"
+  ],
+  "27f7a293a72555ec": [
+   "2026-11-10",
+   "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware"
   ],
   "28101c6a3c570cf0": [
    "2026-11-09",
@@ -311,17 +318,9 @@
    "2026-11-06",
    "D-Link warns of multiple zero-days in DGS-3130 Series switches"
   ],
-  "43a45abe0c3f3e56": [
-   "2026-11-02",
-   "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access"
-  ],
   "49540df35d1fc1f9": [
    "2026-11-05",
    "DreamHost confirms data breach exposed FTP logins and webmail sessions"
-  ],
-  "4e197ce9171682ba": [
-   "2026-11-02",
-   "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment"
   ],
   "4ff14f41af02dbe5": [
    "2026-11-05",
@@ -347,10 +346,6 @@
    "2026-11-04",
    "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction"
   ],
-  "65516a06ab6385eb": [
-   "2026-11-02",
-   "Ivanti patches two more Connect Secure zero-days chained in attacks"
-  ],
   "6b60799be66ee77f": [
    "2026-11-09",
    "Hackers exploit SSHole OpenSSH flaw to breach Linux systems"
@@ -358,6 +353,14 @@
   "6e34794bc0b4e365": [
    "2026-11-07",
    "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time"
+  ],
+  "7181bc89e17ec8f7": [
+   "2026-11-10",
+   "Google patches eighth Chrome zero-day exploited in attacks this year"
+  ],
+  "71fc018d64212e1a": [
+   "2026-11-10",
+   "Ransomware recovery is now a client retention metric"
   ],
   "78f17183ce2a8c71": [
    "2026-11-07",
@@ -371,10 +374,6 @@
    "2026-11-04",
    "CISA flags WordPress RCE flaw as actively exploited in attacks"
   ],
-  "7e7e16dcd7b29b4c": [
-   "2026-11-02",
-   "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks"
-  ],
   "816b0cc9bcf37f15": [
    "2026-11-05",
    "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content"
@@ -387,17 +386,9 @@
    "2026-11-06",
    "The Flood is Coming And The Pipes Were Already Full"
   ],
-  "877faff2da7d007c": [
-   "2026-11-02",
-   "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers"
-  ],
   "893508bab2b3a700": [
    "2026-11-09",
    "Binance denies data breach after alleged ShinyHunters claims"
-  ],
-  "8c6a3be34f9e6140": [
-   "2026-11-02",
-   "Synology warns of C3RB3R ransomware attacks targeting NAS devices"
   ],
   "8cb5da7135cb389e": [
    "2026-11-05",
@@ -427,6 +418,10 @@
    "2026-11-03",
    "The 4 Elements of Exposure Prioritization and How to Operationalize Them"
   ],
+  "9c8a2348b395f8b5": [
+   "2026-11-10",
+   "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws"
+  ],
   "a706922feef76cbb": [
    "2026-11-06",
    "MetaMask says recent attack didn't affect wallet infrastructure"
@@ -439,9 +434,17 @@
    "2026-11-03",
    "UK school estate hit by 3AM ransomware in suspected AI-assisted attack"
   ],
+  "ab020fdbb671b250": [
+   "2026-11-10",
+   "N-able takes cloud platform offline after 30+ \"zero-days\" published"
+  ],
   "ad2441413f27e2cb": [
    "2026-11-09",
    "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia"
+  ],
+  "ad5759c70e6325dd": [
+   "2026-11-10",
+   "Vanderbilt University hit in BYOD ransomware attack, data theft claimed"
   ],
   "adc722ef6f8bb031": [
    "2026-11-03",
@@ -463,6 +466,10 @@
    "2026-11-05",
    "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run"
   ],
+  "cc1c23ce200849b7": [
+   "2026-11-10",
+   "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution"
+  ],
   "cd17200bec849aee": [
    "2026-11-03",
    "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors"
@@ -483,9 +490,17 @@
    "2026-11-07",
    "Runaway AI hacking agent behind WorkOS breach after escaping sandbox"
   ],
+  "e0c28598a04a6ac2": [
+   "2026-11-10",
+   "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026"
+  ],
   "ee23cc992c42202f": [
    "2026-11-05",
    "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026"
+  ],
+  "f44f79890a66cae0": [
+   "2026-11-10",
+   "SEGA newsletter data breach exposes 2.2 million email addresses"
   ],
   "f4f71b36046b35fb": [
    "2026-11-07",
@@ -494,10 +509,6 @@
   "f712928c8ed41532": [
    "2026-11-04",
    "Google Calendar phishing campaign hijacks sessions, bypasses MFA"
-  ],
-  "f7a301bf16bfa63a": [
-   "2026-11-02",
-   "Hackers disrupt refrigeration systems at European supermarkets"
   ],
   "ff4fa7f7f457c5af": [
    "2026-11-04",
@@ -522,6 +533,10 @@
   "kev:CVE-2026-123158": [
    "2026-11-09",
    "CVE-2026-123158: OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability"
+  ],
+  "kev:CVE-2026-123218": [
+   "2026-11-10",
+   "CVE-2026-123218: IBM Aspera Faspex Incorrect Authorization Vulnerability"
   ],
   "kev:CVE-2026-19868": [
    "2026-11-07",

@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="pt-PT">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CiberBot PT — Resumo diário de cibersegurança — 10 de novembro de 2026</title>
+<meta name="description" content="Resumo diário de cibersegurança em português de Portugal: ataques, vulnerabilidades e alertas.">
+<style>
+:root{--fundo:#f6f7f9;--cartao:#fff;--texto:#16191d;--suave:#5b6472;--linha:#e3e6ea;--link:#0b5fd6;--chip:#eef1f5;
+--s-portugal:#1f8a4c;--s-exploradas:#d6322f;--s-criticas:#e07a12;--s-noticias:#3a6fd8;--s-outra:#6b7280}
+@media (prefers-color-scheme:dark){:root{--fundo:#0f1216;--cartao:#171b21;--texto:#e8eaed;--suave:#9aa3af;
+--linha:#262c34;--link:#7db4ff;--chip:#222831;--s-portugal:#4cc17f;--s-exploradas:#ff6b66;--s-criticas:#ffa04a;
+--s-noticias:#7aa2ff;--s-outra:#9aa3af}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--fundo);color:var(--texto);font:16px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+a{color:var(--link)}
+.caixa{max-width:760px;margin:0 auto;padding:0 16px}
+.topo{padding:28px 0 4px}
+.marca{margin:0;color:var(--suave);font-size:.8rem;letter-spacing:.06em;text-transform:uppercase}
+h1{margin:.25em 0 .15em;font-size:1.7rem;line-height:1.2}
+.data{margin:0;color:var(--suave)}
+h2{font-size:1.1rem;margin:2em 0 .7em}
+.cartao{background:var(--cartao);border:1px solid var(--linha);border-left:4px solid var(--cor);
+border-radius:10px;padding:13px 16px;margin:0 0 12px}
+.s-portugal{--cor:var(--s-portugal)}.s-exploradas{--cor:var(--s-exploradas)}
+.s-criticas{--cor:var(--s-criticas)}.s-noticias{--cor:var(--s-noticias)}.s-outra{--cor:var(--s-outra)}
+.cartao h3{margin:0 0 .3em;font-size:1.02rem;line-height:1.35}
+.cartao h3 a{color:inherit;text-decoration:none}.cartao h3 a:hover{text-decoration:underline}
+.cartao p{margin:.3em 0}
+.meta{color:var(--suave);font-size:.85rem}
+.chip{display:inline-block;background:var(--chip);border-radius:999px;padding:1px 9px;margin:3px 4px 0 0;font-size:.78rem}
+.nota{background:var(--chip);border-radius:10px;padding:10px 14px;font-size:.9rem;color:var(--suave)}
+.arquivo ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:6px 14px}
+.rodape{color:var(--suave);font-size:.82rem;padding:28px 16px 44px}
+</style>
+</head>
+<body>
+<header class="topo caixa">
+<p class="marca">CiberBot PT</p>
+<h1>CiberBot PT — Resumo diário de cibersegurança</h1>
+<p class="data">10 de novembro de 2026 · 11 destaques</p>
+</header>
+<main class="caixa">
+<section><h2>🔴 Vulnerabilidades exploradas ativamente</h2>
+<article class="cartao s-exploradas"><h3><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-123218" rel="noopener noreferrer">CVE-2026-123218: IBM Aspera Faspex Incorrect Authorization Vulnerability</a></h3><p>IBM Aspera Faspex contains an incorrect authorization vulnerability that could allow an authenticated user to craft a specific message to bypass authorization, causing privilege escalations.</p><p class="meta">CISA — Vulnerabilidades exploradas (KEV) · 09/11</p><span class="chip">Explorada ativamente</span><span class="chip">Prazo CISA: 12/11/2026</span><span class="chip">Em inglês</span></article></section>
+<section><h2>📰 Ataques e notícias</h2>
+<article class="cartao s-noticias"><h3><a href="https://thehackernews.com/2026/11/google-issues-chrome-security-update.html" rel="noopener noreferrer">Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026</a></h3><p>Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: N/A), has been described as a use-after-free bug in the XML component. Use-after-free bugs typically occur when a program attempts to access a memory location after</p><p class="meta">The Hacker News · 10/11</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/" rel="noopener noreferrer">Google patches eighth Chrome zero-day exploited in attacks this year</a></h3><p>Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]</p><p class="meta">BleepingComputer · 10/11</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/" rel="noopener noreferrer">N-able takes cloud platform offline after 30+ "zero-days" published</a></h3><p>N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day vulnerabilities, including exploits that could let attackers take over vulnerable systems. [...]</p><p class="meta">BleepingComputer · 09/11</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/" rel="noopener noreferrer">Ransomware recovery is now a client retention metric</a></h3><p>Recovering from ransomware doesn't guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create these problems and how integrated workflows can improve response times, transparency, and client retention. [...]</p><p class="meta">BleepingComputer · 10/11</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html" rel="noopener noreferrer">CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws</a></h3><p>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added four security flaws impacting GPUStack, SignalWire FreeSwitch, OpenBSD OpenSSH, and IBM Aspera Faspex to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-123218 (CVSS score: 9.8) - An incorrect authorization vulnerability</p><p class="meta">The Hacker News · 10/11</p><span class="chip">Na lista KEV da CISA</span><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/" rel="noopener noreferrer">Vanderbilt University hit in BYOD ransomware attack, data theft claimed</a></h3><p>Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data. [...]</p><p class="meta">BleepingComputer · 09/11</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html" rel="noopener noreferrer">SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution</a></h3><p>Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day—the vendor rates all four 10.0, the maximum CVSS score. Three are in the SAP NetWeaver application server, the software SAP systems run on, and one is in the Web Dispatcher, which receives web requests from the internet and passes them on to that server. The flaws in the Web</p><p class="meta">The Hacker News · 10/11</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/" rel="noopener noreferrer">SEGA newsletter data breach exposes 2.2 million email addresses</a></h3><p>Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]</p><p class="meta">BleepingComputer · 09/11</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/" rel="noopener noreferrer">Hackers now exploit critical Barracuda ESG flaws to gain root access</a></h3><p>Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]</p><p class="meta">BleepingComputer · 10/11</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html" rel="noopener noreferrer">Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware</a></h3><p>Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desktop 0.56.2. Both releases download and run code built to steal the wallet key that Swarm Desktop keeps for its node, along with the stored password that unlocks it. The code is also built to install a backdoor</p><p class="meta">The Hacker News · 09/11</p><span class="chip">Em inglês</span></article></section>
+<p class="nota">Notas desta edição:</p><ul class="nota"><li>Fonte «NVD — CVE críticos» indisponível: services.nvd.nist.gov: HTTP 403</li><li>Sem ANTHROPIC_API_KEY: os itens em inglês ficam sem tradução.</li></ul>
+<p><a href="../index.html">← Edição mais recente</a></p>
+</main>
+<footer class="rodape caixa">
+Gerado automaticamente em 10/11/2026 às 15:27. Traduzido automaticamente para português de Portugal. Confirme sempre os detalhes na fonte original.
+</footer>
+</body>
+</html>

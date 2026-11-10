@@ -1,0 +1,193 @@
+{
+ "data": "2026-11-10",
+ "gerado_em": "2026-11-10T15:27:25.302338+00:00",
+ "itens": [
+  {
+   "id": "kev:CVE-2026-123218",
+   "titulo": "CVE-2026-123218: IBM Aspera Faspex Incorrect Authorization Vulnerability",
+   "resumo": "IBM Aspera Faspex contains an incorrect authorization vulnerability that could allow an authenticated user to craft a specific message to bypass authorization, causing privilege escalations.",
+   "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-123218",
+   "fonte": "CISA — Vulnerabilidades exploradas (KEV)",
+   "idioma": "en",
+   "categoria": "exploradas",
+   "publicado": "2026-11-09T12:00:00+00:00",
+   "pontuacao": 62.4,
+   "cves": [
+    "CVE-2026-123218"
+   ],
+   "etiquetas": [
+    "Explorada ativamente",
+    "Prazo CISA: 12/11/2026"
+   ],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "e0c28598a04a6ac2",
+   "titulo": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
+   "resumo": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: N/A), has been described as a use-after-free bug in the XML component. Use-after-free bugs typically occur when a program attempts to access a memory location after",
+   "url": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
+   "fonte": "The Hacker News",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-10T06:52:54+00:00",
+   "pontuacao": 77.6,
+   "cves": [
+    "CVE-2026-125350"
+   ],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "7181bc89e17ec8f7",
+   "titulo": "Google patches eighth Chrome zero-day exploited in attacks this year",
+   "resumo": "Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]",
+   "url": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
+   "fonte": "BleepingComputer",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-10T08:51:25+00:00",
+   "pontuacao": 58.2,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "ab020fdbb671b250",
+   "titulo": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
+   "resumo": "N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day vulnerabilities, including exploits that could let attackers take over vulnerable systems. [...]",
+   "url": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
+   "fonte": "BleepingComputer",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-09T21:26:25+00:00",
+   "pontuacao": 55.0,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "71fc018d64212e1a",
+   "titulo": "Ransomware recovery is now a client retention metric",
+   "resumo": "Recovering from ransomware doesn't guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create these problems and how integrated workflows can improve response times, transparency, and client retention. [...]",
+   "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
+   "fonte": "BleepingComputer",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-10T15:01:11+00:00",
+   "pontuacao": 49.9,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "9c8a2348b395f8b5",
+   "titulo": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
+   "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added four security flaws impacting GPUStack, SignalWire FreeSwitch, OpenBSD OpenSSH, and IBM Aspera Faspex to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-123218 (CVSS score: 9.8) - An incorrect authorization vulnerability",
+   "url": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html",
+   "fonte": "The Hacker News",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-10T06:31:42+00:00",
+   "pontuacao": 47.5,
+   "cves": [
+    "CVE-2026-123218"
+   ],
+   "etiquetas": [
+    "Na lista KEV da CISA"
+   ],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "ad5759c70e6325dd",
+   "titulo": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
+   "resumo": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data. [...]",
+   "url": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
+   "fonte": "BleepingComputer",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-09T23:52:12+00:00",
+   "pontuacao": 45.7,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "cc1c23ce200849b7",
+   "titulo": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
+   "resumo": "Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day—the vendor rates all four 10.0, the maximum CVSS score. Three are in the SAP NetWeaver application server, the software SAP systems run on, and one is in the Web Dispatcher, which receives web requests from the internet and passes them on to that server. The flaws in the Web",
+   "url": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
+   "fonte": "The Hacker News",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-10T10:02:40+00:00",
+   "pontuacao": 45.5,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "f44f79890a66cae0",
+   "titulo": "SEGA newsletter data breach exposes 2.2 million email addresses",
+   "resumo": "Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]",
+   "url": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
+   "fonte": "BleepingComputer",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-09T22:09:33+00:00",
+   "pontuacao": 40.2,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "05a43acc03a5bf1f",
+   "titulo": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
+   "resumo": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
+   "fonte": "BleepingComputer",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-10T10:10:20+00:00",
+   "pontuacao": 39.5,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "27f7a293a72555ec",
+   "titulo": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
+   "resumo": "Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desktop 0.56.2. Both releases download and run code built to steal the wallet key that Swarm Desktop keeps for its node, along with the stored password that unlocks it. The code is also built to install a backdoor",
+   "url": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
+   "fonte": "The Hacker News",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-09T17:36:28+00:00",
+   "pontuacao": 36.9,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  }
+ ]
+}
