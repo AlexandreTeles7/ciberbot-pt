@@ -10,6 +10,7 @@
   "0706d993935be7b7": "2026-11-06",
   "0778766d81ebd40a": "2026-10-28",
   "07ded687620c9a3f": "2026-11-06",
+  "0aeb9484726119ee": "2026-11-11",
   "0c4cb52f67a4b751": "2026-10-23",
   "0d1dd88c3dfef7df": "2026-10-24",
   "0ef1ad50a6b00f8d": "2026-11-07",
@@ -63,6 +64,7 @@
   "3b7b06199f66a875": "2026-11-05",
   "3cff7520904e9c06": "2026-10-29",
   "3f25203e8a3b16f0": "2026-10-21",
+  "3f9541b99a134679": "2026-11-11",
   "401c132c974373b0": "2026-11-06",
   "412bbcc50c0cc7e0": "2026-11-04",
   "42f5da3d18205a2e": "2026-11-06",
@@ -72,11 +74,13 @@
   "48f4a4fb8ae4d85c": "2026-10-24",
   "49540df35d1fc1f9": "2026-11-05",
   "4a36dea4db8df076": "2026-10-27",
+  "4c298dc8c56b18e7": "2026-11-11",
   "4c7ac59e25565bd3": "2026-10-23",
   "4cf6d8665d7bdcac": "2026-10-24",
   "4e197ce9171682ba": "2026-11-02",
   "4ff14f41af02dbe5": "2026-11-05",
   "5060525796dadc15": "2026-10-28",
+  "5158c17ef38b6f4a": "2026-11-11",
   "531efb27f6159372": "2026-11-03",
   "58c11ae1ff85094d": "2026-10-21",
   "594d0ea4475e799a": "2026-10-22",
@@ -85,6 +89,7 @@
   "5e5d7bd79d9a90d4": "2026-10-21",
   "622754d280c91bdf": "2026-10-21",
   "626a9341f83dc60b": "2026-11-05",
+  "62c79980de8e0e24": "2026-11-11",
   "647ce94048879b72": "2026-10-24",
   "6483914e8552b14f": "2026-11-04",
   "64f10897699a8adb": "2026-11-04",
@@ -94,6 +99,7 @@
   "7153257bd2ee8aa9": "2026-10-24",
   "7181bc89e17ec8f7": "2026-11-10",
   "71fc018d64212e1a": "2026-11-10",
+  "721f00e4f68d41c4": "2026-11-11",
   "72f0ec645c06997c": "2026-10-29",
   "73ff89d9e54d94e9": "2026-10-24",
   "77867c1a3e93bbaf": "2026-11-01",
@@ -124,6 +130,7 @@
   "8dfa4c01da706a7b": "2026-10-25",
   "9163a649e86680ec": "2026-11-07",
   "923a6f68d1dc2a26": "2026-11-03",
+  "92699249dadcc21c": "2026-11-11",
   "931d1d1fb61725d1": "2026-10-30",
   "93e9c76800069225": "2026-11-07",
   "941e277ba15aa99e": "2026-11-06",
@@ -133,6 +140,7 @@
   "9bb9f09dc3ac9075": "2026-11-01",
   "9c7dbd668911c763": "2026-10-27",
   "9c8a2348b395f8b5": "2026-11-10",
+  "9d29ca801c5758a9": "2026-11-11",
   "9ede2fbb7007f983": "2026-10-30",
   "9ef8e97907d2b0da": "2026-10-23",
   "a16b2754a6c591fd": "2026-10-26",
@@ -147,6 +155,7 @@
   "adc722ef6f8bb031": "2026-11-03",
   "af97a1baa7e30536": "2026-10-27",
   "b18cc5e9f3ba64ec": "2026-10-27",
+  "b2f670a6b52ee680": "2026-11-11",
   "b64a141a0615f5d6": "2026-11-05",
   "b65441b6fb2b5a93": "2026-11-01",
   "b82fb8aafed9023c": "2026-10-27",
@@ -169,6 +178,7 @@
   "d6ad234eaf6da46c": "2026-10-31",
   "d7d0b1ca37bb0612": "2026-10-30",
   "d9406a657ec1d3c5": "2026-10-23",
+  "d9f13916fd1a2c31": "2026-11-11",
   "da00ff3ce8e95e36": "2026-10-22",
   "da3d205db86b9086": "2026-10-26",
   "da5af132b6ecf517": "2026-10-24",
@@ -205,13 +215,19 @@
   "kev:CVE-2026-110936": "2026-10-21",
   "kev:CVE-2026-111357": "2026-10-31",
   "kev:CVE-2026-111497": "2026-10-28",
+  "kev:CVE-2026-111560": "2026-11-11",
+  "kev:CVE-2026-111793": "2026-11-11",
   "kev:CVE-2026-114625": "2026-10-24",
+  "kev:CVE-2026-116606": "2026-11-11",
   "kev:CVE-2026-116779": "2026-11-09",
   "kev:CVE-2026-118527": "2026-10-31",
   "kev:CVE-2026-119977": "2026-11-04",
   "kev:CVE-2026-123158": "2026-11-09",
   "kev:CVE-2026-123218": "2026-11-10",
+  "kev:CVE-2026-124194": "2026-11-11",
+  "kev:CVE-2026-125350": "2026-11-11",
   "kev:CVE-2026-19868": "2026-11-07",
+  "kev:CVE-2026-20320": "2026-11-11",
   "kev:CVE-2026-41709": "2026-10-29",
   "kev:CVE-2026-46300": "2026-10-29",
   "kev:CVE-2026-48356": "2026-10-28",
@@ -222,10 +238,6 @@
   "kev:CVE-2026-97229": "2026-10-30"
  },
  "titulos": {
-  "0539d07ef28f9ef3": [
-   "2026-11-03",
-   "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing"
-  ],
   "05a43acc03a5bf1f": [
    "2026-11-10",
    "Hackers now exploit critical Barracuda ESG flaws to gain root access"
@@ -237,6 +249,10 @@
   "07ded687620c9a3f": [
    "2026-11-06",
    "DigiCert data breach exposes customer information, identity documents"
+  ],
+  "0aeb9484726119ee": [
+   "2026-11-11",
+   "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches"
   ],
   "0ef1ad50a6b00f8d": [
    "2026-11-07",
@@ -270,10 +286,6 @@
    "2026-11-09",
    "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars"
   ],
-  "291bdcc83b6af9d7": [
-   "2026-11-03",
-   "Police seizes over 100 servers in investment scam crackdown"
-  ],
   "29a62b990aed57d6": [
    "2026-11-04",
    "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads"
@@ -306,6 +318,10 @@
    "2026-11-05",
    "GhostMap Android flaw lets malicious app trigger persistent boot loop"
   ],
+  "3f9541b99a134679": [
+   "2026-11-11",
+   "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users"
+  ],
   "401c132c974373b0": [
    "2026-11-06",
    "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux"
@@ -322,13 +338,17 @@
    "2026-11-05",
    "DreamHost confirms data breach exposed FTP logins and webmail sessions"
   ],
+  "4c298dc8c56b18e7": [
+   "2026-11-11",
+   "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem"
+  ],
   "4ff14f41af02dbe5": [
    "2026-11-05",
    "Recorteiro: a Rust banking trojan that cuts holes in your screen and hides behind fake electricity bills in Portugal"
   ],
-  "531efb27f6159372": [
-   "2026-11-03",
-   "Harvard University data breach exposed info of 851,000 accounts"
+  "5158c17ef38b6f4a": [
+   "2026-11-11",
+   "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons"
   ],
   "5a4d1c63e61dd391": [
    "2026-11-09",
@@ -337,6 +357,10 @@
   "626a9341f83dc60b": [
    "2026-11-05",
    "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches"
+  ],
+  "62c79980de8e0e24": [
+   "2026-11-11",
+   "Microsoft Fixes Nearly 1,100 Security Vulnerabilities"
   ],
   "6483914e8552b14f": [
    "2026-11-04",
@@ -361,6 +385,10 @@
   "71fc018d64212e1a": [
    "2026-11-10",
    "Ransomware recovery is now a client retention metric"
+  ],
+  "721f00e4f68d41c4": [
+   "2026-11-11",
+   "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access"
   ],
   "78f17183ce2a8c71": [
    "2026-11-07",
@@ -402,9 +430,9 @@
    "2026-11-07",
    "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It"
   ],
-  "923a6f68d1dc2a26": [
-   "2026-11-03",
-   "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw"
+  "92699249dadcc21c": [
+   "2026-11-11",
+   "N-able releases security hotfixes for zero-day vulnerabilities"
   ],
   "93e9c76800069225": [
    "2026-11-07",
@@ -414,13 +442,13 @@
    "2026-11-06",
    "Chainalysis says breach exposed credentials for all customers"
   ],
-  "983ab8b5d4b16718": [
-   "2026-11-03",
-   "The 4 Elements of Exposure Prioritization and How to Operationalize Them"
-  ],
   "9c8a2348b395f8b5": [
    "2026-11-10",
    "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws"
+  ],
+  "9d29ca801c5758a9": [
+   "2026-11-11",
+   "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor"
   ],
   "a706922feef76cbb": [
    "2026-11-06",
@@ -429,10 +457,6 @@
   "a8e87db82c158675": [
    "2026-11-08",
    "Hackers pull off $133 million French bank heist via service provider"
-  ],
-  "aa00a83e706f1432": [
-   "2026-11-03",
-   "UK school estate hit by 3AM ransomware in suspected AI-assisted attack"
   ],
   "ab020fdbb671b250": [
    "2026-11-10",
@@ -446,17 +470,13 @@
    "2026-11-10",
    "Vanderbilt University hit in BYOD ransomware attack, data theft claimed"
   ],
-  "adc722ef6f8bb031": [
-   "2026-11-03",
-   "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More"
+  "b2f670a6b52ee680": [
+   "2026-11-11",
+   "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day"
   ],
   "b64a141a0615f5d6": [
    "2026-11-05",
    "Closing the Identity Gap at the Service Desk"
-  ],
-  "be72867527b132f3": [
-   "2026-11-03",
-   "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs"
   ],
   "c2100084b3a6d42d": [
    "2026-11-08",
@@ -470,21 +490,17 @@
    "2026-11-10",
    "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution"
   ],
-  "cd17200bec849aee": [
-   "2026-11-03",
-   "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors"
-  ],
   "ce86d2165d2f82bf": [
    "2026-11-06",
    "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It"
   ],
+  "d9f13916fd1a2c31": [
+   "2026-11-11",
+   "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers"
+  ],
   "ddbf1ba441ad947a": [
    "2026-11-09",
    "FBI agent stole $2.5 million in crypto from hackers under investigation"
-  ],
-  "dea8933201de5391": [
-   "2026-11-03",
-   "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware"
   ],
   "df3181809a908e26": [
    "2026-11-07",
@@ -522,6 +538,18 @@
    "2026-11-09",
    "CVE-2026-102895: GPUStack Improper Authentication Vulnerability"
   ],
+  "kev:CVE-2026-111560": [
+   "2026-11-11",
+   "CVE-2026-111560: Barracuda Networks Multiple Products OS Command Injection Vulnerability"
+  ],
+  "kev:CVE-2026-111793": [
+   "2026-11-11",
+   "CVE-2026-111793: Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability"
+  ],
+  "kev:CVE-2026-116606": [
+   "2026-11-11",
+   "CVE-2026-116606: Barracuda Networks Email Security Gateway (ESG) Authentication Bypass Using an Alternate Path or Channel Vulnerability"
+  ],
   "kev:CVE-2026-116779": [
    "2026-11-09",
    "CVE-2026-116779: SignalWire FreeSwitch Code Injection Vulnerability"
@@ -538,9 +566,21 @@
    "2026-11-10",
    "CVE-2026-123218: IBM Aspera Faspex Incorrect Authorization Vulnerability"
   ],
+  "kev:CVE-2026-124194": [
+   "2026-11-11",
+   "CVE-2026-124194: Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability"
+  ],
+  "kev:CVE-2026-125350": [
+   "2026-11-11",
+   "CVE-2026-125350: Google Chromium Use-After-Free Vulnerability"
+  ],
   "kev:CVE-2026-19868": [
    "2026-11-07",
    "CVE-2026-19868: SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability"
+  ],
+  "kev:CVE-2026-20320": [
+   "2026-11-11",
+   "CVE-2026-20320: Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability"
   ]
  }
 }
