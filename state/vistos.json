@@ -39,6 +39,7 @@
   "26b5cde7ab423073": "2026-10-26",
   "27f7a293a72555ec": "2026-11-10",
   "28101c6a3c570cf0": "2026-11-09",
+  "28825a567c8e2355": "2026-11-12",
   "291bdcc83b6af9d7": "2026-11-03",
   "29a62b990aed57d6": "2026-11-04",
   "2a000ff73bb6f7ac": "2026-10-27",
@@ -54,6 +55,7 @@
   "322116d1bcc16570": "2026-11-05",
   "322cd6145e6d248e": "2026-10-30",
   "325ff25b77b765bd": "2026-10-31",
+  "32e09b3c7ab02f18": "2026-11-12",
   "33a9096f1329449b": "2026-10-27",
   "342f053ed7e61040": "2026-11-07",
   "35bed86130fbe803": "2026-10-31",
@@ -62,6 +64,7 @@
   "3a87eee490d2bd6e": "2026-11-09",
   "3b11f73a0131f915": "2026-10-28",
   "3b7b06199f66a875": "2026-11-05",
+  "3be6679a06880577": "2026-11-12",
   "3cff7520904e9c06": "2026-10-29",
   "3f25203e8a3b16f0": "2026-10-21",
   "3f9541b99a134679": "2026-11-11",
@@ -100,6 +103,8 @@
   "7181bc89e17ec8f7": "2026-11-10",
   "71fc018d64212e1a": "2026-11-10",
   "721f00e4f68d41c4": "2026-11-11",
+  "729081d59794c645": "2026-11-12",
+  "72c909b1603842c4": "2026-11-12",
   "72f0ec645c06997c": "2026-10-29",
   "73ff89d9e54d94e9": "2026-10-24",
   "77867c1a3e93bbaf": "2026-11-01",
@@ -107,11 +112,13 @@
   "7a185c8dd28887ab": "2026-10-28",
   "7a56590de43658cf": "2026-10-31",
   "7af0d3a1968a6eb8": "2026-10-21",
+  "7b683c1b38b9d5db": "2026-11-12",
   "7d4c87ceae4423a3": "2026-11-04",
   "7d7f6d9840133844": "2026-10-21",
   "7da7001e78b0225e": "2026-11-04",
   "7dd1bd8a2d9aeb5b": "2026-10-24",
   "7e4a62a39299b0f2": "2026-10-30",
+  "7e7115603eef4d16": "2026-11-12",
   "7e7e16dcd7b29b4c": "2026-11-02",
   "7ff8a46d80fca6af": "2026-10-28",
   "80ea3f790938b473": "2026-10-31",
@@ -165,6 +172,7 @@
   "be72867527b132f3": "2026-11-03",
   "bf34b5eb6312f9e1": "2026-10-24",
   "c2100084b3a6d42d": "2026-11-08",
+  "c2a75f5a10e194f7": "2026-11-12",
   "c41b887e34f9ae90": "2026-11-05",
   "c448be233b4677e5": "2026-10-24",
   "c5120161a306d6fc": "2026-10-29",
@@ -192,8 +200,10 @@
   "e0c28598a04a6ac2": "2026-11-10",
   "e0f0bac86d45ea83": "2026-10-29",
   "e13aa3e0536d58cf": "2026-10-23",
+  "e25f989985f90657": "2026-11-12",
   "e2f4209aab878930": "2026-10-28",
   "e3c586ca8891fcfe": "2026-10-28",
+  "e4b1987000447de5": "2026-11-12",
   "e8c9ad44f915c99d": "2026-10-28",
   "e99fb38de9d42b5b": "2026-10-21",
   "ec73a23647a4a017": "2026-10-22",
@@ -286,13 +296,9 @@
    "2026-11-09",
    "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars"
   ],
-  "29a62b990aed57d6": [
-   "2026-11-04",
-   "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads"
-  ],
-  "2a0586978abf8da4": [
-   "2026-11-04",
-   "WorkOS says attacker used ARTEX AI to breach internal sales app"
+  "28825a567c8e2355": [
+   "2026-11-12",
+   "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign"
   ],
   "2a564473be5f6f02": [
    "2026-11-06",
@@ -301,6 +307,10 @@
   "322116d1bcc16570": [
    "2026-11-05",
    "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says"
+  ],
+  "32e09b3c7ab02f18": [
+   "2026-11-12",
+   "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover"
   ],
   "342f053ed7e61040": [
    "2026-11-07",
@@ -318,6 +328,10 @@
    "2026-11-05",
    "GhostMap Android flaw lets malicious app trigger persistent boot loop"
   ],
+  "3be6679a06880577": [
+   "2026-11-12",
+   "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution"
+  ],
   "3f9541b99a134679": [
    "2026-11-11",
    "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users"
@@ -325,10 +339,6 @@
   "401c132c974373b0": [
    "2026-11-06",
    "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux"
-  ],
-  "412bbcc50c0cc7e0": [
-   "2026-11-04",
-   "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data"
   ],
   "42f5da3d18205a2e": [
    "2026-11-06",
@@ -362,14 +372,6 @@
    "2026-11-11",
    "Microsoft Fixes Nearly 1,100 Security Vulnerabilities"
   ],
-  "6483914e8552b14f": [
-   "2026-11-04",
-   "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits"
-  ],
-  "64f10897699a8adb": [
-   "2026-11-04",
-   "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction"
-  ],
   "6b60799be66ee77f": [
    "2026-11-09",
    "Hackers exploit SSHole OpenSSH flaw to breach Linux systems"
@@ -390,17 +392,25 @@
    "2026-11-11",
    "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access"
   ],
+  "729081d59794c645": [
+   "2026-11-12",
+   "Who Runs the Ransomware Group Qilin?"
+  ],
+  "72c909b1603842c4": [
+   "2026-11-12",
+   "Your Endpoint Management Platform Could Be Your Biggest Security Risk"
+  ],
   "78f17183ce2a8c71": [
    "2026-11-07",
    "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot"
   ],
-  "7d4c87ceae4423a3": [
-   "2026-11-04",
-   "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor"
+  "7b683c1b38b9d5db": [
+   "2026-11-12",
+   "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely"
   ],
-  "7da7001e78b0225e": [
-   "2026-11-04",
-   "CISA flags WordPress RCE flaw as actively exploited in attacks"
+  "7e7115603eef4d16": [
+   "2026-11-12",
+   "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure"
   ],
   "816b0cc9bcf37f15": [
    "2026-11-05",
@@ -421,10 +431,6 @@
   "8cb5da7135cb389e": [
    "2026-11-05",
    "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution"
-  ],
-  "8d1e797803bc9077": [
-   "2026-11-04",
-   "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes"
   ],
   "9163a649e86680ec": [
    "2026-11-07",
@@ -482,6 +488,10 @@
    "2026-11-08",
    "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands"
   ],
+  "c2a75f5a10e194f7": [
+   "2026-11-12",
+   "Baker Tilly notifies clients of data breach at third-party provider"
+  ],
   "c41b887e34f9ae90": [
    "2026-11-05",
    "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run"
@@ -510,6 +520,14 @@
    "2026-11-10",
    "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026"
   ],
+  "e25f989985f90657": [
+   "2026-11-12",
+   "Maersk confirms data breach as WhiteArmor ransomware demands $5 million"
+  ],
+  "e4b1987000447de5": [
+   "2026-11-12",
+   "Apify rotates API tokens, prompts 2FA resets after breach"
+  ],
   "ee23cc992c42202f": [
    "2026-11-05",
    "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026"
@@ -521,14 +539,6 @@
   "f4f71b36046b35fb": [
    "2026-11-07",
    "Veeam warns of Software Appliance boot failures on AMD EPYC hosts"
-  ],
-  "f712928c8ed41532": [
-   "2026-11-04",
-   "Google Calendar phishing campaign hijacks sessions, bypasses MFA"
-  ],
-  "ff4fa7f7f457c5af": [
-   "2026-11-04",
-   "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades"
   ],
   "kev:CVE-2024-27834": [
    "2026-11-05",
@@ -553,10 +563,6 @@
   "kev:CVE-2026-116779": [
    "2026-11-09",
    "CVE-2026-116779: SignalWire FreeSwitch Code Injection Vulnerability"
-  ],
-  "kev:CVE-2026-119977": [
-   "2026-11-04",
-   "CVE-2026-119977: WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability"
   ],
   "kev:CVE-2026-123158": [
    "2026-11-09",
