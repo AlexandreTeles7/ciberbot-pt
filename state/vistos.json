@@ -10,6 +10,7 @@
   "0706d993935be7b7": "2026-11-06",
   "0778766d81ebd40a": "2026-10-28",
   "07ded687620c9a3f": "2026-11-06",
+  "0921eff2d4015698": "2026-11-13",
   "0aeb9484726119ee": "2026-11-11",
   "0c4cb52f67a4b751": "2026-10-23",
   "0d1dd88c3dfef7df": "2026-10-24",
@@ -81,6 +82,7 @@
   "4c7ac59e25565bd3": "2026-10-23",
   "4cf6d8665d7bdcac": "2026-10-24",
   "4e197ce9171682ba": "2026-11-02",
+  "4e3da46766d5496a": "2026-11-13",
   "4ff14f41af02dbe5": "2026-11-05",
   "5060525796dadc15": "2026-10-28",
   "5158c17ef38b6f4a": "2026-11-11",
@@ -93,12 +95,16 @@
   "622754d280c91bdf": "2026-10-21",
   "626a9341f83dc60b": "2026-11-05",
   "62c79980de8e0e24": "2026-11-11",
+  "63beded5cc42307c": "2026-11-13",
   "647ce94048879b72": "2026-10-24",
   "6483914e8552b14f": "2026-11-04",
   "64f10897699a8adb": "2026-11-04",
   "65516a06ab6385eb": "2026-11-02",
+  "671ffa83eaa022ec": "2026-11-13",
+  "6b3ec8a8c1c3d948": "2026-11-13",
   "6b60799be66ee77f": "2026-11-09",
   "6e34794bc0b4e365": "2026-11-07",
+  "6f9df96c2dc64d49": "2026-11-13",
   "7153257bd2ee8aa9": "2026-10-24",
   "7181bc89e17ec8f7": "2026-11-10",
   "71fc018d64212e1a": "2026-11-10",
@@ -107,6 +113,7 @@
   "72c909b1603842c4": "2026-11-12",
   "72f0ec645c06997c": "2026-10-29",
   "73ff89d9e54d94e9": "2026-10-24",
+  "754b65033cb71061": "2026-11-13",
   "77867c1a3e93bbaf": "2026-11-01",
   "78f17183ce2a8c71": "2026-11-07",
   "7a185c8dd28887ab": "2026-10-28",
@@ -130,6 +137,7 @@
   "86fc80d7d9005f72": "2026-10-29",
   "877faff2da7d007c": "2026-11-02",
   "893508bab2b3a700": "2026-11-09",
+  "8b118518e6871598": "2026-11-13",
   "8c6a3be34f9e6140": "2026-11-02",
   "8c6e20208c035ba2": "2026-10-29",
   "8cb5da7135cb389e": "2026-11-05",
@@ -150,6 +158,7 @@
   "9d29ca801c5758a9": "2026-11-11",
   "9ede2fbb7007f983": "2026-10-30",
   "9ef8e97907d2b0da": "2026-10-23",
+  "9f751b46e5666032": "2026-11-13",
   "a16b2754a6c591fd": "2026-10-26",
   "a212e990851bb9aa": "2026-10-31",
   "a706922feef76cbb": "2026-11-06",
@@ -169,6 +178,7 @@
   "b8354cf6ee2773d2": "2026-10-22",
   "b94ba5597b835da7": "2026-10-23",
   "bd0fe0e079e67b7a": "2026-10-28",
+  "bd905359b02d86f9": "2026-11-13",
   "be72867527b132f3": "2026-11-03",
   "bf34b5eb6312f9e1": "2026-10-24",
   "c2100084b3a6d42d": "2026-11-08",
@@ -182,6 +192,7 @@
   "ce86d2165d2f82bf": "2026-11-06",
   "cf695e392515d9e9": "2026-10-22",
   "cf7bf66c31737ed8": "2026-11-01",
+  "d191d928d07e9e10": "2026-11-13",
   "d1ec5e3e407810cd": "2026-10-31",
   "d6ad234eaf6da46c": "2026-10-31",
   "d7d0b1ca37bb0612": "2026-10-30",
@@ -211,6 +222,7 @@
   "f44f79890a66cae0": "2026-11-10",
   "f46872103dd8d250": "2026-10-23",
   "f4f71b36046b35fb": "2026-11-07",
+  "f5144a60a401d507": "2026-11-13",
   "f712928c8ed41532": "2026-11-04",
   "f7a301bf16bfa63a": "2026-11-02",
   "fa6478a9df14d955": "2026-10-29",
@@ -260,6 +272,10 @@
    "2026-11-06",
    "DigiCert data breach exposes customer information, identity documents"
   ],
+  "0921eff2d4015698": [
+   "2026-11-13",
+   "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins"
+  ],
   "0aeb9484726119ee": [
    "2026-11-11",
    "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches"
@@ -284,10 +300,6 @@
    "2026-11-07",
    "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs"
   ],
-  "23a4ea514ae34149": [
-   "2026-11-05",
-   "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out"
-  ],
   "27f7a293a72555ec": [
    "2026-11-10",
    "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware"
@@ -303,10 +315,6 @@
   "2a564473be5f6f02": [
    "2026-11-06",
    "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers"
-  ],
-  "322116d1bcc16570": [
-   "2026-11-05",
-   "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says"
   ],
   "32e09b3c7ab02f18": [
    "2026-11-12",
@@ -324,10 +332,6 @@
    "2026-11-09",
    "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More"
   ],
-  "3b7b06199f66a875": [
-   "2026-11-05",
-   "GhostMap Android flaw lets malicious app trigger persistent boot loop"
-  ],
   "3be6679a06880577": [
    "2026-11-12",
    "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution"
@@ -344,17 +348,13 @@
    "2026-11-06",
    "D-Link warns of multiple zero-days in DGS-3130 Series switches"
   ],
-  "49540df35d1fc1f9": [
-   "2026-11-05",
-   "DreamHost confirms data breach exposed FTP logins and webmail sessions"
-  ],
   "4c298dc8c56b18e7": [
    "2026-11-11",
    "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem"
   ],
-  "4ff14f41af02dbe5": [
-   "2026-11-05",
-   "Recorteiro: a Rust banking trojan that cuts holes in your screen and hides behind fake electricity bills in Portugal"
+  "4e3da46766d5496a": [
+   "2026-11-13",
+   "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files"
   ],
   "5158c17ef38b6f4a": [
    "2026-11-11",
@@ -364,13 +364,21 @@
    "2026-11-09",
    "Ukraine dismantles crypto scam network that stole €4.3 million"
   ],
-  "626a9341f83dc60b": [
-   "2026-11-05",
-   "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches"
-  ],
   "62c79980de8e0e24": [
    "2026-11-11",
    "Microsoft Fixes Nearly 1,100 Security Vulnerabilities"
+  ],
+  "63beded5cc42307c": [
+   "2026-11-13",
+   "Alerta de Vulnerabilidade - Apache HTTP Server"
+  ],
+  "671ffa83eaa022ec": [
+   "2026-11-13",
+   "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls"
+  ],
+  "6b3ec8a8c1c3d948": [
+   "2026-11-13",
+   "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access"
   ],
   "6b60799be66ee77f": [
    "2026-11-09",
@@ -379,6 +387,10 @@
   "6e34794bc0b4e365": [
    "2026-11-07",
    "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time"
+  ],
+  "6f9df96c2dc64d49": [
+   "2026-11-13",
+   "Alerta de Vulnerabilidades - Zoom Workplace"
   ],
   "7181bc89e17ec8f7": [
    "2026-11-10",
@@ -400,6 +412,10 @@
    "2026-11-12",
    "Your Endpoint Management Platform Could Be Your Biggest Security Risk"
   ],
+  "754b65033cb71061": [
+   "2026-11-13",
+   "Apache HTTP Server patches critical HTTP/2 remote code execution flaw"
+  ],
   "78f17183ce2a8c71": [
    "2026-11-07",
    "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot"
@@ -411,10 +427,6 @@
   "7e7115603eef4d16": [
    "2026-11-12",
    "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure"
-  ],
-  "816b0cc9bcf37f15": [
-   "2026-11-05",
-   "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content"
   ],
   "82e0032b3a0a1f7a": [
    "2026-11-07",
@@ -428,9 +440,9 @@
    "2026-11-09",
    "Binance denies data breach after alleged ShinyHunters claims"
   ],
-  "8cb5da7135cb389e": [
-   "2026-11-05",
-   "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution"
+  "8b118518e6871598": [
+   "2026-11-13",
+   "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released"
   ],
   "9163a649e86680ec": [
    "2026-11-07",
@@ -456,6 +468,10 @@
    "2026-11-11",
    "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor"
   ],
+  "9f751b46e5666032": [
+   "2026-11-13",
+   "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry"
+  ],
   "a706922feef76cbb": [
    "2026-11-06",
    "MetaMask says recent attack didn't affect wallet infrastructure"
@@ -480,9 +496,9 @@
    "2026-11-11",
    "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day"
   ],
-  "b64a141a0615f5d6": [
-   "2026-11-05",
-   "Closing the Identity Gap at the Service Desk"
+  "bd905359b02d86f9": [
+   "2026-11-13",
+   "New Windows SignDrop zero-day gives hackers SYSTEM privileges"
   ],
   "c2100084b3a6d42d": [
    "2026-11-08",
@@ -492,10 +508,6 @@
    "2026-11-12",
    "Baker Tilly notifies clients of data breach at third-party provider"
   ],
-  "c41b887e34f9ae90": [
-   "2026-11-05",
-   "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run"
-  ],
   "cc1c23ce200849b7": [
    "2026-11-10",
    "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution"
@@ -503,6 +515,10 @@
   "ce86d2165d2f82bf": [
    "2026-11-06",
    "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It"
+  ],
+  "d191d928d07e9e10": [
+   "2026-11-13",
+   "Check Point warns of zero-day flaw exploited for root access"
   ],
   "d9f13916fd1a2c31": [
    "2026-11-11",
@@ -528,10 +544,6 @@
    "2026-11-12",
    "Apify rotates API tokens, prompts 2FA resets after breach"
   ],
-  "ee23cc992c42202f": [
-   "2026-11-05",
-   "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026"
-  ],
   "f44f79890a66cae0": [
    "2026-11-10",
    "SEGA newsletter data breach exposes 2.2 million email addresses"
@@ -540,9 +552,9 @@
    "2026-11-07",
    "Veeam warns of Software Appliance boot failures on AMD EPYC hosts"
   ],
-  "kev:CVE-2024-27834": [
-   "2026-11-05",
-   "CVE-2024-27834: Apple Multiple Products Improper Authentication Vulnerability"
+  "f5144a60a401d507": [
+   "2026-11-13",
+   "How one AI agent exposed five critical enterprise security gaps"
   ],
   "kev:CVE-2026-102895": [
    "2026-11-09",
