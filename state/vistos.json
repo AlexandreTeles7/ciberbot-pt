@@ -30,6 +30,7 @@
   "1fc3644013f7b1e9": "2026-10-22",
   "1ff5e289160abe4d": "2026-11-09",
   "1ff80951fd06075f": "2026-10-22",
+  "205bf9fa3f0d5194": "2026-11-14",
   "223c462a3bee5d9a": "2026-10-25",
   "2317a10c8ae199b9": "2026-10-28",
   "235a55b1b1f97ee8": "2026-11-07",
@@ -67,6 +68,7 @@
   "3b7b06199f66a875": "2026-11-05",
   "3be6679a06880577": "2026-11-12",
   "3cff7520904e9c06": "2026-10-29",
+  "3e00daf15035c27c": "2026-11-14",
   "3f25203e8a3b16f0": "2026-10-21",
   "3f9541b99a134679": "2026-11-11",
   "401c132c974373b0": "2026-11-06",
@@ -82,6 +84,7 @@
   "4c7ac59e25565bd3": "2026-10-23",
   "4cf6d8665d7bdcac": "2026-10-24",
   "4e197ce9171682ba": "2026-11-02",
+  "4e2637192f058b54": "2026-11-14",
   "4e3da46766d5496a": "2026-11-13",
   "4ff14f41af02dbe5": "2026-11-05",
   "5060525796dadc15": "2026-10-28",
@@ -132,6 +135,7 @@
   "816b0cc9bcf37f15": "2026-11-05",
   "82e0032b3a0a1f7a": "2026-11-07",
   "8312b7e4bcf8250d": "2026-10-29",
+  "8408112e1c830387": "2026-11-14",
   "8493208604e5f691": "2026-11-06",
   "84c33bee635a4d3c": "2026-10-22",
   "86fc80d7d9005f72": "2026-10-29",
@@ -153,6 +157,8 @@
   "983ab8b5d4b16718": "2026-11-03",
   "9a9c7ae127735754": "2026-11-01",
   "9bb9f09dc3ac9075": "2026-11-01",
+  "9c35ae2ba72e0066": "2026-11-14",
+  "9c457dbe4b186890": "2026-11-14",
   "9c7dbd668911c763": "2026-10-27",
   "9c8a2348b395f8b5": "2026-11-10",
   "9d29ca801c5758a9": "2026-11-11",
@@ -210,11 +216,13 @@
   "e0ae260b2730b53a": "2026-10-26",
   "e0c28598a04a6ac2": "2026-11-10",
   "e0f0bac86d45ea83": "2026-10-29",
+  "e1156f28bbe6c29b": "2026-11-14",
   "e13aa3e0536d58cf": "2026-10-23",
   "e25f989985f90657": "2026-11-12",
   "e2f4209aab878930": "2026-10-28",
   "e3c586ca8891fcfe": "2026-10-28",
   "e4b1987000447de5": "2026-11-12",
+  "e70de9158af98971": "2026-11-14",
   "e8c9ad44f915c99d": "2026-10-28",
   "e99fb38de9d42b5b": "2026-10-21",
   "ec73a23647a4a017": "2026-10-22",
@@ -225,9 +233,11 @@
   "f5144a60a401d507": "2026-11-13",
   "f712928c8ed41532": "2026-11-04",
   "f7a301bf16bfa63a": "2026-11-02",
+  "fa33c3084eb89ae1": "2026-11-14",
   "fa6478a9df14d955": "2026-10-29",
   "fb0c164b0656aa65": "2026-10-26",
   "ff4fa7f7f457c5af": "2026-11-04",
+  "ff9c149833f56962": "2026-11-14",
   "kev:CVE-2024-27834": "2026-11-05",
   "kev:CVE-2026-102895": "2026-11-09",
   "kev:CVE-2026-106931": "2026-10-21",
@@ -240,10 +250,12 @@
   "kev:CVE-2026-111560": "2026-11-11",
   "kev:CVE-2026-111793": "2026-11-11",
   "kev:CVE-2026-114625": "2026-10-24",
+  "kev:CVE-2026-114713": "2026-11-14",
   "kev:CVE-2026-116606": "2026-11-11",
   "kev:CVE-2026-116779": "2026-11-09",
   "kev:CVE-2026-118527": "2026-10-31",
   "kev:CVE-2026-119977": "2026-11-04",
+  "kev:CVE-2026-123039": "2026-11-14",
   "kev:CVE-2026-123158": "2026-11-09",
   "kev:CVE-2026-123218": "2026-11-10",
   "kev:CVE-2026-124194": "2026-11-11",
@@ -264,14 +276,6 @@
    "2026-11-10",
    "Hackers now exploit critical Barracuda ESG flaws to gain root access"
   ],
-  "0706d993935be7b7": [
-   "2026-11-06",
-   "Hackers backdoor Linux servers using trojanized CWP web server"
-  ],
-  "07ded687620c9a3f": [
-   "2026-11-06",
-   "DigiCert data breach exposes customer information, identity documents"
-  ],
   "0921eff2d4015698": [
    "2026-11-13",
    "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins"
@@ -284,10 +288,6 @@
    "2026-11-07",
    "QNAP says hackers breaching NAS devices in Plex2Shell attacks"
   ],
-  "0fc545917cf25e50": [
-   "2026-11-06",
-   "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs"
-  ],
   "1f9f8e2357b80706": [
    "2026-11-09",
    "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety"
@@ -295,6 +295,10 @@
   "1ff5e289160abe4d": [
    "2026-11-09",
    "The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI."
+  ],
+  "205bf9fa3f0d5194": [
+   "2026-11-14",
+   "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE"
   ],
   "235a55b1b1f97ee8": [
    "2026-11-07",
@@ -311,10 +315,6 @@
   "28825a567c8e2355": [
    "2026-11-12",
    "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign"
-  ],
-  "2a564473be5f6f02": [
-   "2026-11-06",
-   "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers"
   ],
   "32e09b3c7ab02f18": [
    "2026-11-12",
@@ -336,21 +336,21 @@
    "2026-11-12",
    "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution"
   ],
+  "3e00daf15035c27c": [
+   "2026-11-14",
+   "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users"
+  ],
   "3f9541b99a134679": [
    "2026-11-11",
    "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users"
   ],
-  "401c132c974373b0": [
-   "2026-11-06",
-   "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux"
-  ],
-  "42f5da3d18205a2e": [
-   "2026-11-06",
-   "D-Link warns of multiple zero-days in DGS-3130 Series switches"
-  ],
   "4c298dc8c56b18e7": [
    "2026-11-11",
    "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem"
+  ],
+  "4e2637192f058b54": [
+   "2026-11-14",
+   "When an AI Agent Goes Wrong, Can You Stop It?"
   ],
   "4e3da46766d5496a": [
    "2026-11-13",
@@ -432,9 +432,9 @@
    "2026-11-07",
    "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub"
   ],
-  "8493208604e5f691": [
-   "2026-11-06",
-   "The Flood is Coming And The Pipes Were Already Full"
+  "8408112e1c830387": [
+   "2026-11-14",
+   "Microsoft says November security updates cause printing issues"
   ],
   "893508bab2b3a700": [
    "2026-11-09",
@@ -456,9 +456,13 @@
    "2026-11-07",
    "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks"
   ],
-  "941e277ba15aa99e": [
-   "2026-11-06",
-   "Chainalysis says breach exposed credentials for all customers"
+  "9c35ae2ba72e0066": [
+   "2026-11-14",
+   "German military drone operations disrupted by cyberattack"
+  ],
+  "9c457dbe4b186890": [
+   "2026-11-14",
+   "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper"
   ],
   "9c8a2348b395f8b5": [
    "2026-11-10",
@@ -471,10 +475,6 @@
   "9f751b46e5666032": [
    "2026-11-13",
    "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry"
-  ],
-  "a706922feef76cbb": [
-   "2026-11-06",
-   "MetaMask says recent attack didn't affect wallet infrastructure"
   ],
   "a8e87db82c158675": [
    "2026-11-08",
@@ -512,10 +512,6 @@
    "2026-11-10",
    "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution"
   ],
-  "ce86d2165d2f82bf": [
-   "2026-11-06",
-   "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It"
-  ],
   "d191d928d07e9e10": [
    "2026-11-13",
    "Check Point warns of zero-day flaw exploited for root access"
@@ -536,6 +532,10 @@
    "2026-11-10",
    "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026"
   ],
+  "e1156f28bbe6c29b": [
+   "2026-11-14",
+   "Trezor confirms crypto-stealing implants in three wallets, releases fix"
+  ],
   "e25f989985f90657": [
    "2026-11-12",
    "Maersk confirms data breach as WhiteArmor ransomware demands $5 million"
@@ -543,6 +543,10 @@
   "e4b1987000447de5": [
    "2026-11-12",
    "Apify rotates API tokens, prompts 2FA resets after breach"
+  ],
+  "e70de9158af98971": [
+   "2026-11-14",
+   "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases"
   ],
   "f44f79890a66cae0": [
    "2026-11-10",
@@ -556,6 +560,14 @@
    "2026-11-13",
    "How one AI agent exposed five critical enterprise security gaps"
   ],
+  "fa33c3084eb89ae1": [
+   "2026-11-14",
+   "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection"
+  ],
+  "ff9c149833f56962": [
+   "2026-11-14",
+   "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs"
+  ],
   "kev:CVE-2026-102895": [
    "2026-11-09",
    "CVE-2026-102895: GPUStack Improper Authentication Vulnerability"
@@ -568,6 +580,10 @@
    "2026-11-11",
    "CVE-2026-111793: Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability"
   ],
+  "kev:CVE-2026-114713": [
+   "2026-11-14",
+   "CVE-2026-114713: UnrealIRCd Improper Neutralization of Delimiters Vulnerability"
+  ],
   "kev:CVE-2026-116606": [
    "2026-11-11",
    "CVE-2026-116606: Barracuda Networks Email Security Gateway (ESG) Authentication Bypass Using an Alternate Path or Channel Vulnerability"
@@ -575,6 +591,10 @@
   "kev:CVE-2026-116779": [
    "2026-11-09",
    "CVE-2026-116779: SignalWire FreeSwitch Code Injection Vulnerability"
+  ],
+  "kev:CVE-2026-123039": [
+   "2026-11-14",
+   "CVE-2026-123039: Check Point Multiple Products Incorrect Permission Assignment for Critical Resource Vulnerability"
   ],
   "kev:CVE-2026-123158": [
    "2026-11-09",
