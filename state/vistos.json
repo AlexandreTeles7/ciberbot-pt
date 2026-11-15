@@ -104,6 +104,7 @@
   "64f10897699a8adb": "2026-11-04",
   "65516a06ab6385eb": "2026-11-02",
   "671ffa83eaa022ec": "2026-11-13",
+  "6ae82e51041b3fbb": "2026-11-15",
   "6b3ec8a8c1c3d948": "2026-11-13",
   "6b60799be66ee77f": "2026-11-09",
   "6e34794bc0b4e365": "2026-11-07",
@@ -141,6 +142,7 @@
   "86fc80d7d9005f72": "2026-10-29",
   "877faff2da7d007c": "2026-11-02",
   "893508bab2b3a700": "2026-11-09",
+  "89ce79781f943927": "2026-11-15",
   "8b118518e6871598": "2026-11-13",
   "8c6a3be34f9e6140": "2026-11-02",
   "8c6e20208c035ba2": "2026-10-29",
@@ -215,11 +217,13 @@
   "df3181809a908e26": "2026-11-07",
   "e0ae260b2730b53a": "2026-10-26",
   "e0c28598a04a6ac2": "2026-11-10",
+  "e0e4f12e08d7e6e5": "2026-11-15",
   "e0f0bac86d45ea83": "2026-10-29",
   "e1156f28bbe6c29b": "2026-11-14",
   "e13aa3e0536d58cf": "2026-10-23",
   "e25f989985f90657": "2026-11-12",
   "e2f4209aab878930": "2026-10-28",
+  "e36f6d90d00b53b1": "2026-11-15",
   "e3c586ca8891fcfe": "2026-10-28",
   "e4b1987000447de5": "2026-11-12",
   "e70de9158af98971": "2026-11-14",
@@ -284,10 +288,6 @@
    "2026-11-11",
    "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches"
   ],
-  "0ef1ad50a6b00f8d": [
-   "2026-11-07",
-   "QNAP says hackers breaching NAS devices in Plex2Shell attacks"
-  ],
   "1f9f8e2357b80706": [
    "2026-11-09",
    "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety"
@@ -299,10 +299,6 @@
   "205bf9fa3f0d5194": [
    "2026-11-14",
    "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE"
-  ],
-  "235a55b1b1f97ee8": [
-   "2026-11-07",
-   "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs"
   ],
   "27f7a293a72555ec": [
    "2026-11-10",
@@ -319,10 +315,6 @@
   "32e09b3c7ab02f18": [
    "2026-11-12",
    "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover"
-  ],
-  "342f053ed7e61040": [
-   "2026-11-07",
-   "Fake security tools on GitHub push backdoors and infostealers"
   ],
   "392ab4caa5b24152": [
    "2026-11-09",
@@ -376,6 +368,10 @@
    "2026-11-13",
    "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls"
   ],
+  "6ae82e51041b3fbb": [
+   "2026-11-15",
+   "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent"
+  ],
   "6b3ec8a8c1c3d948": [
    "2026-11-13",
    "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access"
@@ -383,10 +379,6 @@
   "6b60799be66ee77f": [
    "2026-11-09",
    "Hackers exploit SSHole OpenSSH flaw to breach Linux systems"
-  ],
-  "6e34794bc0b4e365": [
-   "2026-11-07",
-   "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time"
   ],
   "6f9df96c2dc64d49": [
    "2026-11-13",
@@ -416,10 +408,6 @@
    "2026-11-13",
    "Apache HTTP Server patches critical HTTP/2 remote code execution flaw"
   ],
-  "78f17183ce2a8c71": [
-   "2026-11-07",
-   "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot"
-  ],
   "7b683c1b38b9d5db": [
    "2026-11-12",
    "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely"
@@ -427,10 +415,6 @@
   "7e7115603eef4d16": [
    "2026-11-12",
    "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure"
-  ],
-  "82e0032b3a0a1f7a": [
-   "2026-11-07",
-   "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub"
   ],
   "8408112e1c830387": [
    "2026-11-14",
@@ -440,21 +424,17 @@
    "2026-11-09",
    "Binance denies data breach after alleged ShinyHunters claims"
   ],
+  "89ce79781f943927": [
+   "2026-11-15",
+   "Cursor confirms security breach led to malicious Claude Code extension"
+  ],
   "8b118518e6871598": [
    "2026-11-13",
    "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released"
   ],
-  "9163a649e86680ec": [
-   "2026-11-07",
-   "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It"
-  ],
   "92699249dadcc21c": [
    "2026-11-11",
    "N-able releases security hotfixes for zero-day vulnerabilities"
-  ],
-  "93e9c76800069225": [
-   "2026-11-07",
-   "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks"
   ],
   "9c35ae2ba72e0066": [
    "2026-11-14",
@@ -524,13 +504,13 @@
    "2026-11-09",
    "FBI agent stole $2.5 million in crypto from hackers under investigation"
   ],
-  "df3181809a908e26": [
-   "2026-11-07",
-   "Runaway AI hacking agent behind WorkOS breach after escaping sandbox"
-  ],
   "e0c28598a04a6ac2": [
    "2026-11-10",
    "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026"
+  ],
+  "e0e4f12e08d7e6e5": [
+   "2026-11-15",
+   "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident"
   ],
   "e1156f28bbe6c29b": [
    "2026-11-14",
@@ -539,6 +519,10 @@
   "e25f989985f90657": [
    "2026-11-12",
    "Maersk confirms data breach as WhiteArmor ransomware demands $5 million"
+  ],
+  "e36f6d90d00b53b1": [
+   "2026-11-15",
+   "US disrupts North Korean campaign behind $400 million crypto theft"
   ],
   "e4b1987000447de5": [
    "2026-11-12",
@@ -551,10 +535,6 @@
   "f44f79890a66cae0": [
    "2026-11-10",
    "SEGA newsletter data breach exposes 2.2 million email addresses"
-  ],
-  "f4f71b36046b35fb": [
-   "2026-11-07",
-   "Veeam warns of Software Appliance boot failures on AMD EPYC hosts"
   ],
   "f5144a60a401d507": [
    "2026-11-13",
@@ -611,10 +591,6 @@
   "kev:CVE-2026-125350": [
    "2026-11-11",
    "CVE-2026-125350: Google Chromium Use-After-Free Vulnerability"
-  ],
-  "kev:CVE-2026-19868": [
-   "2026-11-07",
-   "CVE-2026-19868: SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability"
   ],
   "kev:CVE-2026-20320": [
    "2026-11-11",
