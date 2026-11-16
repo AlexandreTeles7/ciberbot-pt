@@ -18,6 +18,7 @@
   "0fc545917cf25e50": "2026-11-06",
   "10b635c0c5610166": "2026-10-26",
   "10ea65771ed6ab64": "2026-10-23",
+  "113fa37db14f13b5": "2026-11-16",
   "11e2d419eed360ba": "2026-10-30",
   "147e205edeec7f3b": "2026-10-30",
   "1779f457631c9925": "2026-11-02",
@@ -90,6 +91,7 @@
   "5060525796dadc15": "2026-10-28",
   "5158c17ef38b6f4a": "2026-11-11",
   "531efb27f6159372": "2026-11-03",
+  "5519b00d17063a99": "2026-11-16",
   "58c11ae1ff85094d": "2026-10-21",
   "594d0ea4475e799a": "2026-10-22",
   "5a4d1c63e61dd391": "2026-11-09",
@@ -169,6 +171,7 @@
   "9f751b46e5666032": "2026-11-13",
   "a16b2754a6c591fd": "2026-10-26",
   "a212e990851bb9aa": "2026-10-31",
+  "a5ce66b5295eda36": "2026-11-16",
   "a706922feef76cbb": "2026-11-06",
   "a8e87db82c158675": "2026-11-08",
   "aa00a83e706f1432": "2026-11-03",
@@ -177,14 +180,17 @@
   "ad4ab055d32c0e10": "2026-10-30",
   "ad5759c70e6325dd": "2026-11-10",
   "adc722ef6f8bb031": "2026-11-03",
+  "aec67dfe8af99f84": "2026-11-16",
   "af97a1baa7e30536": "2026-10-27",
   "b18cc5e9f3ba64ec": "2026-10-27",
+  "b2dcbde111d3bc6c": "2026-11-16",
   "b2f670a6b52ee680": "2026-11-11",
   "b64a141a0615f5d6": "2026-11-05",
   "b65441b6fb2b5a93": "2026-11-01",
   "b82fb8aafed9023c": "2026-10-27",
   "b8354cf6ee2773d2": "2026-10-22",
   "b94ba5597b835da7": "2026-10-23",
+  "bac13cede4006688": "2026-11-16",
   "bd0fe0e079e67b7a": "2026-10-28",
   "bd905359b02d86f9": "2026-11-13",
   "be72867527b132f3": "2026-11-03",
@@ -197,6 +203,7 @@
   "cc1c23ce200849b7": "2026-11-10",
   "ccf3e44e7f67cd8e": "2026-10-30",
   "cd17200bec849aee": "2026-11-03",
+  "ce3769af487e1ba1": "2026-11-16",
   "ce86d2165d2f82bf": "2026-11-06",
   "cf695e392515d9e9": "2026-10-22",
   "cf7bf66c31737ed8": "2026-11-01",
@@ -229,7 +236,9 @@
   "e70de9158af98971": "2026-11-14",
   "e8c9ad44f915c99d": "2026-10-28",
   "e99fb38de9d42b5b": "2026-10-21",
+  "e9e2c3dfb8e8ac32": "2026-11-16",
   "ec73a23647a4a017": "2026-10-22",
+  "ed6ee569a372207d": "2026-11-16",
   "ee23cc992c42202f": "2026-11-05",
   "f44f79890a66cae0": "2026-11-10",
   "f46872103dd8d250": "2026-10-23",
@@ -240,6 +249,7 @@
   "fa33c3084eb89ae1": "2026-11-14",
   "fa6478a9df14d955": "2026-10-29",
   "fb0c164b0656aa65": "2026-10-26",
+  "fe9941e75ee77835": "2026-11-16",
   "ff4fa7f7f457c5af": "2026-11-04",
   "ff9c149833f56962": "2026-11-14",
   "kev:CVE-2024-27834": "2026-11-05",
@@ -287,6 +297,10 @@
   "0aeb9484726119ee": [
    "2026-11-11",
    "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches"
+  ],
+  "113fa37db14f13b5": [
+   "2026-11-16",
+   "Google warns that fully-automated AI attacks are coming soon"
   ],
   "1f9f8e2357b80706": [
    "2026-11-09",
@@ -351,6 +365,10 @@
   "5158c17ef38b6f4a": [
    "2026-11-11",
    "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons"
+  ],
+  "5519b00d17063a99": [
+   "2026-11-16",
+   "Australian retail giant Coles investigates cybersecurity incident"
   ],
   "5a4d1c63e61dd391": [
    "2026-11-09",
@@ -456,9 +474,9 @@
    "2026-11-13",
    "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry"
   ],
-  "a8e87db82c158675": [
-   "2026-11-08",
-   "Hackers pull off $133 million French bank heist via service provider"
+  "a5ce66b5295eda36": [
+   "2026-11-16",
+   "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware"
   ],
   "ab020fdbb671b250": [
    "2026-11-10",
@@ -472,17 +490,25 @@
    "2026-11-10",
    "Vanderbilt University hit in BYOD ransomware attack, data theft claimed"
   ],
+  "aec67dfe8af99f84": [
+   "2026-11-16",
+   "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login"
+  ],
+  "b2dcbde111d3bc6c": [
+   "2026-11-16",
+   "Fandango says hackers stole payment card details from checkout pages"
+  ],
   "b2f670a6b52ee680": [
    "2026-11-11",
    "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day"
   ],
+  "bac13cede4006688": [
+   "2026-11-16",
+   "7 Tips For Complying with CJIS Password and MFA Requirements"
+  ],
   "bd905359b02d86f9": [
    "2026-11-13",
    "New Windows SignDrop zero-day gives hackers SYSTEM privileges"
-  ],
-  "c2100084b3a6d42d": [
-   "2026-11-08",
-   "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands"
   ],
   "c2a75f5a10e194f7": [
    "2026-11-12",
@@ -491,6 +517,10 @@
   "cc1c23ce200849b7": [
    "2026-11-10",
    "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution"
+  ],
+  "ce3769af487e1ba1": [
+   "2026-11-16",
+   "Microsoft: Windows Server 2016 reaches end of support in 60 days"
   ],
   "d191d928d07e9e10": [
    "2026-11-13",
@@ -532,6 +562,14 @@
    "2026-11-14",
    "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases"
   ],
+  "e9e2c3dfb8e8ac32": [
+   "2026-11-16",
+   "TSMC employee data breach linked to cloud provider"
+  ],
+  "ed6ee569a372207d": [
+   "2026-11-16",
+   "Microsoft says months-old bug caused global Microsoft 365 outage"
+  ],
   "f44f79890a66cae0": [
    "2026-11-10",
    "SEGA newsletter data breach exposes 2.2 million email addresses"
@@ -543,6 +581,10 @@
   "fa33c3084eb89ae1": [
    "2026-11-14",
    "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection"
+  ],
+  "fe9941e75ee77835": [
+   "2026-11-16",
+   "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs"
   ],
   "ff9c149833f56962": [
    "2026-11-14",
