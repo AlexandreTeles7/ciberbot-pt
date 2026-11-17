@@ -11,6 +11,7 @@
   "0778766d81ebd40a": "2026-10-28",
   "07ded687620c9a3f": "2026-11-06",
   "0921eff2d4015698": "2026-11-13",
+  "09a2e93a8419d548": "2026-11-17",
   "0aeb9484726119ee": "2026-11-11",
   "0c4cb52f67a4b751": "2026-10-23",
   "0d1dd88c3dfef7df": "2026-10-24",
@@ -26,6 +27,7 @@
   "187f0ea815623945": "2026-10-26",
   "1b52ce14888974c1": "2026-11-01",
   "1d9dfaf86dbd4e7b": "2026-10-21",
+  "1deae186887a7f2a": "2026-11-17",
   "1f9f8e2357b80706": "2026-11-09",
   "1fb3ab061dc5bf28": "2026-10-23",
   "1fc3644013f7b1e9": "2026-10-22",
@@ -63,6 +65,7 @@
   "342f053ed7e61040": "2026-11-07",
   "35bed86130fbe803": "2026-10-31",
   "360f703803c359f9": "2026-10-21",
+  "389c290448f68056": "2026-11-17",
   "392ab4caa5b24152": "2026-11-09",
   "3a87eee490d2bd6e": "2026-11-09",
   "3b11f73a0131f915": "2026-10-28",
@@ -74,13 +77,16 @@
   "3f9541b99a134679": "2026-11-11",
   "401c132c974373b0": "2026-11-06",
   "412bbcc50c0cc7e0": "2026-11-04",
+  "41674b4ed2c9b5b3": "2026-11-17",
   "42f5da3d18205a2e": "2026-11-06",
+  "431cf39547d883d3": "2026-11-17",
   "43a45abe0c3f3e56": "2026-11-02",
   "47209968a5bd49e4": "2026-10-31",
   "475c39df4ec690c2": "2026-11-01",
   "48f4a4fb8ae4d85c": "2026-10-24",
   "49540df35d1fc1f9": "2026-11-05",
   "4a36dea4db8df076": "2026-10-27",
+  "4bcffaacca7953f7": "2026-11-17",
   "4c298dc8c56b18e7": "2026-11-11",
   "4c7ac59e25565bd3": "2026-10-23",
   "4cf6d8665d7bdcac": "2026-10-24",
@@ -96,6 +102,7 @@
   "594d0ea4475e799a": "2026-10-22",
   "5a4d1c63e61dd391": "2026-11-09",
   "5b83a33e8a1a6f8f": "2026-10-26",
+  "5b9c56a374491fc0": "2026-11-17",
   "5e5d7bd79d9a90d4": "2026-10-21",
   "622754d280c91bdf": "2026-10-21",
   "626a9341f83dc60b": "2026-11-05",
@@ -120,6 +127,7 @@
   "72f0ec645c06997c": "2026-10-29",
   "73ff89d9e54d94e9": "2026-10-24",
   "754b65033cb71061": "2026-11-13",
+  "765815c2a1b9990c": "2026-11-17",
   "77867c1a3e93bbaf": "2026-11-01",
   "78f17183ce2a8c71": "2026-11-07",
   "7a185c8dd28887ab": "2026-10-28",
@@ -200,6 +208,7 @@
   "c41b887e34f9ae90": "2026-11-05",
   "c448be233b4677e5": "2026-10-24",
   "c5120161a306d6fc": "2026-10-29",
+  "cbe0f0da91da9d83": "2026-11-17",
   "cc1c23ce200849b7": "2026-11-10",
   "ccf3e44e7f67cd8e": "2026-10-30",
   "cd17200bec849aee": "2026-11-03",
@@ -207,6 +216,7 @@
   "ce86d2165d2f82bf": "2026-11-06",
   "cf695e392515d9e9": "2026-10-22",
   "cf7bf66c31737ed8": "2026-11-01",
+  "d07395780116bc34": "2026-11-17",
   "d191d928d07e9e10": "2026-11-13",
   "d1ec5e3e407810cd": "2026-10-31",
   "d6ad234eaf6da46c": "2026-10-31",
@@ -294,6 +304,10 @@
    "2026-11-13",
    "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins"
   ],
+  "09a2e93a8419d548": [
+   "2026-11-17",
+   "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool"
+  ],
   "0aeb9484726119ee": [
    "2026-11-11",
    "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches"
@@ -302,13 +316,9 @@
    "2026-11-16",
    "Google warns that fully-automated AI attacks are coming soon"
   ],
-  "1f9f8e2357b80706": [
-   "2026-11-09",
-   "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety"
-  ],
-  "1ff5e289160abe4d": [
-   "2026-11-09",
-   "The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI."
+  "1deae186887a7f2a": [
+   "2026-11-17",
+   "Microsoft testing Remote Lock for lost or stolen Windows devices"
   ],
   "205bf9fa3f0d5194": [
    "2026-11-14",
@@ -318,10 +328,6 @@
    "2026-11-10",
    "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware"
   ],
-  "28101c6a3c570cf0": [
-   "2026-11-09",
-   "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars"
-  ],
   "28825a567c8e2355": [
    "2026-11-12",
    "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign"
@@ -330,13 +336,9 @@
    "2026-11-12",
    "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover"
   ],
-  "392ab4caa5b24152": [
-   "2026-11-09",
-   "US bans MEXC crypto exchange over sanctions evasion, cybercrime links"
-  ],
-  "3a87eee490d2bd6e": [
-   "2026-11-09",
-   "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More"
+  "389c290448f68056": [
+   "2026-11-17",
+   "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners"
   ],
   "3be6679a06880577": [
    "2026-11-12",
@@ -349,6 +351,18 @@
   "3f9541b99a134679": [
    "2026-11-11",
    "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users"
+  ],
+  "41674b4ed2c9b5b3": [
+   "2026-11-17",
+   "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap"
+  ],
+  "431cf39547d883d3": [
+   "2026-11-17",
+   "Ransomware affiliate suspect extradited to US, faces 27 years in prison"
+  ],
+  "4bcffaacca7953f7": [
+   "2026-11-17",
+   "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware"
   ],
   "4c298dc8c56b18e7": [
    "2026-11-11",
@@ -370,9 +384,9 @@
    "2026-11-16",
    "Australian retail giant Coles investigates cybersecurity incident"
   ],
-  "5a4d1c63e61dd391": [
-   "2026-11-09",
-   "Ukraine dismantles crypto scam network that stole €4.3 million"
+  "5b9c56a374491fc0": [
+   "2026-11-17",
+   "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels"
   ],
   "62c79980de8e0e24": [
    "2026-11-11",
@@ -393,10 +407,6 @@
   "6b3ec8a8c1c3d948": [
    "2026-11-13",
    "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access"
-  ],
-  "6b60799be66ee77f": [
-   "2026-11-09",
-   "Hackers exploit SSHole OpenSSH flaw to breach Linux systems"
   ],
   "6f9df96c2dc64d49": [
    "2026-11-13",
@@ -426,6 +436,10 @@
    "2026-11-13",
    "Apache HTTP Server patches critical HTTP/2 remote code execution flaw"
   ],
+  "765815c2a1b9990c": [
+   "2026-11-17",
+   "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions"
+  ],
   "7b683c1b38b9d5db": [
    "2026-11-12",
    "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely"
@@ -437,10 +451,6 @@
   "8408112e1c830387": [
    "2026-11-14",
    "Microsoft says November security updates cause printing issues"
-  ],
-  "893508bab2b3a700": [
-   "2026-11-09",
-   "Binance denies data breach after alleged ShinyHunters claims"
   ],
   "89ce79781f943927": [
    "2026-11-15",
@@ -482,10 +492,6 @@
    "2026-11-10",
    "N-able takes cloud platform offline after 30+ \"zero-days\" published"
   ],
-  "ad2441413f27e2cb": [
-   "2026-11-09",
-   "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia"
-  ],
   "ad5759c70e6325dd": [
    "2026-11-10",
    "Vanderbilt University hit in BYOD ransomware attack, data theft claimed"
@@ -514,6 +520,10 @@
    "2026-11-12",
    "Baker Tilly notifies clients of data breach at third-party provider"
   ],
+  "cbe0f0da91da9d83": [
+   "2026-11-17",
+   "Uber notifies drivers of data breach affecting nearly 150,000 people"
+  ],
   "cc1c23ce200849b7": [
    "2026-11-10",
    "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution"
@@ -522,6 +532,10 @@
    "2026-11-16",
    "Microsoft: Windows Server 2016 reaches end of support in 60 days"
   ],
+  "d07395780116bc34": [
+   "2026-11-17",
+   "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission"
+  ],
   "d191d928d07e9e10": [
    "2026-11-13",
    "Check Point warns of zero-day flaw exploited for root access"
@@ -529,10 +543,6 @@
   "d9f13916fd1a2c31": [
    "2026-11-11",
    "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers"
-  ],
-  "ddbf1ba441ad947a": [
-   "2026-11-09",
-   "FBI agent stole $2.5 million in crypto from hackers under investigation"
   ],
   "e0c28598a04a6ac2": [
    "2026-11-10",
@@ -590,10 +600,6 @@
    "2026-11-14",
    "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs"
   ],
-  "kev:CVE-2026-102895": [
-   "2026-11-09",
-   "CVE-2026-102895: GPUStack Improper Authentication Vulnerability"
-  ],
   "kev:CVE-2026-111560": [
    "2026-11-11",
    "CVE-2026-111560: Barracuda Networks Multiple Products OS Command Injection Vulnerability"
@@ -610,17 +616,9 @@
    "2026-11-11",
    "CVE-2026-116606: Barracuda Networks Email Security Gateway (ESG) Authentication Bypass Using an Alternate Path or Channel Vulnerability"
   ],
-  "kev:CVE-2026-116779": [
-   "2026-11-09",
-   "CVE-2026-116779: SignalWire FreeSwitch Code Injection Vulnerability"
-  ],
   "kev:CVE-2026-123039": [
    "2026-11-14",
    "CVE-2026-123039: Check Point Multiple Products Incorrect Permission Assignment for Critical Resource Vulnerability"
-  ],
-  "kev:CVE-2026-123158": [
-   "2026-11-09",
-   "CVE-2026-123158: OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability"
   ],
   "kev:CVE-2026-123218": [
    "2026-11-10",
