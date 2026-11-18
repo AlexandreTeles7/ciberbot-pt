@@ -16,11 +16,13 @@
   "0c4cb52f67a4b751": "2026-10-23",
   "0d1dd88c3dfef7df": "2026-10-24",
   "0ef1ad50a6b00f8d": "2026-11-07",
+  "0efd66dabd596d1b": "2026-11-18",
   "0fc545917cf25e50": "2026-11-06",
   "10b635c0c5610166": "2026-10-26",
   "10ea65771ed6ab64": "2026-10-23",
   "113fa37db14f13b5": "2026-11-16",
   "11e2d419eed360ba": "2026-10-30",
+  "1262c685909e8526": "2026-11-18",
   "147e205edeec7f3b": "2026-10-30",
   "1779f457631c9925": "2026-11-02",
   "17badb5b86f5b831": "2026-10-22",
@@ -85,6 +87,7 @@
   "475c39df4ec690c2": "2026-11-01",
   "48f4a4fb8ae4d85c": "2026-10-24",
   "49540df35d1fc1f9": "2026-11-05",
+  "4a089a98f70264d2": "2026-11-18",
   "4a36dea4db8df076": "2026-10-27",
   "4bcffaacca7953f7": "2026-11-17",
   "4c298dc8c56b18e7": "2026-11-11",
@@ -93,6 +96,7 @@
   "4e197ce9171682ba": "2026-11-02",
   "4e2637192f058b54": "2026-11-14",
   "4e3da46766d5496a": "2026-11-13",
+  "4fe0b9695dfe5a22": "2026-11-18",
   "4ff14f41af02dbe5": "2026-11-05",
   "5060525796dadc15": "2026-10-28",
   "5158c17ef38b6f4a": "2026-11-11",
@@ -107,6 +111,7 @@
   "622754d280c91bdf": "2026-10-21",
   "626a9341f83dc60b": "2026-11-05",
   "62c79980de8e0e24": "2026-11-11",
+  "632806c1fd7aa399": "2026-11-18",
   "63beded5cc42307c": "2026-11-13",
   "647ce94048879b72": "2026-10-24",
   "6483914e8552b14f": "2026-11-04",
@@ -129,6 +134,7 @@
   "754b65033cb71061": "2026-11-13",
   "765815c2a1b9990c": "2026-11-17",
   "77867c1a3e93bbaf": "2026-11-01",
+  "77a7ea43c4508720": "2026-11-18",
   "78f17183ce2a8c71": "2026-11-07",
   "7a185c8dd28887ab": "2026-10-28",
   "7a56590de43658cf": "2026-10-31",
@@ -188,6 +194,7 @@
   "ad4ab055d32c0e10": "2026-10-30",
   "ad5759c70e6325dd": "2026-11-10",
   "adc722ef6f8bb031": "2026-11-03",
+  "ae03aeb2087d614e": "2026-11-18",
   "aec67dfe8af99f84": "2026-11-16",
   "af97a1baa7e30536": "2026-10-27",
   "b18cc5e9f3ba64ec": "2026-10-27",
@@ -219,7 +226,9 @@
   "d07395780116bc34": "2026-11-17",
   "d191d928d07e9e10": "2026-11-13",
   "d1ec5e3e407810cd": "2026-10-31",
+  "d5e03f0a593720fc": "2026-11-18",
   "d6ad234eaf6da46c": "2026-10-31",
+  "d6f8afa900d7b7f3": "2026-11-18",
   "d7d0b1ca37bb0612": "2026-10-30",
   "d9406a657ec1d3c5": "2026-10-23",
   "d9f13916fd1a2c31": "2026-11-11",
@@ -247,6 +256,7 @@
   "e8c9ad44f915c99d": "2026-10-28",
   "e99fb38de9d42b5b": "2026-10-21",
   "e9e2c3dfb8e8ac32": "2026-11-16",
+  "eb9c8d5082430b29": "2026-11-18",
   "ec73a23647a4a017": "2026-10-22",
   "ed6ee569a372207d": "2026-11-16",
   "ee23cc992c42202f": "2026-11-05",
@@ -275,6 +285,7 @@
   "kev:CVE-2026-111793": "2026-11-11",
   "kev:CVE-2026-114625": "2026-10-24",
   "kev:CVE-2026-114713": "2026-11-14",
+  "kev:CVE-2026-115731": "2026-11-18",
   "kev:CVE-2026-116606": "2026-11-11",
   "kev:CVE-2026-116779": "2026-11-09",
   "kev:CVE-2026-118527": "2026-10-31",
@@ -296,10 +307,6 @@
   "kev:CVE-2026-97229": "2026-10-30"
  },
  "titulos": {
-  "05a43acc03a5bf1f": [
-   "2026-11-10",
-   "Hackers now exploit critical Barracuda ESG flaws to gain root access"
-  ],
   "0921eff2d4015698": [
    "2026-11-13",
    "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins"
@@ -312,9 +319,17 @@
    "2026-11-11",
    "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches"
   ],
+  "0efd66dabd596d1b": [
+   "2026-11-18",
+   "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years"
+  ],
   "113fa37db14f13b5": [
    "2026-11-16",
    "Google warns that fully-automated AI attacks are coming soon"
+  ],
+  "1262c685909e8526": [
+   "2026-11-18",
+   "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks"
   ],
   "1deae186887a7f2a": [
    "2026-11-17",
@@ -323,10 +338,6 @@
   "205bf9fa3f0d5194": [
    "2026-11-14",
    "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE"
-  ],
-  "27f7a293a72555ec": [
-   "2026-11-10",
-   "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware"
   ],
   "28825a567c8e2355": [
    "2026-11-12",
@@ -360,6 +371,10 @@
    "2026-11-17",
    "Ransomware affiliate suspect extradited to US, faces 27 years in prison"
   ],
+  "4a089a98f70264d2": [
+   "2026-11-18",
+   "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters"
+  ],
   "4bcffaacca7953f7": [
    "2026-11-17",
    "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware"
@@ -376,6 +391,10 @@
    "2026-11-13",
    "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files"
   ],
+  "4fe0b9695dfe5a22": [
+   "2026-11-18",
+   "Apache warns of Roller RCE vulnerability exploited in attacks"
+  ],
   "5158c17ef38b6f4a": [
    "2026-11-11",
    "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons"
@@ -391,6 +410,10 @@
   "62c79980de8e0e24": [
    "2026-11-11",
    "Microsoft Fixes Nearly 1,100 Security Vulnerabilities"
+  ],
+  "632806c1fd7aa399": [
+   "2026-11-18",
+   "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution"
   ],
   "63beded5cc42307c": [
    "2026-11-13",
@@ -412,14 +435,6 @@
    "2026-11-13",
    "Alerta de Vulnerabilidades - Zoom Workplace"
   ],
-  "7181bc89e17ec8f7": [
-   "2026-11-10",
-   "Google patches eighth Chrome zero-day exploited in attacks this year"
-  ],
-  "71fc018d64212e1a": [
-   "2026-11-10",
-   "Ransomware recovery is now a client retention metric"
-  ],
   "721f00e4f68d41c4": [
    "2026-11-11",
    "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access"
@@ -439,6 +454,10 @@
   "765815c2a1b9990c": [
    "2026-11-17",
    "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions"
+  ],
+  "77a7ea43c4508720": [
+   "2026-11-18",
+   "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers"
   ],
   "7b683c1b38b9d5db": [
    "2026-11-12",
@@ -472,10 +491,6 @@
    "2026-11-14",
    "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper"
   ],
-  "9c8a2348b395f8b5": [
-   "2026-11-10",
-   "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws"
-  ],
   "9d29ca801c5758a9": [
    "2026-11-11",
    "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor"
@@ -488,13 +503,9 @@
    "2026-11-16",
    "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware"
   ],
-  "ab020fdbb671b250": [
-   "2026-11-10",
-   "N-able takes cloud platform offline after 30+ \"zero-days\" published"
-  ],
-  "ad5759c70e6325dd": [
-   "2026-11-10",
-   "Vanderbilt University hit in BYOD ransomware attack, data theft claimed"
+  "ae03aeb2087d614e": [
+   "2026-11-18",
+   "Critical Java4Shell flaw allows RCE attacks on major Java applications"
   ],
   "aec67dfe8af99f84": [
    "2026-11-16",
@@ -524,10 +535,6 @@
    "2026-11-17",
    "Uber notifies drivers of data breach affecting nearly 150,000 people"
   ],
-  "cc1c23ce200849b7": [
-   "2026-11-10",
-   "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution"
-  ],
   "ce3769af487e1ba1": [
    "2026-11-16",
    "Microsoft: Windows Server 2016 reaches end of support in 60 days"
@@ -540,13 +547,17 @@
    "2026-11-13",
    "Check Point warns of zero-day flaw exploited for root access"
   ],
+  "d5e03f0a593720fc": [
+   "2026-11-18",
+   "Dizigom illegal streaming service with 21M monthly visits shuts down"
+  ],
+  "d6f8afa900d7b7f3": [
+   "2026-11-18",
+   "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges"
+  ],
   "d9f13916fd1a2c31": [
    "2026-11-11",
    "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers"
-  ],
-  "e0c28598a04a6ac2": [
-   "2026-11-10",
-   "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026"
   ],
   "e0e4f12e08d7e6e5": [
    "2026-11-15",
@@ -576,13 +587,13 @@
    "2026-11-16",
    "TSMC employee data breach linked to cloud provider"
   ],
+  "eb9c8d5082430b29": [
+   "2026-11-18",
+   "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor"
+  ],
   "ed6ee569a372207d": [
    "2026-11-16",
    "Microsoft says months-old bug caused global Microsoft 365 outage"
-  ],
-  "f44f79890a66cae0": [
-   "2026-11-10",
-   "SEGA newsletter data breach exposes 2.2 million email addresses"
   ],
   "f5144a60a401d507": [
    "2026-11-13",
@@ -612,6 +623,10 @@
    "2026-11-14",
    "CVE-2026-114713: UnrealIRCd Improper Neutralization of Delimiters Vulnerability"
   ],
+  "kev:CVE-2026-115731": [
+   "2026-11-18",
+   "CVE-2026-115731: Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability"
+  ],
   "kev:CVE-2026-116606": [
    "2026-11-11",
    "CVE-2026-116606: Barracuda Networks Email Security Gateway (ESG) Authentication Bypass Using an Alternate Path or Channel Vulnerability"
@@ -619,10 +634,6 @@
   "kev:CVE-2026-123039": [
    "2026-11-14",
    "CVE-2026-123039: Check Point Multiple Products Incorrect Permission Assignment for Critical Resource Vulnerability"
-  ],
-  "kev:CVE-2026-123218": [
-   "2026-11-10",
-   "CVE-2026-123218: IBM Aspera Faspex Incorrect Authorization Vulnerability"
   ],
   "kev:CVE-2026-124194": [
    "2026-11-11",
