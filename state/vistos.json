@@ -69,6 +69,7 @@
   "35bed86130fbe803": "2026-10-31",
   "360f703803c359f9": "2026-10-21",
   "389c290448f68056": "2026-11-17",
+  "38cf60cc6d5ce256": "2026-11-20",
   "392ab4caa5b24152": "2026-11-09",
   "3a87eee490d2bd6e": "2026-11-09",
   "3b11f73a0131f915": "2026-10-28",
@@ -84,6 +85,7 @@
   "42f5da3d18205a2e": "2026-11-06",
   "431cf39547d883d3": "2026-11-17",
   "43a45abe0c3f3e56": "2026-11-02",
+  "4676b7cb174c9d54": "2026-11-20",
   "47209968a5bd49e4": "2026-10-31",
   "475c39df4ec690c2": "2026-11-01",
   "48f4a4fb8ae4d85c": "2026-10-24",
@@ -123,10 +125,12 @@
   "6ae82e51041b3fbb": "2026-11-15",
   "6b3ec8a8c1c3d948": "2026-11-13",
   "6b60799be66ee77f": "2026-11-09",
+  "6dc0db6d78c9894d": "2026-11-20",
   "6e34794bc0b4e365": "2026-11-07",
   "6f9df96c2dc64d49": "2026-11-13",
   "7153257bd2ee8aa9": "2026-10-24",
   "7181bc89e17ec8f7": "2026-11-10",
+  "71938c4cf24632a1": "2026-11-20",
   "71fc018d64212e1a": "2026-11-10",
   "721f00e4f68d41c4": "2026-11-11",
   "729081d59794c645": "2026-11-12",
@@ -148,6 +152,7 @@
   "7daf3a34579d4cc8": "2026-11-19",
   "7dd1bd8a2d9aeb5b": "2026-10-24",
   "7e4a62a39299b0f2": "2026-10-30",
+  "7e660110fc7cc405": "2026-11-20",
   "7e7115603eef4d16": "2026-11-12",
   "7e7e16dcd7b29b4c": "2026-11-02",
   "7ff8a46d80fca6af": "2026-10-28",
@@ -163,6 +168,7 @@
   "893508bab2b3a700": "2026-11-09",
   "89ce79781f943927": "2026-11-15",
   "8b118518e6871598": "2026-11-13",
+  "8b6e4a5d7233b306": "2026-11-20",
   "8c6a3be34f9e6140": "2026-11-02",
   "8c6e20208c035ba2": "2026-10-29",
   "8cb5da7135cb389e": "2026-11-05",
@@ -195,6 +201,8 @@
   "a8e87db82c158675": "2026-11-08",
   "aa00a83e706f1432": "2026-11-03",
   "ab020fdbb671b250": "2026-11-10",
+  "ac329967081b8278": "2026-11-20",
+  "ac722bf831f5322b": "2026-11-20",
   "ad2441413f27e2cb": "2026-11-09",
   "ad4ab055d32c0e10": "2026-10-30",
   "ad5759c70e6325dd": "2026-11-10",
@@ -202,6 +210,7 @@
   "ae03aeb2087d614e": "2026-11-18",
   "aec67dfe8af99f84": "2026-11-16",
   "af97a1baa7e30536": "2026-10-27",
+  "b0383981ded0f688": "2026-11-20",
   "b18cc5e9f3ba64ec": "2026-10-27",
   "b2dcbde111d3bc6c": "2026-11-16",
   "b2f670a6b52ee680": "2026-11-11",
@@ -209,23 +218,29 @@
   "b65441b6fb2b5a93": "2026-11-01",
   "b82fb8aafed9023c": "2026-10-27",
   "b8354cf6ee2773d2": "2026-10-22",
+  "b9320386714a6a95": "2026-11-20",
   "b94ba5597b835da7": "2026-10-23",
   "bac13cede4006688": "2026-11-16",
   "bd0fe0e079e67b7a": "2026-10-28",
   "bd905359b02d86f9": "2026-11-13",
   "be72867527b132f3": "2026-11-03",
+  "bee8dba76ec7f227": "2026-11-20",
   "bf34b5eb6312f9e1": "2026-10-24",
   "c2100084b3a6d42d": "2026-11-08",
   "c2a75f5a10e194f7": "2026-11-12",
+  "c300c92ac3fd3798": "2026-11-20",
   "c41b887e34f9ae90": "2026-11-05",
   "c448be233b4677e5": "2026-10-24",
+  "c4cb48d228e6eeef": "2026-11-20",
   "c5120161a306d6fc": "2026-10-29",
+  "cb38ad7fb2850261": "2026-11-20",
   "cbe0f0da91da9d83": "2026-11-17",
   "cc1c23ce200849b7": "2026-11-10",
   "ccf3e44e7f67cd8e": "2026-10-30",
   "cd17200bec849aee": "2026-11-03",
   "ce3769af487e1ba1": "2026-11-16",
   "ce86d2165d2f82bf": "2026-11-06",
+  "cee221b001326df3": "2026-11-20",
   "cf695e392515d9e9": "2026-10-22",
   "cf7bf66c31737ed8": "2026-11-01",
   "d07395780116bc34": "2026-11-17",
@@ -265,6 +280,7 @@
   "e99fb38de9d42b5b": "2026-10-21",
   "e9e2c3dfb8e8ac32": "2026-11-16",
   "eb9c8d5082430b29": "2026-11-18",
+  "ebdd02e8167f29e3": "2026-11-20",
   "ec73a23647a4a017": "2026-10-22",
   "ed6ee569a372207d": "2026-11-16",
   "ee23cc992c42202f": "2026-11-05",
@@ -353,21 +369,13 @@
    "2026-11-19",
    "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE"
   ],
-  "28825a567c8e2355": [
-   "2026-11-12",
-   "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign"
-  ],
-  "32e09b3c7ab02f18": [
-   "2026-11-12",
-   "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover"
-  ],
   "389c290448f68056": [
    "2026-11-17",
    "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners"
   ],
-  "3be6679a06880577": [
-   "2026-11-12",
-   "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution"
+  "38cf60cc6d5ce256": [
+   "2026-11-20",
+   "Alerta de Vulnerabilidade - Apache Axis"
   ],
   "3e00daf15035c27c": [
    "2026-11-14",
@@ -380,6 +388,10 @@
   "431cf39547d883d3": [
    "2026-11-17",
    "Ransomware affiliate suspect extradited to US, faces 27 years in prison"
+  ],
+  "4676b7cb174c9d54": [
+   "2026-11-20",
+   "Alerta de Vulnerabilidade - Oracle Java SE, GraalVM e OpenJDK"
   ],
   "4a089a98f70264d2": [
    "2026-11-18",
@@ -433,17 +445,17 @@
    "2026-11-13",
    "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access"
   ],
+  "6dc0db6d78c9894d": [
+   "2026-11-20",
+   "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network"
+  ],
   "6f9df96c2dc64d49": [
    "2026-11-13",
    "Alerta de Vulnerabilidades - Zoom Workplace"
   ],
-  "729081d59794c645": [
-   "2026-11-12",
-   "Who Runs the Ransomware Group Qilin?"
-  ],
-  "72c909b1603842c4": [
-   "2026-11-12",
-   "Your Endpoint Management Platform Could Be Your Biggest Security Risk"
+  "71938c4cf24632a1": [
+   "2026-11-20",
+   "VMware patches vCenter zero-day exploited in attacks since September"
   ],
   "754b65033cb71061": [
    "2026-11-13",
@@ -457,17 +469,13 @@
    "2026-11-18",
    "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers"
   ],
-  "7b683c1b38b9d5db": [
-   "2026-11-12",
-   "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely"
-  ],
   "7daf3a34579d4cc8": [
    "2026-11-19",
    "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication"
   ],
-  "7e7115603eef4d16": [
-   "2026-11-12",
-   "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure"
+  "7e660110fc7cc405": [
+   "2026-11-20",
+   "Alerta de Vulnerabilidades - F5 BIG-IP"
   ],
   "8408112e1c830387": [
    "2026-11-14",
@@ -480,6 +488,10 @@
   "8b118518e6871598": [
    "2026-11-13",
    "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released"
+  ],
+  "8b6e4a5d7233b306": [
+   "2026-11-20",
+   "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data"
   ],
   "8f85c1537b6df735": [
    "2026-11-19",
@@ -505,6 +517,14 @@
    "2026-11-16",
    "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware"
   ],
+  "ac329967081b8278": [
+   "2026-11-20",
+   "ASUS warns of critical hard-coded key flaw in Control Center Express"
+  ],
+  "ac722bf831f5322b": [
+   "2026-11-20",
+   "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It"
+  ],
   "ae03aeb2087d614e": [
    "2026-11-18",
    "Critical Java4Shell flaw allows RCE attacks on major Java applications"
@@ -513,9 +533,17 @@
    "2026-11-16",
    "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login"
   ],
+  "b0383981ded0f688": [
+   "2026-11-20",
+   "Alerta de Vulnerabilidade - F5 NGINX"
+  ],
   "b2dcbde111d3bc6c": [
    "2026-11-16",
    "Fandango says hackers stole payment card details from checkout pages"
+  ],
+  "b9320386714a6a95": [
+   "2026-11-20",
+   "F5 releases emergency patches for critical BIG-IP RCE flaws"
   ],
   "bac13cede4006688": [
    "2026-11-16",
@@ -525,9 +553,21 @@
    "2026-11-13",
    "New Windows SignDrop zero-day gives hackers SYSTEM privileges"
   ],
-  "c2a75f5a10e194f7": [
-   "2026-11-12",
-   "Baker Tilly notifies clients of data breach at third-party provider"
+  "bee8dba76ec7f227": [
+   "2026-11-20",
+   "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws"
+  ],
+  "c300c92ac3fd3798": [
+   "2026-11-20",
+   "Alerta de Vulnerabilidades - WordPress"
+  ],
+  "c4cb48d228e6eeef": [
+   "2026-11-20",
+   "Alerta de Vulnerabilidade - Citrix NetScaler ADC e NetScaler Gateway (atualização)"
+  ],
+  "cb38ad7fb2850261": [
+   "2026-11-20",
+   "Still tracking company passwords in spreadsheets? You’re flying blind."
   ],
   "cbe0f0da91da9d83": [
    "2026-11-17",
@@ -536,6 +576,10 @@
   "ce3769af487e1ba1": [
    "2026-11-16",
    "Microsoft: Windows Server 2016 reaches end of support in 60 days"
+  ],
+  "cee221b001326df3": [
+   "2026-11-20",
+   "PHP security updates fix 18 flaws, including critical RCE bugs"
   ],
   "d07395780116bc34": [
    "2026-11-17",
@@ -565,10 +609,6 @@
    "2026-11-14",
    "Trezor confirms crypto-stealing implants in three wallets, releases fix"
   ],
-  "e25f989985f90657": [
-   "2026-11-12",
-   "Maersk confirms data breach as WhiteArmor ransomware demands $5 million"
-  ],
   "e2c7cfd35f159391": [
    "2026-11-19",
    "Five warning signs of ransomware breach before encryption or data theft"
@@ -576,10 +616,6 @@
   "e36f6d90d00b53b1": [
    "2026-11-15",
    "US disrupts North Korean campaign behind $400 million crypto theft"
-  ],
-  "e4b1987000447de5": [
-   "2026-11-12",
-   "Apify rotates API tokens, prompts 2FA resets after breach"
   ],
   "e70de9158af98971": [
    "2026-11-14",
@@ -596,6 +632,10 @@
   "eb9c8d5082430b29": [
    "2026-11-18",
    "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor"
+  ],
+  "ebdd02e8167f29e3": [
+   "2026-11-20",
+   "Transport for London breach exposes 265,000 Oyster card users' data"
   ],
   "ed6ee569a372207d": [
    "2026-11-16",
