@@ -10,6 +10,7 @@
   "0706d993935be7b7": "2026-11-06",
   "0778766d81ebd40a": "2026-10-28",
   "07ded687620c9a3f": "2026-11-06",
+  "08c18890b2a452fd": "2026-11-21",
   "0921eff2d4015698": "2026-11-13",
   "09a2e93a8419d548": "2026-11-17",
   "0aeb9484726119ee": "2026-11-11",
@@ -21,6 +22,7 @@
   "10b635c0c5610166": "2026-10-26",
   "10ea65771ed6ab64": "2026-10-23",
   "113fa37db14f13b5": "2026-11-16",
+  "118737cff62bf256": "2026-11-21",
   "11e2d419eed360ba": "2026-10-30",
   "1262c685909e8526": "2026-11-18",
   "147e205edeec7f3b": "2026-10-30",
@@ -81,10 +83,12 @@
   "3f9541b99a134679": "2026-11-11",
   "401c132c974373b0": "2026-11-06",
   "412bbcc50c0cc7e0": "2026-11-04",
+  "4158b0ba6f233728": "2026-11-21",
   "41674b4ed2c9b5b3": "2026-11-17",
   "42f5da3d18205a2e": "2026-11-06",
   "431cf39547d883d3": "2026-11-17",
   "43a45abe0c3f3e56": "2026-11-02",
+  "44b2a0c7412388f2": "2026-11-21",
   "4676b7cb174c9d54": "2026-11-20",
   "47209968a5bd49e4": "2026-10-31",
   "475c39df4ec690c2": "2026-11-01",
@@ -103,6 +107,7 @@
   "4ff14f41af02dbe5": "2026-11-05",
   "5060525796dadc15": "2026-10-28",
   "5158c17ef38b6f4a": "2026-11-11",
+  "5310a060d71adf62": "2026-11-21",
   "531efb27f6159372": "2026-11-03",
   "5519b00d17063a99": "2026-11-16",
   "58c11ae1ff85094d": "2026-10-21",
@@ -211,9 +216,11 @@
   "aec67dfe8af99f84": "2026-11-16",
   "af97a1baa7e30536": "2026-10-27",
   "b0383981ded0f688": "2026-11-20",
+  "b15c24dad03d99b1": "2026-11-21",
   "b18cc5e9f3ba64ec": "2026-10-27",
   "b2dcbde111d3bc6c": "2026-11-16",
   "b2f670a6b52ee680": "2026-11-11",
+  "b601ff3a21bb6b8c": "2026-11-21",
   "b64a141a0615f5d6": "2026-11-05",
   "b65441b6fb2b5a93": "2026-11-01",
   "b82fb8aafed9023c": "2026-10-27",
@@ -221,6 +228,7 @@
   "b9320386714a6a95": "2026-11-20",
   "b94ba5597b835da7": "2026-10-23",
   "bac13cede4006688": "2026-11-16",
+  "bb363a0ed3654b53": "2026-11-21",
   "bd0fe0e079e67b7a": "2026-10-28",
   "bd905359b02d86f9": "2026-11-13",
   "be72867527b132f3": "2026-11-03",
@@ -233,6 +241,7 @@
   "c448be233b4677e5": "2026-10-24",
   "c4cb48d228e6eeef": "2026-11-20",
   "c5120161a306d6fc": "2026-10-29",
+  "c800980ef7a9375e": "2026-11-21",
   "cb38ad7fb2850261": "2026-11-20",
   "cbe0f0da91da9d83": "2026-11-17",
   "cc1c23ce200849b7": "2026-11-10",
@@ -247,6 +256,7 @@
   "d191d928d07e9e10": "2026-11-13",
   "d1ec5e3e407810cd": "2026-10-31",
   "d5e03f0a593720fc": "2026-11-18",
+  "d5f0b1981d5c649a": "2026-11-21",
   "d6ad234eaf6da46c": "2026-10-31",
   "d6f8afa900d7b7f3": "2026-11-18",
   "d7d0b1ca37bb0612": "2026-10-30",
@@ -261,6 +271,7 @@
   "de30d2ce6557a445": "2026-10-23",
   "dea8933201de5391": "2026-11-03",
   "df3181809a908e26": "2026-11-07",
+  "e039bdf7aff2603b": "2026-11-21",
   "e04b7de2e185fe5e": "2026-11-19",
   "e0ae260b2730b53a": "2026-10-26",
   "e0c28598a04a6ac2": "2026-11-10",
@@ -300,6 +311,7 @@
   "ff9c149833f56962": "2026-11-14",
   "kev:CVE-2024-10441": "2026-11-19",
   "kev:CVE-2024-27834": "2026-11-05",
+  "kev:CVE-2025-42884": "2026-11-21",
   "kev:CVE-2026-102895": "2026-11-09",
   "kev:CVE-2026-106931": "2026-10-21",
   "kev:CVE-2026-109618": "2026-10-27",
@@ -320,8 +332,10 @@
   "kev:CVE-2026-123039": "2026-11-14",
   "kev:CVE-2026-123158": "2026-11-09",
   "kev:CVE-2026-123218": "2026-11-10",
+  "kev:CVE-2026-123890": "2026-11-21",
   "kev:CVE-2026-124194": "2026-11-11",
   "kev:CVE-2026-125350": "2026-11-11",
+  "kev:CVE-2026-129448": "2026-11-21",
   "kev:CVE-2026-19868": "2026-11-07",
   "kev:CVE-2026-20320": "2026-11-11",
   "kev:CVE-2026-40217": "2026-11-19",
@@ -329,6 +343,7 @@
   "kev:CVE-2026-46300": "2026-10-29",
   "kev:CVE-2026-48356": "2026-10-28",
   "kev:CVE-2026-76418": "2026-10-30",
+  "kev:CVE-2026-76466": "2026-11-21",
   "kev:CVE-2026-90436": "2026-11-19",
   "kev:CVE-2026-90817": "2026-11-19",
   "kev:CVE-2026-96654": "2026-10-21",
@@ -337,9 +352,9 @@
   "kev:CVE-2026-97229": "2026-10-30"
  },
  "titulos": {
-  "0921eff2d4015698": [
-   "2026-11-13",
-   "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins"
+  "08c18890b2a452fd": [
+   "2026-11-21",
+   "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge"
   ],
   "09a2e93a8419d548": [
    "2026-11-17",
@@ -352,6 +367,10 @@
   "113fa37db14f13b5": [
    "2026-11-16",
    "Google warns that fully-automated AI attacks are coming soon"
+  ],
+  "118737cff62bf256": [
+   "2026-11-21",
+   "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access"
   ],
   "1262c685909e8526": [
    "2026-11-18",
@@ -381,6 +400,10 @@
    "2026-11-14",
    "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users"
   ],
+  "4158b0ba6f233728": [
+   "2026-11-21",
+   "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud"
+  ],
   "41674b4ed2c9b5b3": [
    "2026-11-17",
    "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap"
@@ -388,6 +411,10 @@
   "431cf39547d883d3": [
    "2026-11-17",
    "Ransomware affiliate suspect extradited to US, faces 27 years in prison"
+  ],
+  "44b2a0c7412388f2": [
+   "2026-11-21",
+   "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys"
   ],
   "4676b7cb174c9d54": [
    "2026-11-20",
@@ -405,13 +432,13 @@
    "2026-11-14",
    "When an AI Agent Goes Wrong, Can You Stop It?"
   ],
-  "4e3da46766d5496a": [
-   "2026-11-13",
-   "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files"
-  ],
   "4fe0b9695dfe5a22": [
    "2026-11-18",
    "Apache warns of Roller RCE vulnerability exploited in attacks"
+  ],
+  "5310a060d71adf62": [
+   "2026-11-21",
+   "Alerta de Vulnerabilidade - Broadcom VMware vCenter"
   ],
   "5519b00d17063a99": [
    "2026-11-16",
@@ -425,41 +452,21 @@
    "2026-11-18",
    "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution"
   ],
-  "63beded5cc42307c": [
-   "2026-11-13",
-   "Alerta de Vulnerabilidade - Apache HTTP Server"
-  ],
   "63f1e09ffc573954": [
    "2026-11-19",
    "NVIDIA investigating Gentlemen ransomware breach claims"
-  ],
-  "671ffa83eaa022ec": [
-   "2026-11-13",
-   "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls"
   ],
   "6ae82e51041b3fbb": [
    "2026-11-15",
    "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent"
   ],
-  "6b3ec8a8c1c3d948": [
-   "2026-11-13",
-   "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access"
-  ],
   "6dc0db6d78c9894d": [
    "2026-11-20",
    "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network"
   ],
-  "6f9df96c2dc64d49": [
-   "2026-11-13",
-   "Alerta de Vulnerabilidades - Zoom Workplace"
-  ],
   "71938c4cf24632a1": [
    "2026-11-20",
    "VMware patches vCenter zero-day exploited in attacks since September"
-  ],
-  "754b65033cb71061": [
-   "2026-11-13",
-   "Apache HTTP Server patches critical HTTP/2 remote code execution flaw"
   ],
   "765815c2a1b9990c": [
    "2026-11-17",
@@ -485,10 +492,6 @@
    "2026-11-15",
    "Cursor confirms security breach led to malicious Claude Code extension"
   ],
-  "8b118518e6871598": [
-   "2026-11-13",
-   "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released"
-  ],
   "8b6e4a5d7233b306": [
    "2026-11-20",
    "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data"
@@ -508,10 +511,6 @@
   "9d9cc3e98b3a5f0f": [
    "2026-11-19",
    "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms"
-  ],
-  "9f751b46e5666032": [
-   "2026-11-13",
-   "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry"
   ],
   "a5ce66b5295eda36": [
    "2026-11-16",
@@ -537,9 +536,17 @@
    "2026-11-20",
    "Alerta de Vulnerabilidade - F5 NGINX"
   ],
+  "b15c24dad03d99b1": [
+   "2026-11-21",
+   "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS"
+  ],
   "b2dcbde111d3bc6c": [
    "2026-11-16",
    "Fandango says hackers stole payment card details from checkout pages"
+  ],
+  "b601ff3a21bb6b8c": [
+   "2026-11-21",
+   "Bell Canada says 'agentic' hacker stole enterprise customer data"
   ],
   "b9320386714a6a95": [
    "2026-11-20",
@@ -549,9 +556,9 @@
    "2026-11-16",
    "7 Tips For Complying with CJIS Password and MFA Requirements"
   ],
-  "bd905359b02d86f9": [
-   "2026-11-13",
-   "New Windows SignDrop zero-day gives hackers SYSTEM privileges"
+  "bb363a0ed3654b53": [
+   "2026-11-21",
+   "Vendor data breach exposes Chase, Visa, Mastercard customer info"
   ],
   "bee8dba76ec7f227": [
    "2026-11-20",
@@ -564,6 +571,10 @@
   "c4cb48d228e6eeef": [
    "2026-11-20",
    "Alerta de Vulnerabilidade - Citrix NetScaler ADC e NetScaler Gateway (atualização)"
+  ],
+  "c800980ef7a9375e": [
+   "2026-11-21",
+   "FBI reportedly hacked again, this time targeting nationwide police database"
   ],
   "cb38ad7fb2850261": [
    "2026-11-20",
@@ -585,17 +596,21 @@
    "2026-11-17",
    "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission"
   ],
-  "d191d928d07e9e10": [
-   "2026-11-13",
-   "Check Point warns of zero-day flaw exploited for root access"
-  ],
   "d5e03f0a593720fc": [
    "2026-11-18",
    "Dizigom illegal streaming service with 21M monthly visits shuts down"
   ],
+  "d5f0b1981d5c649a": [
+   "2026-11-21",
+   "Hackers use autonomous AI tool Cairn to find zero-day, take over server"
+  ],
   "d6f8afa900d7b7f3": [
    "2026-11-18",
    "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges"
+  ],
+  "e039bdf7aff2603b": [
+   "2026-11-21",
+   "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats"
   ],
   "e04b7de2e185fe5e": [
    "2026-11-19",
@@ -641,10 +656,6 @@
    "2026-11-16",
    "Microsoft says months-old bug caused global Microsoft 365 outage"
   ],
-  "f5144a60a401d507": [
-   "2026-11-13",
-   "How one AI agent exposed five critical enterprise security gaps"
-  ],
   "f7bf9df273ff8097": [
    "2026-11-19",
    "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution"
@@ -669,6 +680,10 @@
    "2026-11-19",
    "CVE-2024-10441: Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability"
   ],
+  "kev:CVE-2025-42884": [
+   "2026-11-21",
+   "CVE-2025-42884: SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnerability"
+  ],
   "kev:CVE-2026-114713": [
    "2026-11-14",
    "CVE-2026-114713: UnrealIRCd Improper Neutralization of Delimiters Vulnerability"
@@ -681,9 +696,21 @@
    "2026-11-14",
    "CVE-2026-123039: Check Point Multiple Products Incorrect Permission Assignment for Critical Resource Vulnerability"
   ],
+  "kev:CVE-2026-123890": [
+   "2026-11-21",
+   "CVE-2026-123890: VMWare vCenter Authentication Bypass Using an Alternate Path or Channel Vulnerability"
+  ],
+  "kev:CVE-2026-129448": [
+   "2026-11-21",
+   "CVE-2026-129448: Apache Roller Deserialization of Untrusted Data Vulnerability"
+  ],
   "kev:CVE-2026-40217": [
    "2026-11-19",
    "CVE-2026-40217: BerriAI LiteLLM Unprotected Alternate Channel Vulnerability"
+  ],
+  "kev:CVE-2026-76466": [
+   "2026-11-21",
+   "CVE-2026-76466: Cisco Expressway Series Use of Hard-coded Credentials Vulnerability"
   ],
   "kev:CVE-2026-90436": [
    "2026-11-19",

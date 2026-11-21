@@ -1,0 +1,274 @@
+{
+ "data": "2026-11-21",
+ "gerado_em": "2026-11-21T15:09:32.294809+00:00",
+ "itens": [
+  {
+   "id": "5310a060d71adf62",
+   "titulo": "Alerta de Vulnerabilidade - Broadcom VMware vCenter",
+   "resumo": "<div style=\"width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch;\"> <table style=\"width: 100%; min-width: 700px; border-collapse: collapse; font-family: Arial, sans-serif; font-size: 14px; border-radius: 8px; overflow: hidden;\"> <thead> <tr> <th style=\"padding: 0; border: none;\" colspan=\"3\"> <div style=\"display: flex; justify-content: space-between; align-items: center; gap: 16px; background-color: #1f4e79; color: white; padding: 12px 16px;\"><span style=\"font-weight: bold; font-size: 14px;\">CVSS v3.1 - Resumo T&eacute;cnico</span> <span style=\"background-color: #ff4d4d; color…",
+   "url": "https://dyn.cncs.gov.pt/pt/alerta-detalhe/art/136152/alerta-de-vulnerabilidade-broadcom-vmware-vcenter",
+   "fonte": "CNCS — Alertas de Segurança",
+   "idioma": "pt",
+   "categoria": "portugal",
+   "publicado": "2026-11-20T00:00:00+00:00",
+   "pontuacao": 40.0,
+   "cves": [
+    "CVE-2026-123890"
+   ],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "kev:CVE-2026-129448",
+   "titulo": "CVE-2026-129448: Apache Roller Deserialization of Untrusted Data Vulnerability",
+   "resumo": "Apache Roller contains a deserialization of untrusted data vulnerability that allows an unauthenticated remote attacker to execute arbitrary code via the XML-RPC endpoint, which accepts and deserializes vendor extension types before authentication. This CVE covers the same underlying vulnerability as CVE-2026-82384 but applies to a broader range of affected versions.",
+   "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-129448",
+   "fonte": "CISA — Vulnerabilidades exploradas (KEV)",
+   "idioma": "en",
+   "categoria": "exploradas",
+   "publicado": "2026-11-20T12:00:00+00:00",
+   "pontuacao": 62.5,
+   "cves": [
+    "CVE-2026-129448"
+   ],
+   "etiquetas": [
+    "Explorada ativamente",
+    "Prazo CISA: 23/11/2026"
+   ],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "kev:CVE-2026-123890",
+   "titulo": "CVE-2026-123890: VMWare vCenter Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+   "resumo": "Broadcom VMware vCenter contains an authentication bypass using an alternate path or channel vulnerability in the VMware Directory Service that allows an unauthenticated attacker with network access to vCenter to bypass authentication and gain unauthorized access to the system.",
+   "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-123890",
+   "fonte": "CISA — Vulnerabilidades exploradas (KEV)",
+   "idioma": "en",
+   "categoria": "exploradas",
+   "publicado": "2026-11-20T12:00:00+00:00",
+   "pontuacao": 62.5,
+   "cves": [
+    "CVE-2026-123890"
+   ],
+   "etiquetas": [
+    "Explorada ativamente",
+    "Prazo CISA: 23/11/2026"
+   ],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "kev:CVE-2025-42884",
+   "titulo": "CVE-2025-42884: SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnerability",
+   "resumo": "SAP NetWeaver Enterprise Portal contains an improper neutralization of special elements in data query logic vulnerability that allows an unauthenticated attacker to disclose or modify server information via injected JNDI environment properties or a URL used during JNDI lookup operations.",
+   "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-42884",
+   "fonte": "CISA — Vulnerabilidades exploradas (KEV)",
+   "idioma": "en",
+   "categoria": "exploradas",
+   "publicado": "2026-11-20T12:00:00+00:00",
+   "pontuacao": 62.5,
+   "cves": [
+    "CVE-2025-42884"
+   ],
+   "etiquetas": [
+    "Explorada ativamente",
+    "Prazo CISA: 23/11/2026"
+   ],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "kev:CVE-2026-76466",
+   "titulo": "CVE-2026-76466: Cisco Expressway Series Use of Hard-coded Credentials Vulnerability",
+   "resumo": "Cisco Expressway Series contains a use of hard-coded credentials vulnerability that allows an unauthenticated, remote attacker with persistent cookies and network access to execute commands as root on a clustered device via the database service.",
+   "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-76466",
+   "fonte": "CISA — Vulnerabilidades exploradas (KEV)",
+   "idioma": "en",
+   "categoria": "exploradas",
+   "publicado": "2026-11-20T12:00:00+00:00",
+   "pontuacao": 62.5,
+   "cves": [
+    "CVE-2026-76466"
+   ],
+   "etiquetas": [
+    "Explorada ativamente",
+    "Prazo CISA: 23/11/2026"
+   ],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "118737cff62bf256",
+   "titulo": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+   "resumo": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence said this week. The flaw allows an attacker with no account to write files outside the server's storage folder, and it affects MONAI Label 0.8.5 and earlier in the default setup,",
+   "url": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+   "fonte": "The Hacker News",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-21T11:03:17+00:00",
+   "pontuacao": 58.9,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "08c18890b2a452fd",
+   "titulo": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
+   "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-129448 (CVSS score: 9.8) - A deserialization of untrusted data vulnerability in",
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
+   "fonte": "The Hacker News",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-21T08:49:13+00:00",
+   "pontuacao": 54.2,
+   "cves": [
+    "CVE-2026-129448"
+   ],
+   "etiquetas": [
+    "Na lista KEV da CISA"
+   ],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "d5f0b1981d5c649a",
+   "titulo": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+   "resumo": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+   "fonte": "BleepingComputer",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-20T17:30:00+00:00",
+   "pontuacao": 54.0,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "4158b0ba6f233728",
+   "titulo": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
+   "resumo": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the company was simply paying the attackers for a decryption key and charging victims a markup for work that was never performed.",
+   "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+   "fonte": "Krebs on Security",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-21T00:36:39+00:00",
+   "pontuacao": 46.0,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "44b2a0c7412388f2",
+   "titulo": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+   "resumo": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG. The GnuPG project warned yesterday that the flaw could be used to steal data from affected applications and has released fixed versions. The bug, tracked as CVE-2026-129975, affects all software that uses GPGME before version 2.3.0,",
+   "url": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+   "fonte": "The Hacker News",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-21T11:05:53+00:00",
+   "pontuacao": 39.9,
+   "cves": [
+    "CVE-2026-129975"
+   ],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "bb363a0ed3654b53",
+   "titulo": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+   "resumo": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]",
+   "url": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
+   "fonte": "BleepingComputer",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-20T15:58:06+00:00",
+   "pontuacao": 38.6,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "c800980ef7a9375e",
+   "titulo": "FBI reportedly hacked again, this time targeting nationwide police database",
+   "resumo": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state, and federal law enforcement agencies. [...]",
+   "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+   "fonte": "BleepingComputer",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-21T14:26:04+00:00",
+   "pontuacao": 34.8,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "e039bdf7aff2603b",
+   "titulo": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
+   "resumo": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown. The same attack could be extended to reach the credentials Muse stores for the user's connected accounts. The work was a laboratory demonstration, not an attack on real users, and it stayed inside the individual user's",
+   "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+   "fonte": "The Hacker News",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-21T11:53:07+00:00",
+   "pontuacao": 34.1,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "b15c24dad03d99b1",
+   "titulo": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
+   "resumo": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is \"incomplete.\" The feature applies to agentic systems built into iOS 27 and on Android versions where the encrypted messaging platform can detect an AI assistant attempting to read the Signal",
+   "url": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
+   "fonte": "The Hacker News",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-21T08:49:20+00:00",
+   "pontuacao": 33.2,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "b601ff3a21bb6b8c",
+   "titulo": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+   "resumo": "Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to order and provision telecommunications circuits. [...]",
+   "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
+   "fonte": "BleepingComputer",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-20T18:51:43+00:00",
+   "pontuacao": 29.4,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  }
+ ]
+}
