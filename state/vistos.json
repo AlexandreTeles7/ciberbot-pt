@@ -144,6 +144,7 @@
   "73ff89d9e54d94e9": "2026-10-24",
   "754b65033cb71061": "2026-11-13",
   "765815c2a1b9990c": "2026-11-17",
+  "76657277c4d711ae": "2026-11-22",
   "77867c1a3e93bbaf": "2026-11-01",
   "77a7ea43c4508720": "2026-11-18",
   "78f17183ce2a8c71": "2026-11-07",
@@ -162,6 +163,7 @@
   "7e7e16dcd7b29b4c": "2026-11-02",
   "7ff8a46d80fca6af": "2026-10-28",
   "80ea3f790938b473": "2026-10-31",
+  "8130f014b86660fe": "2026-11-22",
   "816b0cc9bcf37f15": "2026-11-05",
   "82e0032b3a0a1f7a": "2026-11-07",
   "8312b7e4bcf8250d": "2026-10-29",
@@ -203,6 +205,7 @@
   "a212e990851bb9aa": "2026-10-31",
   "a5ce66b5295eda36": "2026-11-16",
   "a706922feef76cbb": "2026-11-06",
+  "a80c0f6e050f5726": "2026-11-22",
   "a8e87db82c158675": "2026-11-08",
   "aa00a83e706f1432": "2026-11-03",
   "ab020fdbb671b250": "2026-11-10",
@@ -250,6 +253,7 @@
   "ce3769af487e1ba1": "2026-11-16",
   "ce86d2165d2f82bf": "2026-11-06",
   "cee221b001326df3": "2026-11-20",
+  "ceebcf60085d1c68": "2026-11-22",
   "cf695e392515d9e9": "2026-10-22",
   "cf7bf66c31737ed8": "2026-11-01",
   "d07395780116bc34": "2026-11-17",
@@ -266,6 +270,7 @@
   "da3d205db86b9086": "2026-10-26",
   "da5af132b6ecf517": "2026-10-24",
   "db53400872d72a0d": "2026-10-21",
+  "db9a8d50388afdbf": "2026-11-22",
   "dbd63f3f484e39d8": "2026-10-27",
   "ddbf1ba441ad947a": "2026-11-09",
   "de30d2ce6557a445": "2026-10-23",
@@ -380,10 +385,6 @@
    "2026-11-17",
    "Microsoft testing Remote Lock for lost or stolen Windows devices"
   ],
-  "205bf9fa3f0d5194": [
-   "2026-11-14",
-   "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE"
-  ],
   "25da1999d2877f85": [
    "2026-11-19",
    "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE"
@@ -395,10 +396,6 @@
   "38cf60cc6d5ce256": [
    "2026-11-20",
    "Alerta de Vulnerabilidade - Apache Axis"
-  ],
-  "3e00daf15035c27c": [
-   "2026-11-14",
-   "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users"
   ],
   "4158b0ba6f233728": [
    "2026-11-21",
@@ -427,10 +424,6 @@
   "4bcffaacca7953f7": [
    "2026-11-17",
    "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware"
-  ],
-  "4e2637192f058b54": [
-   "2026-11-14",
-   "When an AI Agent Goes Wrong, Can You Stop It?"
   ],
   "4fe0b9695dfe5a22": [
    "2026-11-18",
@@ -472,6 +465,10 @@
    "2026-11-17",
    "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions"
   ],
+  "76657277c4d711ae": [
+   "2026-11-22",
+   "Microsoft Entra Connect Health flaw exploited to steal tenant data"
+  ],
   "77a7ea43c4508720": [
    "2026-11-18",
    "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers"
@@ -484,9 +481,9 @@
    "2026-11-20",
    "Alerta de Vulnerabilidades - F5 BIG-IP"
   ],
-  "8408112e1c830387": [
-   "2026-11-14",
-   "Microsoft says November security updates cause printing issues"
+  "8130f014b86660fe": [
+   "2026-11-22",
+   "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms"
   ],
   "89ce79781f943927": [
    "2026-11-15",
@@ -500,14 +497,6 @@
    "2026-11-19",
    "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites"
   ],
-  "9c35ae2ba72e0066": [
-   "2026-11-14",
-   "German military drone operations disrupted by cyberattack"
-  ],
-  "9c457dbe4b186890": [
-   "2026-11-14",
-   "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper"
-  ],
   "9d9cc3e98b3a5f0f": [
    "2026-11-19",
    "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms"
@@ -515,6 +504,10 @@
   "a5ce66b5295eda36": [
    "2026-11-16",
    "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware"
+  ],
+  "a80c0f6e050f5726": [
+   "2026-11-22",
+   "Rackspace Spot breach let hackers access customer Kubernetes secrets"
   ],
   "ac329967081b8278": [
    "2026-11-20",
@@ -592,6 +585,10 @@
    "2026-11-20",
    "PHP security updates fix 18 flaws, including critical RCE bugs"
   ],
+  "ceebcf60085d1c68": [
+   "2026-11-22",
+   "BADBOX botnet returns with record-breaking 40 billion daily ad requests"
+  ],
   "d07395780116bc34": [
    "2026-11-17",
    "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission"
@@ -608,6 +605,10 @@
    "2026-11-18",
    "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges"
   ],
+  "db9a8d50388afdbf": [
+   "2026-11-22",
+   "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps"
+  ],
   "e039bdf7aff2603b": [
    "2026-11-21",
    "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats"
@@ -620,10 +621,6 @@
    "2026-11-15",
    "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident"
   ],
-  "e1156f28bbe6c29b": [
-   "2026-11-14",
-   "Trezor confirms crypto-stealing implants in three wallets, releases fix"
-  ],
   "e2c7cfd35f159391": [
    "2026-11-19",
    "Five warning signs of ransomware breach before encryption or data theft"
@@ -631,10 +628,6 @@
   "e36f6d90d00b53b1": [
    "2026-11-15",
    "US disrupts North Korean campaign behind $400 million crypto theft"
-  ],
-  "e70de9158af98971": [
-   "2026-11-14",
-   "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases"
   ],
   "e72ed61136a9deca": [
    "2026-11-19",
@@ -660,10 +653,6 @@
    "2026-11-19",
    "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution"
   ],
-  "fa33c3084eb89ae1": [
-   "2026-11-14",
-   "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection"
-  ],
   "fe01a99f0fcd80fe": [
    "2026-11-19",
    "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks"
@@ -671,10 +660,6 @@
   "fe9941e75ee77835": [
    "2026-11-16",
    "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs"
-  ],
-  "ff9c149833f56962": [
-   "2026-11-14",
-   "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs"
   ],
   "kev:CVE-2024-10441": [
    "2026-11-19",
@@ -684,17 +669,9 @@
    "2026-11-21",
    "CVE-2025-42884: SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnerability"
   ],
-  "kev:CVE-2026-114713": [
-   "2026-11-14",
-   "CVE-2026-114713: UnrealIRCd Improper Neutralization of Delimiters Vulnerability"
-  ],
   "kev:CVE-2026-115731": [
    "2026-11-18",
    "CVE-2026-115731: Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability"
-  ],
-  "kev:CVE-2026-123039": [
-   "2026-11-14",
-   "CVE-2026-123039: Check Point Multiple Products Incorrect Permission Assignment for Critical Resource Vulnerability"
   ],
   "kev:CVE-2026-123890": [
    "2026-11-21",
