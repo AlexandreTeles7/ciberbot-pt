@@ -60,6 +60,7 @@
   "2c614b999eb78eb4": "2026-10-27",
   "2e08fa4fc3620dce": "2026-10-22",
   "307b0a3b0a435904": "2026-10-31",
+  "30cc53b683374fed": "2026-11-23",
   "30dfb98cd1b9df64": "2026-10-29",
   "31fd152f9956be6a": "2026-10-31",
   "322116d1bcc16570": "2026-11-05",
@@ -127,6 +128,7 @@
   "64f10897699a8adb": "2026-11-04",
   "65516a06ab6385eb": "2026-11-02",
   "671ffa83eaa022ec": "2026-11-13",
+  "67950d6e7b41a482": "2026-11-23",
   "6ae82e51041b3fbb": "2026-11-15",
   "6b3ec8a8c1c3d948": "2026-11-13",
   "6b60799be66ee77f": "2026-11-09",
@@ -151,6 +153,7 @@
   "7a185c8dd28887ab": "2026-10-28",
   "7a56590de43658cf": "2026-10-31",
   "7af0d3a1968a6eb8": "2026-10-21",
+  "7b0ba413699d5146": "2026-11-23",
   "7b683c1b38b9d5db": "2026-11-12",
   "7d4c87ceae4423a3": "2026-11-04",
   "7d7f6d9840133844": "2026-10-21",
@@ -183,11 +186,13 @@
   "8dfa4c01da706a7b": "2026-10-25",
   "8f85c1537b6df735": "2026-11-19",
   "9163a649e86680ec": "2026-11-07",
+  "9173d0522d12fa0e": "2026-11-23",
   "923a6f68d1dc2a26": "2026-11-03",
   "92699249dadcc21c": "2026-11-11",
   "931d1d1fb61725d1": "2026-10-30",
   "93e9c76800069225": "2026-11-07",
   "941e277ba15aa99e": "2026-11-06",
+  "950f823bd179d6ca": "2026-11-23",
   "97ae72ec6d5bf887": "2026-10-22",
   "983ab8b5d4b16718": "2026-11-03",
   "9a9c7ae127735754": "2026-11-01",
@@ -200,6 +205,7 @@
   "9d9cc3e98b3a5f0f": "2026-11-19",
   "9ede2fbb7007f983": "2026-10-30",
   "9ef8e97907d2b0da": "2026-10-23",
+  "9f0e5059bb42b404": "2026-11-23",
   "9f751b46e5666032": "2026-11-13",
   "a16b2754a6c591fd": "2026-10-26",
   "a212e990851bb9aa": "2026-10-31",
@@ -221,6 +227,7 @@
   "b0383981ded0f688": "2026-11-20",
   "b15c24dad03d99b1": "2026-11-21",
   "b18cc5e9f3ba64ec": "2026-10-27",
+  "b1ca625e963205c7": "2026-11-23",
   "b2dcbde111d3bc6c": "2026-11-16",
   "b2f670a6b52ee680": "2026-11-11",
   "b601ff3a21bb6b8c": "2026-11-21",
@@ -232,6 +239,7 @@
   "b94ba5597b835da7": "2026-10-23",
   "bac13cede4006688": "2026-11-16",
   "bb363a0ed3654b53": "2026-11-21",
+  "bc79b8c5022d3148": "2026-11-23",
   "bd0fe0e079e67b7a": "2026-10-28",
   "bd905359b02d86f9": "2026-11-13",
   "be72867527b132f3": "2026-11-03",
@@ -299,6 +307,7 @@
   "ebdd02e8167f29e3": "2026-11-20",
   "ec73a23647a4a017": "2026-10-22",
   "ed6ee569a372207d": "2026-11-16",
+  "ed78be2cd2f83ce3": "2026-11-23",
   "ee23cc992c42202f": "2026-11-05",
   "f44f79890a66cae0": "2026-11-10",
   "f46872103dd8d250": "2026-10-23",
@@ -308,6 +317,7 @@
   "f7a301bf16bfa63a": "2026-11-02",
   "f7bf9df273ff8097": "2026-11-19",
   "fa33c3084eb89ae1": "2026-11-14",
+  "fa3e0f60c75f7839": "2026-11-23",
   "fa6478a9df14d955": "2026-10-29",
   "fb0c164b0656aa65": "2026-10-26",
   "fe01a99f0fcd80fe": "2026-11-19",
@@ -389,6 +399,10 @@
    "2026-11-19",
    "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE"
   ],
+  "30cc53b683374fed": [
+   "2026-11-23",
+   "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach"
+  ],
   "389c290448f68056": [
    "2026-11-17",
    "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners"
@@ -449,9 +463,9 @@
    "2026-11-19",
    "NVIDIA investigating Gentlemen ransomware breach claims"
   ],
-  "6ae82e51041b3fbb": [
-   "2026-11-15",
-   "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent"
+  "67950d6e7b41a482": [
+   "2026-11-23",
+   "CISA flags critical Cisco RCE flaw as actively exploited in attacks"
   ],
   "6dc0db6d78c9894d": [
    "2026-11-20",
@@ -473,6 +487,10 @@
    "2026-11-18",
    "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers"
   ],
+  "7b0ba413699d5146": [
+   "2026-11-23",
+   "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning"
+  ],
   "7daf3a34579d4cc8": [
    "2026-11-19",
    "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication"
@@ -485,10 +503,6 @@
    "2026-11-22",
    "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms"
   ],
-  "89ce79781f943927": [
-   "2026-11-15",
-   "Cursor confirms security breach led to malicious Claude Code extension"
-  ],
   "8b6e4a5d7233b306": [
    "2026-11-20",
    "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data"
@@ -497,9 +511,21 @@
    "2026-11-19",
    "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites"
   ],
+  "9173d0522d12fa0e": [
+   "2026-11-23",
+   "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE"
+  ],
+  "950f823bd179d6ca": [
+   "2026-11-23",
+   "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access"
+  ],
   "9d9cc3e98b3a5f0f": [
    "2026-11-19",
    "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms"
+  ],
+  "9f0e5059bb42b404": [
+   "2026-11-23",
+   "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble"
   ],
   "a5ce66b5295eda36": [
    "2026-11-16",
@@ -533,6 +559,10 @@
    "2026-11-21",
    "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS"
   ],
+  "b1ca625e963205c7": [
+   "2026-11-23",
+   "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards"
+  ],
   "b2dcbde111d3bc6c": [
    "2026-11-16",
    "Fandango says hackers stole payment card details from checkout pages"
@@ -552,6 +582,10 @@
   "bb363a0ed3654b53": [
    "2026-11-21",
    "Vendor data breach exposes Chase, Visa, Mastercard customer info"
+  ],
+  "bc79b8c5022d3148": [
+   "2026-11-23",
+   "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation"
   ],
   "bee8dba76ec7f227": [
    "2026-11-20",
@@ -617,17 +651,9 @@
    "2026-11-19",
    "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required"
   ],
-  "e0e4f12e08d7e6e5": [
-   "2026-11-15",
-   "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident"
-  ],
   "e2c7cfd35f159391": [
    "2026-11-19",
    "Five warning signs of ransomware breach before encryption or data theft"
-  ],
-  "e36f6d90d00b53b1": [
-   "2026-11-15",
-   "US disrupts North Korean campaign behind $400 million crypto theft"
   ],
   "e72ed61136a9deca": [
    "2026-11-19",
@@ -649,9 +675,17 @@
    "2026-11-16",
    "Microsoft says months-old bug caused global Microsoft 365 outage"
   ],
+  "ed78be2cd2f83ce3": [
+   "2026-11-23",
+   "Spanish LaLiga confirms hackers stole soccer fans’ personal data"
+  ],
   "f7bf9df273ff8097": [
    "2026-11-19",
    "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution"
+  ],
+  "fa3e0f60c75f7839": [
+   "2026-11-23",
+   "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions"
   ],
   "fe01a99f0fcd80fe": [
    "2026-11-19",
