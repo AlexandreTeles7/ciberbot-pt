@@ -1,0 +1,277 @@
+{
+ "data": "2026-11-24",
+ "gerado_em": "2026-11-24T18:43:25.065545+00:00",
+ "itens": [
+  {
+   "id": "kev:CVE-2026-132165",
+   "titulo": "CVE-2026-132165: Drupal Core Remote Code Execution Vulnerability",
+   "resumo": "Drupal Core contains a not failing securely vulnerability that could allow an unauthenticated attacker to take over an existing site or execute arbitrary code via the Drupal installer. Under specific conditions, the attacker can use install.php to attempt to reinstall Drupal on the site.",
+   "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-132165",
+   "fonte": "CISA — Vulnerabilidades exploradas (KEV)",
+   "idioma": "en",
+   "categoria": "exploradas",
+   "publicado": "2026-11-24T12:00:00+00:00",
+   "pontuacao": 80.1,
+   "cves": [
+    "CVE-2026-132165"
+   ],
+   "etiquetas": [
+    "Explorada ativamente",
+    "Prazo CISA: 27/11/2026"
+   ],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "kev:CVE-2026-132224",
+   "titulo": "CVE-2026-132224: Optimizely Web Experimentation External Control of Critical State Data Vulnerability",
+   "resumo": "Optimizely Web Experimentation contains an external control of critical state data vulnerability in its account signup flow that could allow an attacker to impersonate existing customer users and modify Project JavaScript. Successful exploitation can result in attacker-controlled JavaScript being distributed through Optimizely-hosted assets and executed in browsers visiting affected customer websites.",
+   "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-132224",
+   "fonte": "CISA — Vulnerabilidades exploradas (KEV)",
+   "idioma": "en",
+   "categoria": "exploradas",
+   "publicado": "2026-11-24T12:00:00+00:00",
+   "pontuacao": 74.1,
+   "cves": [
+    "CVE-2026-132224"
+   ],
+   "etiquetas": [
+    "Explorada ativamente",
+    "Prazo CISA: 27/11/2026"
+   ],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "kev:CVE-2026-133968",
+   "titulo": "CVE-2026-133968: Project MONAI MONAI Label Path Traversal Vulnerability",
+   "resumo": "Project MONAI MONAI Label contains a path traversal vulnerability that allows an unauthenticated remote attacker to write arbitrary files outside the intended datastore directory, potentially resulting in remote code execution.",
+   "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133968",
+   "fonte": "CISA — Vulnerabilidades exploradas (KEV)",
+   "idioma": "en",
+   "categoria": "exploradas",
+   "publicado": "2026-11-23T12:00:00+00:00",
+   "pontuacao": 73.5,
+   "cves": [
+    "CVE-2026-133968"
+   ],
+   "etiquetas": [
+    "Explorada ativamente",
+    "Prazo CISA: 26/11/2026"
+   ],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "kev:CVE-2026-131914",
+   "titulo": "CVE-2026-131914: Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability",
+   "resumo": "Idunno AntiCsrf contains a deserialization of untrusted data vulnerability that allows an unauthenticated remote attacker to execute arbitrary code via object injection. The impacted product(s) could be end-of-life (EoL) and/or end-of-service (EoS). Users are advised to discontinue use and/or transition to a supported version.",
+   "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-131914",
+   "fonte": "CISA — Vulnerabilidades exploradas (KEV)",
+   "idioma": "en",
+   "categoria": "exploradas",
+   "publicado": "2026-11-24T12:00:00+00:00",
+   "pontuacao": 68.1,
+   "cves": [
+    "CVE-2026-131914"
+   ],
+   "etiquetas": [
+    "Explorada ativamente",
+    "Prazo CISA: 27/11/2026"
+   ],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "kev:CVE-2026-134624",
+   "titulo": "CVE-2026-134624: N-able MailAssure (SpamExperts) Server-Side Request Forgery (SSRF) Vulnerability",
+   "resumo": "N-able MailAssure (SpamExperts) contains a server-side request forgery vulnerability in the LDAP synchronization connection check that allows an authenticated API user to connect to arbitrary internal hosts and ports, determine which are reachable, and send crafted data to internal services.",
+   "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-134624",
+   "fonte": "CISA — Vulnerabilidades exploradas (KEV)",
+   "idioma": "en",
+   "categoria": "exploradas",
+   "publicado": "2026-11-23T12:00:00+00:00",
+   "pontuacao": 61.5,
+   "cves": [
+    "CVE-2026-134624"
+   ],
+   "etiquetas": [
+    "Explorada ativamente",
+    "Prazo CISA: 26/11/2026"
+   ],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "23d0dcc123caccef",
+   "titulo": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
+   "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two flaws impacting N-able MailAssure and MONAI Label to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The critical vulnerabilities are listed below - CVE-2026-134624 (CVSS score: 9.3) - A server-side request forgery (SSRF) vulnerability in N-able MailAssure's LDAP",
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html",
+   "fonte": "The Hacker News",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-24T06:02:45+00:00",
+   "pontuacao": 77.5,
+   "cves": [
+    "CVE-2026-134624"
+   ],
+   "etiquetas": [
+    "Na lista KEV da CISA"
+   ],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "529a7333254447a4",
+   "titulo": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
+   "resumo": "Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication. The critical vulnerability, tracked as CVE-2026-123903, is rated 9.8 out of 10.0 on the CVSS scoring system. It resides in the VMware Directory Service (\"vmdir\"). \"A malicious actor with",
+   "url": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
+   "fonte": "The Hacker News",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-24T13:28:26+00:00",
+   "pontuacao": 64.5,
+   "cves": [
+    "CVE-2026-123903"
+   ],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "d0d24808f86d0e79",
+   "titulo": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
+   "resumo": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus. Central to the group's operations is a backdoor called KuboShell that uses the InterPlanetary File System (IPFS) for command-and-control (C2) and deploys Homa, a post-compromise framework that's a reimplementation of",
+   "url": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
+   "fonte": "The Hacker News",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-24T16:54:07+00:00",
+   "pontuacao": 48.5,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "4ddbdd08cfee5824",
+   "titulo": "McDonald's Japan data breach exposes customer location information",
+   "resumo": "McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app. [...]",
+   "url": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
+   "fonte": "BleepingComputer",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-24T14:09:37+00:00",
+   "pontuacao": 43.7,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "008b5e9ce7999a09",
+   "titulo": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
+   "resumo": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]",
+   "url": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
+   "fonte": "BleepingComputer",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-23T20:54:51+00:00",
+   "pontuacao": 38.9,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "81c1d1db7774591f",
+   "titulo": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
+   "resumo": "A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta's Threat Intelligence team. The cluster, dubbed O-UNC-053, is characterized by the use of voice phishing (aka vishing) attacks to trick targets into entering credentials in phishing pages and approving",
+   "url": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
+   "fonte": "The Hacker News",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-24T13:28:21+00:00",
+   "pontuacao": 36.5,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "927c21bd5d12658e",
+   "titulo": "Radware discloses breach exposing customer cloud access keys",
+   "resumo": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left exposed online. [...]",
+   "url": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
+   "fonte": "BleepingComputer",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-24T17:49:05+00:00",
+   "pontuacao": 34.7,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "9fddd76c49d6e729",
+   "titulo": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
+   "resumo": "The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]",
+   "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
+   "fonte": "BleepingComputer",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-24T16:30:19+00:00",
+   "pontuacao": 34.4,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "1cb4cf5835fd5dc7",
+   "titulo": "European Commission confirms data theft in EU Academy breach",
+   "resumo": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]",
+   "url": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
+   "fonte": "BleepingComputer",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-24T16:22:44+00:00",
+   "pontuacao": 34.3,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "87a3752a5368cf13",
+   "titulo": "Hackers compromise Check Point Servers in 22 organizations",
+   "resumo": "Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
+   "fonte": "BleepingComputer",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-24T16:15:23+00:00",
+   "pontuacao": 34.3,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  }
+ ]
+}

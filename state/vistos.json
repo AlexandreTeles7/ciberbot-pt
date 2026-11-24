@@ -1,6 +1,7 @@
 {
  "versao": 1,
  "vistos": {
+  "008b5e9ce7999a09": "2026-11-24",
   "0131084012e5632c": "2026-10-27",
   "04057c8d489e0045": "2026-11-02",
   "05324fe81587751b": "2026-10-30",
@@ -30,6 +31,7 @@
   "17badb5b86f5b831": "2026-10-22",
   "187f0ea815623945": "2026-10-26",
   "1b52ce14888974c1": "2026-11-01",
+  "1cb4cf5835fd5dc7": "2026-11-24",
   "1d9dfaf86dbd4e7b": "2026-10-21",
   "1deae186887a7f2a": "2026-11-17",
   "1f9f8e2357b80706": "2026-11-09",
@@ -43,6 +45,7 @@
   "235a55b1b1f97ee8": "2026-11-07",
   "236a880aa08ed0f7": "2026-11-02",
   "23a4ea514ae34149": "2026-11-05",
+  "23d0dcc123caccef": "2026-11-24",
   "247e49d809980bd7": "2026-10-29",
   "25da1999d2877f85": "2026-11-19",
   "25e1980b6cd9663c": "2026-10-26",
@@ -101,6 +104,7 @@
   "4c298dc8c56b18e7": "2026-11-11",
   "4c7ac59e25565bd3": "2026-10-23",
   "4cf6d8665d7bdcac": "2026-10-24",
+  "4ddbdd08cfee5824": "2026-11-24",
   "4e197ce9171682ba": "2026-11-02",
   "4e2637192f058b54": "2026-11-14",
   "4e3da46766d5496a": "2026-11-13",
@@ -108,6 +112,7 @@
   "4ff14f41af02dbe5": "2026-11-05",
   "5060525796dadc15": "2026-10-28",
   "5158c17ef38b6f4a": "2026-11-11",
+  "529a7333254447a4": "2026-11-24",
   "5310a060d71adf62": "2026-11-21",
   "531efb27f6159372": "2026-11-03",
   "5519b00d17063a99": "2026-11-16",
@@ -168,6 +173,7 @@
   "80ea3f790938b473": "2026-10-31",
   "8130f014b86660fe": "2026-11-22",
   "816b0cc9bcf37f15": "2026-11-05",
+  "81c1d1db7774591f": "2026-11-24",
   "82e0032b3a0a1f7a": "2026-11-07",
   "8312b7e4bcf8250d": "2026-10-29",
   "8408112e1c830387": "2026-11-14",
@@ -175,6 +181,7 @@
   "84c33bee635a4d3c": "2026-10-22",
   "86fc80d7d9005f72": "2026-10-29",
   "877faff2da7d007c": "2026-11-02",
+  "87a3752a5368cf13": "2026-11-24",
   "893508bab2b3a700": "2026-11-09",
   "89ce79781f943927": "2026-11-15",
   "8b118518e6871598": "2026-11-13",
@@ -189,6 +196,7 @@
   "9173d0522d12fa0e": "2026-11-23",
   "923a6f68d1dc2a26": "2026-11-03",
   "92699249dadcc21c": "2026-11-11",
+  "927c21bd5d12658e": "2026-11-24",
   "931d1d1fb61725d1": "2026-10-30",
   "93e9c76800069225": "2026-11-07",
   "941e277ba15aa99e": "2026-11-06",
@@ -207,6 +215,7 @@
   "9ef8e97907d2b0da": "2026-10-23",
   "9f0e5059bb42b404": "2026-11-23",
   "9f751b46e5666032": "2026-11-13",
+  "9fddd76c49d6e729": "2026-11-24",
   "a16b2754a6c591fd": "2026-10-26",
   "a212e990851bb9aa": "2026-10-31",
   "a5ce66b5295eda36": "2026-11-16",
@@ -265,6 +274,7 @@
   "cf695e392515d9e9": "2026-10-22",
   "cf7bf66c31737ed8": "2026-11-01",
   "d07395780116bc34": "2026-11-17",
+  "d0d24808f86d0e79": "2026-11-24",
   "d191d928d07e9e10": "2026-11-13",
   "d1ec5e3e407810cd": "2026-10-31",
   "d5e03f0a593720fc": "2026-11-18",
@@ -351,6 +361,11 @@
   "kev:CVE-2026-124194": "2026-11-11",
   "kev:CVE-2026-125350": "2026-11-11",
   "kev:CVE-2026-129448": "2026-11-21",
+  "kev:CVE-2026-131914": "2026-11-24",
+  "kev:CVE-2026-132165": "2026-11-24",
+  "kev:CVE-2026-132224": "2026-11-24",
+  "kev:CVE-2026-133968": "2026-11-24",
+  "kev:CVE-2026-134624": "2026-11-24",
   "kev:CVE-2026-19868": "2026-11-07",
   "kev:CVE-2026-20320": "2026-11-11",
   "kev:CVE-2026-40217": "2026-11-19",
@@ -367,6 +382,10 @@
   "kev:CVE-2026-97229": "2026-10-30"
  },
  "titulos": {
+  "008b5e9ce7999a09": [
+   "2026-11-24",
+   "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million"
+  ],
   "08c18890b2a452fd": [
    "2026-11-21",
    "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge"
@@ -379,10 +398,6 @@
    "2026-11-18",
    "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years"
   ],
-  "113fa37db14f13b5": [
-   "2026-11-16",
-   "Google warns that fully-automated AI attacks are coming soon"
-  ],
   "118737cff62bf256": [
    "2026-11-21",
    "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access"
@@ -391,9 +406,17 @@
    "2026-11-18",
    "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks"
   ],
+  "1cb4cf5835fd5dc7": [
+   "2026-11-24",
+   "European Commission confirms data theft in EU Academy breach"
+  ],
   "1deae186887a7f2a": [
    "2026-11-17",
    "Microsoft testing Remote Lock for lost or stolen Windows devices"
+  ],
+  "23d0dcc123caccef": [
+   "2026-11-24",
+   "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day"
   ],
   "25da1999d2877f85": [
    "2026-11-19",
@@ -439,17 +462,21 @@
    "2026-11-17",
    "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware"
   ],
+  "4ddbdd08cfee5824": [
+   "2026-11-24",
+   "McDonald's Japan data breach exposes customer location information"
+  ],
   "4fe0b9695dfe5a22": [
    "2026-11-18",
    "Apache warns of Roller RCE vulnerability exploited in attacks"
   ],
+  "529a7333254447a4": [
+   "2026-11-24",
+   "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation"
+  ],
   "5310a060d71adf62": [
    "2026-11-21",
    "Alerta de Vulnerabilidade - Broadcom VMware vCenter"
-  ],
-  "5519b00d17063a99": [
-   "2026-11-16",
-   "Australian retail giant Coles investigates cybersecurity incident"
   ],
   "5b9c56a374491fc0": [
    "2026-11-17",
@@ -503,6 +530,14 @@
    "2026-11-22",
    "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms"
   ],
+  "81c1d1db7774591f": [
+   "2026-11-24",
+   "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site"
+  ],
+  "87a3752a5368cf13": [
+   "2026-11-24",
+   "Hackers compromise Check Point Servers in 22 organizations"
+  ],
   "8b6e4a5d7233b306": [
    "2026-11-20",
    "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data"
@@ -514,6 +549,10 @@
   "9173d0522d12fa0e": [
    "2026-11-23",
    "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE"
+  ],
+  "927c21bd5d12658e": [
+   "2026-11-24",
+   "Radware discloses breach exposing customer cloud access keys"
   ],
   "950f823bd179d6ca": [
    "2026-11-23",
@@ -527,9 +566,9 @@
    "2026-11-23",
    "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble"
   ],
-  "a5ce66b5295eda36": [
-   "2026-11-16",
-   "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware"
+  "9fddd76c49d6e729": [
+   "2026-11-24",
+   "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof"
   ],
   "a80c0f6e050f5726": [
    "2026-11-22",
@@ -547,10 +586,6 @@
    "2026-11-18",
    "Critical Java4Shell flaw allows RCE attacks on major Java applications"
   ],
-  "aec67dfe8af99f84": [
-   "2026-11-16",
-   "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login"
-  ],
   "b0383981ded0f688": [
    "2026-11-20",
    "Alerta de Vulnerabilidade - F5 NGINX"
@@ -563,10 +598,6 @@
    "2026-11-23",
    "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards"
   ],
-  "b2dcbde111d3bc6c": [
-   "2026-11-16",
-   "Fandango says hackers stole payment card details from checkout pages"
-  ],
   "b601ff3a21bb6b8c": [
    "2026-11-21",
    "Bell Canada says 'agentic' hacker stole enterprise customer data"
@@ -574,10 +605,6 @@
   "b9320386714a6a95": [
    "2026-11-20",
    "F5 releases emergency patches for critical BIG-IP RCE flaws"
-  ],
-  "bac13cede4006688": [
-   "2026-11-16",
-   "7 Tips For Complying with CJIS Password and MFA Requirements"
   ],
   "bb363a0ed3654b53": [
    "2026-11-21",
@@ -611,10 +638,6 @@
    "2026-11-17",
    "Uber notifies drivers of data breach affecting nearly 150,000 people"
   ],
-  "ce3769af487e1ba1": [
-   "2026-11-16",
-   "Microsoft: Windows Server 2016 reaches end of support in 60 days"
-  ],
   "cee221b001326df3": [
    "2026-11-20",
    "PHP security updates fix 18 flaws, including critical RCE bugs"
@@ -626,6 +649,10 @@
   "d07395780116bc34": [
    "2026-11-17",
    "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission"
+  ],
+  "d0d24808f86d0e79": [
+   "2026-11-24",
+   "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns"
   ],
   "d5e03f0a593720fc": [
    "2026-11-18",
@@ -659,10 +686,6 @@
    "2026-11-19",
    "Drupal patches critical RCE flaw, warns exploits may surface quickly"
   ],
-  "e9e2c3dfb8e8ac32": [
-   "2026-11-16",
-   "TSMC employee data breach linked to cloud provider"
-  ],
   "eb9c8d5082430b29": [
    "2026-11-18",
    "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor"
@@ -670,10 +693,6 @@
   "ebdd02e8167f29e3": [
    "2026-11-20",
    "Transport for London breach exposes 265,000 Oyster card users' data"
-  ],
-  "ed6ee569a372207d": [
-   "2026-11-16",
-   "Microsoft says months-old bug caused global Microsoft 365 outage"
   ],
   "ed78be2cd2f83ce3": [
    "2026-11-23",
@@ -690,10 +709,6 @@
   "fe01a99f0fcd80fe": [
    "2026-11-19",
    "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks"
-  ],
-  "fe9941e75ee77835": [
-   "2026-11-16",
-   "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs"
   ],
   "kev:CVE-2024-10441": [
    "2026-11-19",
@@ -714,6 +729,26 @@
   "kev:CVE-2026-129448": [
    "2026-11-21",
    "CVE-2026-129448: Apache Roller Deserialization of Untrusted Data Vulnerability"
+  ],
+  "kev:CVE-2026-131914": [
+   "2026-11-24",
+   "CVE-2026-131914: Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability"
+  ],
+  "kev:CVE-2026-132165": [
+   "2026-11-24",
+   "CVE-2026-132165: Drupal Core Remote Code Execution Vulnerability"
+  ],
+  "kev:CVE-2026-132224": [
+   "2026-11-24",
+   "CVE-2026-132224: Optimizely Web Experimentation External Control of Critical State Data Vulnerability"
+  ],
+  "kev:CVE-2026-133968": [
+   "2026-11-24",
+   "CVE-2026-133968: Project MONAI MONAI Label Path Traversal Vulnerability"
+  ],
+  "kev:CVE-2026-134624": [
+   "2026-11-24",
+   "CVE-2026-134624: N-able MailAssure (SpamExperts) Server-Side Request Forgery (SSRF) Vulnerability"
   ],
   "kev:CVE-2026-40217": [
    "2026-11-19",

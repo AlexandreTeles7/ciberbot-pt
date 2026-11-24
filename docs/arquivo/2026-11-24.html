@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="pt-PT">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CiberBot PT — Resumo diário de cibersegurança — 24 de novembro de 2026</title>
+<meta name="description" content="Resumo diário de cibersegurança em português de Portugal: ataques, vulnerabilidades e alertas.">
+<style>
+:root{--fundo:#f6f7f9;--cartao:#fff;--texto:#16191d;--suave:#5b6472;--linha:#e3e6ea;--link:#0b5fd6;--chip:#eef1f5;
+--s-portugal:#1f8a4c;--s-exploradas:#d6322f;--s-criticas:#e07a12;--s-noticias:#3a6fd8;--s-outra:#6b7280}
+@media (prefers-color-scheme:dark){:root{--fundo:#0f1216;--cartao:#171b21;--texto:#e8eaed;--suave:#9aa3af;
+--linha:#262c34;--link:#7db4ff;--chip:#222831;--s-portugal:#4cc17f;--s-exploradas:#ff6b66;--s-criticas:#ffa04a;
+--s-noticias:#7aa2ff;--s-outra:#9aa3af}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--fundo);color:var(--texto);font:16px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+a{color:var(--link)}
+.caixa{max-width:760px;margin:0 auto;padding:0 16px}
+.topo{padding:28px 0 4px}
+.marca{margin:0;color:var(--suave);font-size:.8rem;letter-spacing:.06em;text-transform:uppercase}
+h1{margin:.25em 0 .15em;font-size:1.7rem;line-height:1.2}
+.data{margin:0;color:var(--suave)}
+h2{font-size:1.1rem;margin:2em 0 .7em}
+.cartao{background:var(--cartao);border:1px solid var(--linha);border-left:4px solid var(--cor);
+border-radius:10px;padding:13px 16px;margin:0 0 12px}
+.s-portugal{--cor:var(--s-portugal)}.s-exploradas{--cor:var(--s-exploradas)}
+.s-criticas{--cor:var(--s-criticas)}.s-noticias{--cor:var(--s-noticias)}.s-outra{--cor:var(--s-outra)}
+.cartao h3{margin:0 0 .3em;font-size:1.02rem;line-height:1.35}
+.cartao h3 a{color:inherit;text-decoration:none}.cartao h3 a:hover{text-decoration:underline}
+.cartao p{margin:.3em 0}
+.meta{color:var(--suave);font-size:.85rem}
+.chip{display:inline-block;background:var(--chip);border-radius:999px;padding:1px 9px;margin:3px 4px 0 0;font-size:.78rem}
+.nota{background:var(--chip);border-radius:10px;padding:10px 14px;font-size:.9rem;color:var(--suave)}
+.arquivo ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:6px 14px}
+.rodape{color:var(--suave);font-size:.82rem;padding:28px 16px 44px}
+</style>
+</head>
+<body>
+<header class="topo caixa">
+<p class="marca">CiberBot PT</p>
+<h1>CiberBot PT — Resumo diário de cibersegurança</h1>
+<p class="data">24 de novembro de 2026 · 15 destaques</p>
+</header>
+<main class="caixa">
+<section><h2>🔴 Vulnerabilidades exploradas ativamente</h2>
+<article class="cartao s-exploradas"><h3><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-132165" rel="noopener noreferrer">CVE-2026-132165: Drupal Core Remote Code Execution Vulnerability</a></h3><p>Drupal Core contains a not failing securely vulnerability that could allow an unauthenticated attacker to take over an existing site or execute arbitrary code via the Drupal installer. Under specific conditions, the attacker can use install.php to attempt to reinstall Drupal on the site.</p><p class="meta">CISA — Vulnerabilidades exploradas (KEV) · 24/11</p><span class="chip">Explorada ativamente</span><span class="chip">Prazo CISA: 27/11/2026</span><span class="chip">Em inglês</span></article>
+<article class="cartao s-exploradas"><h3><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-132224" rel="noopener noreferrer">CVE-2026-132224: Optimizely Web Experimentation External Control of Critical State Data Vulnerability</a></h3><p>Optimizely Web Experimentation contains an external control of critical state data vulnerability in its account signup flow that could allow an attacker to impersonate existing customer users and modify Project JavaScript. Successful exploitation can result in attacker-controlled JavaScript being distributed through Optimizely-hosted assets and executed in browsers visiting affected customer websites.</p><p class="meta">CISA — Vulnerabilidades exploradas (KEV) · 24/11</p><span class="chip">Explorada ativamente</span><span class="chip">Prazo CISA: 27/11/2026</span><span class="chip">Em inglês</span></article>
+<article class="cartao s-exploradas"><h3><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-133968" rel="noopener noreferrer">CVE-2026-133968: Project MONAI MONAI Label Path Traversal Vulnerability</a></h3><p>Project MONAI MONAI Label contains a path traversal vulnerability that allows an unauthenticated remote attacker to write arbitrary files outside the intended datastore directory, potentially resulting in remote code execution.</p><p class="meta">CISA — Vulnerabilidades exploradas (KEV) · 23/11</p><span class="chip">Explorada ativamente</span><span class="chip">Prazo CISA: 26/11/2026</span><span class="chip">Em inglês</span></article>
+<article class="cartao s-exploradas"><h3><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-131914" rel="noopener noreferrer">CVE-2026-131914: Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability</a></h3><p>Idunno AntiCsrf contains a deserialization of untrusted data vulnerability that allows an unauthenticated remote attacker to execute arbitrary code via object injection. The impacted product(s) could be end-of-life (EoL) and/or end-of-service (EoS). Users are advised to discontinue use and/or transition to a supported version.</p><p class="meta">CISA — Vulnerabilidades exploradas (KEV) · 24/11</p><span class="chip">Explorada ativamente</span><span class="chip">Prazo CISA: 27/11/2026</span><span class="chip">Em inglês</span></article>
+<article class="cartao s-exploradas"><h3><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-134624" rel="noopener noreferrer">CVE-2026-134624: N-able MailAssure (SpamExperts) Server-Side Request Forgery (SSRF) Vulnerability</a></h3><p>N-able MailAssure (SpamExperts) contains a server-side request forgery vulnerability in the LDAP synchronization connection check that allows an authenticated API user to connect to arbitrary internal hosts and ports, determine which are reachable, and send crafted data to internal services.</p><p class="meta">CISA — Vulnerabilidades exploradas (KEV) · 23/11</p><span class="chip">Explorada ativamente</span><span class="chip">Prazo CISA: 26/11/2026</span><span class="chip">Em inglês</span></article></section>
+<section><h2>📰 Ataques e notícias</h2>
+<article class="cartao s-noticias"><h3><a href="https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html" rel="noopener noreferrer">Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day</a></h3><p>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two flaws impacting N-able MailAssure and MONAI Label to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The critical vulnerabilities are listed below - CVE-2026-134624 (CVSS score: 9.3) - A server-side request forgery (SSRF) vulnerability in N-able MailAssure's LDAP</p><p class="meta">The Hacker News · 24/11</p><span class="chip">Na lista KEV da CISA</span><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html" rel="noopener noreferrer">VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation</a></h3><p>Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication. The critical vulnerability, tracked as CVE-2026-123903, is rated 9.8 out of 10.0 on the CVSS scoring system. It resides in the VMware Directory Service ("vmdir"). "A malicious actor with</p><p class="meta">The Hacker News · 24/11</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html" rel="noopener noreferrer">Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns</a></h3><p>A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus. Central to the group's operations is a backdoor called KuboShell that uses the InterPlanetary File System (IPFS) for command-and-control (C2) and deploys Homa, a post-compromise framework that's a reimplementation of</p><p class="meta">The Hacker News · 24/11</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/" rel="noopener noreferrer">McDonald's Japan data breach exposes customer location information</a></h3><p>McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app. [...]</p><p class="meta">BleepingComputer · 24/11</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/" rel="noopener noreferrer">South Korea’s power giant KEPCO confirms data breach impacting 1.5 million</a></h3><p>A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]</p><p class="meta">BleepingComputer · 23/11</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html" rel="noopener noreferrer">Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site</a></h3><p>A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta's Threat Intelligence team. The cluster, dubbed O-UNC-053, is characterized by the use of voice phishing (aka vishing) attacks to trick targets into entering credentials in phishing pages and approving</p><p class="meta">The Hacker News · 24/11</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/" rel="noopener noreferrer">Radware discloses breach exposing customer cloud access keys</a></h3><p>Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left exposed online. [...]</p><p class="meta">BleepingComputer · 24/11</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/" rel="noopener noreferrer">ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof</a></h3><p>The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]</p><p class="meta">BleepingComputer · 24/11</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/" rel="noopener noreferrer">European Commission confirms data theft in EU Academy breach</a></h3><p>The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]</p><p class="meta">BleepingComputer · 24/11</p><span class="chip">Em inglês</span></article>
+<article class="cartao s-noticias"><h3><a href="https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/" rel="noopener noreferrer">Hackers compromise Check Point Servers in 22 organizations</a></h3><p>Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]</p><p class="meta">BleepingComputer · 24/11</p><span class="chip">Em inglês</span></article></section>
+<p class="nota">Notas desta edição:</p><ul class="nota"><li>Fonte «CNCS — Alertas de Segurança» indisponível: www.cncs.gov.pt: HTTP 513</li><li>Fonte «NVD — CVE críticos» indisponível: services.nvd.nist.gov: HTTP 403</li><li>Sem ANTHROPIC_API_KEY: os itens em inglês ficam sem tradução.</li></ul>
+<p><a href="../index.html">← Edição mais recente</a></p>
+</main>
+<footer class="rodape caixa">
+Gerado automaticamente em 24/11/2026 às 18:43. Traduzido automaticamente para português de Portugal. Confirme sempre os detalhes na fonte original.
+</footer>
+</body>
+</html>
