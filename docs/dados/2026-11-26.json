@@ -1,0 +1,343 @@
+{
+ "data": "2026-11-26",
+ "gerado_em": "2026-11-26T17:36:00.274213+00:00",
+ "itens": [
+  {
+   "id": "kev:CVE-2026-133469",
+   "titulo": "CVE-2026-133469: Vates Xen Orchestra Improper Validation of Specified Type of Input Vulnerability",
+   "resumo": "Vates Xen Orchestra contains an improper validation of specified type of input vulnerability that could allow an unauthenticated attacker to bypass authentication and perform actions with administrative privileges via a specially crafted authentication token containing an empty JSON object.",
+   "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133469",
+   "fonte": "CISA — Vulnerabilidades exploradas (KEV)",
+   "idioma": "en",
+   "categoria": "exploradas",
+   "publicado": "2026-11-25T12:00:00+00:00",
+   "pontuacao": 61.8,
+   "cves": [
+    "CVE-2026-133469"
+   ],
+   "etiquetas": [
+    "Explorada ativamente",
+    "Prazo CISA: 28/11/2026"
+   ],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "kev:CVE-2025-41450",
+   "titulo": "CVE-2025-41450: Danfoss AK-SM 800A Series Improper Authentication Vulnerability",
+   "resumo": "Danfoss AK-SM 800A Series contains an improper authentication vulnerability that could allow an attacker to generate a web report exposing sensitive information, including internal IP addresses, usernames, and store names.",
+   "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-41450",
+   "fonte": "CISA — Vulnerabilidades exploradas (KEV)",
+   "idioma": "en",
+   "categoria": "exploradas",
+   "publicado": "2026-11-25T12:00:00+00:00",
+   "pontuacao": 61.8,
+   "cves": [
+    "CVE-2025-41450"
+   ],
+   "etiquetas": [
+    "Explorada ativamente",
+    "Prazo CISA: 09/12/2026"
+   ],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "kev:CVE-2023-25914",
+   "titulo": "CVE-2023-25914: Danfoss AK-SM 800A Series Path Traversal Vulnerability",
+   "resumo": "Danfoss AK-SM 800A Series contains a path traversal vulnerability that could allow an attacker to access and read underlying server system files via the XML interface.",
+   "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-25914",
+   "fonte": "CISA — Vulnerabilidades exploradas (KEV)",
+   "idioma": "en",
+   "categoria": "exploradas",
+   "publicado": "2026-11-25T12:00:00+00:00",
+   "pontuacao": 61.8,
+   "cves": [
+    "CVE-2023-25914"
+   ],
+   "etiquetas": [
+    "Explorada ativamente",
+    "Prazo CISA: 28/11/2026"
+   ],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "kev:CVE-2023-25915",
+   "titulo": "CVE-2023-25915: Danfoss AK-SM 800A Series Improper Input Validation Vulnerability",
+   "resumo": "Danfoss AK-SM 800A Series contains an improper input validation vulnerability that could allow a remote attacker to run arbitrary commands on the affected system.",
+   "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-25915",
+   "fonte": "CISA — Vulnerabilidades exploradas (KEV)",
+   "idioma": "en",
+   "categoria": "exploradas",
+   "publicado": "2026-11-25T12:00:00+00:00",
+   "pontuacao": 61.8,
+   "cves": [
+    "CVE-2023-25915"
+   ],
+   "etiquetas": [
+    "Explorada ativamente",
+    "Prazo CISA: 28/11/2026"
+   ],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "kev:CVE-2026-133324",
+   "titulo": "CVE-2026-133324: Mitel MiCollab Not Failing Securely Vulnerability",
+   "resumo": "Mitel MiCollab contains a not failing securely vulnerability in the Audio, Web and Video Conferencing (AWV) component that could allow an unauthenticated attacker to bypass authentication controls and perform unauthorized actions.",
+   "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133324",
+   "fonte": "CISA — Vulnerabilidades exploradas (KEV)",
+   "idioma": "en",
+   "categoria": "exploradas",
+   "publicado": "2026-11-25T12:00:00+00:00",
+   "pontuacao": 61.8,
+   "cves": [
+    "CVE-2026-133324"
+   ],
+   "etiquetas": [
+    "Explorada ativamente",
+    "Prazo CISA: 28/11/2026"
+   ],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "kev:CVE-2026-133275",
+   "titulo": "CVE-2026-133275: Mitel MiCollab Unrestricted Upload of File with Dangerous Type Vulnerability",
+   "resumo": "Mitel MiCollab contains an unrestricted upload of file with dangerous type vulnerability in the Audio, Web and Video Conferencing (AWV) component due to insufficient file type validation that could allow an unauthenticated attacker to upload arbitrary files.",
+   "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133275",
+   "fonte": "CISA — Vulnerabilidades exploradas (KEV)",
+   "idioma": "en",
+   "categoria": "exploradas",
+   "publicado": "2026-11-25T12:00:00+00:00",
+   "pontuacao": 61.8,
+   "cves": [
+    "CVE-2026-133275"
+   ],
+   "etiquetas": [
+    "Explorada ativamente",
+    "Prazo CISA: 28/11/2026"
+   ],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "kev:CVE-2026-133311",
+   "titulo": "CVE-2026-133311: Mitel MiCollab Weak Authentication Vulnerability",
+   "resumo": "Mitel MiCollab contains a weak authentication vulnerability in the Audio, Web and Video Conferencing (AWV) component that could allow an unauthenticated attacker to access sensitive information using a specific system-generated random identifier or pre-staged content.",
+   "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133311",
+   "fonte": "CISA — Vulnerabilidades exploradas (KEV)",
+   "idioma": "en",
+   "categoria": "exploradas",
+   "publicado": "2026-11-25T12:00:00+00:00",
+   "pontuacao": 61.8,
+   "cves": [
+    "CVE-2026-133311"
+   ],
+   "etiquetas": [
+    "Explorada ativamente",
+    "Prazo CISA: 09/12/2026"
+   ],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "kev:CVE-2026-133303",
+   "titulo": "CVE-2026-133303: Mitel MiCollab XML Injection Vulnerability",
+   "resumo": "Mitel MiCollab contains an XML injection vulnerability in its Audio, Web, and Video Conferencing (AWV) component that could allow an unauthenticated attacker to execute arbitrary commands using pre-staged malicious content.",
+   "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133303",
+   "fonte": "CISA — Vulnerabilidades exploradas (KEV)",
+   "idioma": "en",
+   "categoria": "exploradas",
+   "publicado": "2026-11-25T12:00:00+00:00",
+   "pontuacao": 61.8,
+   "cves": [
+    "CVE-2026-133303"
+   ],
+   "etiquetas": [
+    "Explorada ativamente",
+    "Prazo CISA: 28/11/2026"
+   ],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "96c8d7eae4a8313e",
+   "titulo": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+   "resumo": "Drupal has warned of a new \"highly critical\" security flaw impacting Drupal core that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been described as a case of improper checking for unusual or exceptional conditions. It also relates to CVE-2026-132165 aka Fail2Install in that it addresses remaining vulnerable installation states",
+   "url": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
+   "fonte": "The Hacker News",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-26T07:02:34+00:00",
+   "pontuacao": 73.1,
+   "cves": [
+    "CVE-2026-136716",
+    "CVE-2026-132165"
+   ],
+   "etiquetas": [
+    "Na lista KEV da CISA"
+   ],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "084338550ffaca34",
+   "titulo": "Remus malware steals Gmail messages via fake Google Sheets extension",
+   "resumo": "The Remus infostealer is stealing Gmail messages through a stealthy malicious Chrome extension, a capability the malware operators marketed as a zero-day exploit in Google's email service. [...]",
+   "url": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
+   "fonte": "BleepingComputer",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-26T15:23:28+00:00",
+   "pontuacao": 59.4,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "5edbf5bef3585b1f",
+   "titulo": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
+   "resumo": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, including five vulnerabilities impacting Mitel MiCollab that were disclosed last week. The Mitel MiCollab vulnerabilities are listed below - CVE-2026-133275 (CVSS score: 5.3) - An arbitrary file upload vulnerability in the Audio, Web and",
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
+   "fonte": "The Hacker News",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-26T06:44:46+00:00",
+   "pontuacao": 47.0,
+   "cves": [
+    "CVE-2026-133275"
+   ],
+   "etiquetas": [
+    "Na lista KEV da CISA"
+   ],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "b946b9ddc55d0ace",
+   "titulo": "1Password customer data stolen after employee GitHub account breach",
+   "resumo": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data. [...]",
+   "url": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
+   "fonte": "BleepingComputer",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-25T21:33:33+00:00",
+   "pontuacao": 39.4,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "9006aa48e0f5b716",
+   "titulo": "Fake paid expert interviews impersonate brands to steal Google logins",
+   "resumo": "An ongoing phishing campaign dubbed \"GoodGuys\" impersonates major brands, including Google, Nvidia, Accenture, and SpaceX, to steal corporate Google and Okta credentials using fake invitations to paid expert interviews and webinars. [...]",
+   "url": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
+   "fonte": "BleepingComputer",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-26T17:15:27+00:00",
+   "pontuacao": 37.9,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "1e5dc85a47d9f065",
+   "titulo": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
+   "resumo": "Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that security teams need to know about. At Push Security, we measure this as breakthrough rate: The share of attacks that get past email security, web gateways, and safe browsing to reach the user. How an",
+   "url": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
+   "fonte": "The Hacker News",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-26T10:57:55+00:00",
+   "pontuacao": 36.2,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "2db6b3321c4adad3",
+   "titulo": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+   "resumo": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]",
+   "url": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
+   "fonte": "BleepingComputer",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-25T19:39:31+00:00",
+   "pontuacao": 34.9,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "1e318f7bbe32793b",
+   "titulo": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
+   "resumo": "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February 2025. \"The loader hides in a small utils package or in conftest.py,\" SafeDep said in a report published this week. \"When Python imports the file, the loader reads the newest transaction that an",
+   "url": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
+   "fonte": "The Hacker News",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-26T15:13:41+00:00",
+   "pontuacao": 34.3,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "78d086ece7b1b58e",
+   "titulo": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
+   "resumo": "A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, including Gmail and Outlook emails. [...]",
+   "url": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
+   "fonte": "BleepingComputer",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-26T11:50:17+00:00",
+   "pontuacao": 33.4,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "a3909c151391b42a",
+   "titulo": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+   "resumo": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer password vaults and other secrets were not accessed. \"While we took immediate steps to contain the incident, the attacker gained access to some of our backend systems and accessed a",
+   "url": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+   "fonte": "The Hacker News",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-26T10:57:25+00:00",
+   "pontuacao": 33.2,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  }
+ ]
+}
