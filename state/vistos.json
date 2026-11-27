@@ -28,6 +28,8 @@
   "11e2d419eed360ba": "2026-10-30",
   "1262c685909e8526": "2026-11-18",
   "147e205edeec7f3b": "2026-10-30",
+  "1575490f097dcf8c": "2026-11-27",
+  "16375a64e6446de6": "2026-11-27",
   "1779f457631c9925": "2026-11-02",
   "17badb5b86f5b831": "2026-10-22",
   "187f0ea815623945": "2026-10-26",
@@ -76,6 +78,7 @@
   "32e09b3c7ab02f18": "2026-11-12",
   "33a9096f1329449b": "2026-10-27",
   "342f053ed7e61040": "2026-11-07",
+  "351b5b8a0160f9e5": "2026-11-27",
   "35bed86130fbe803": "2026-10-31",
   "360f703803c359f9": "2026-10-21",
   "389c290448f68056": "2026-11-17",
@@ -102,6 +105,7 @@
   "4676b7cb174c9d54": "2026-11-20",
   "47209968a5bd49e4": "2026-10-31",
   "475c39df4ec690c2": "2026-11-01",
+  "48b3e301f687a9d4": "2026-11-27",
   "48f4a4fb8ae4d85c": "2026-10-24",
   "49540df35d1fc1f9": "2026-11-05",
   "4a089a98f70264d2": "2026-11-18",
@@ -114,6 +118,7 @@
   "4e197ce9171682ba": "2026-11-02",
   "4e2637192f058b54": "2026-11-14",
   "4e3da46766d5496a": "2026-11-13",
+  "4eca8ae0baa679c8": "2026-11-27",
   "4fe0b9695dfe5a22": "2026-11-18",
   "4ff14f41af02dbe5": "2026-11-05",
   "5060525796dadc15": "2026-10-28",
@@ -280,7 +285,9 @@
   "c448be233b4677e5": "2026-10-24",
   "c4cb48d228e6eeef": "2026-11-20",
   "c5120161a306d6fc": "2026-10-29",
+  "c7b7a6ada50a3023": "2026-11-27",
   "c800980ef7a9375e": "2026-11-21",
+  "cb18963f7b7c4045": "2026-11-27",
   "cb38ad7fb2850261": "2026-11-20",
   "cbe0f0da91da9d83": "2026-11-17",
   "cc1c23ce200849b7": "2026-11-10",
@@ -292,6 +299,7 @@
   "ceebcf60085d1c68": "2026-11-22",
   "cf695e392515d9e9": "2026-10-22",
   "cf7bf66c31737ed8": "2026-11-01",
+  "cf84035141f50530": "2026-11-27",
   "d07395780116bc34": "2026-11-17",
   "d0d24808f86d0e79": "2026-11-24",
   "d191d928d07e9e10": "2026-11-13",
@@ -310,6 +318,7 @@
   "db9a8d50388afdbf": "2026-11-22",
   "dbd63f3f484e39d8": "2026-10-27",
   "ddbf1ba441ad947a": "2026-11-09",
+  "dde7ec1efeee8be1": "2026-11-27",
   "de30d2ce6557a445": "2026-10-23",
   "de617b151a9ebaf1": "2026-11-25",
   "dea8933201de5391": "2026-11-03",
@@ -333,6 +342,7 @@
   "e8c9ad44f915c99d": "2026-10-28",
   "e99fb38de9d42b5b": "2026-10-21",
   "e9e2c3dfb8e8ac32": "2026-11-16",
+  "eb24adb962d6b1dd": "2026-11-27",
   "eb9c8d5082430b29": "2026-11-18",
   "ebdd02e8167f29e3": "2026-11-20",
   "ec73a23647a4a017": "2026-10-22",
@@ -427,6 +437,14 @@
    "2026-11-21",
    "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access"
   ],
+  "1575490f097dcf8c": [
+   "2026-11-27",
+   "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware"
+  ],
+  "16375a64e6446de6": [
+   "2026-11-27",
+   "Malwarebytes Antivirus: Get 50% off during Black Friday 2026"
+  ],
   "1cb4cf5835fd5dc7": [
    "2026-11-24",
    "European Commission confirms data theft in EU Academy breach"
@@ -443,10 +461,6 @@
    "2026-11-24",
    "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day"
   ],
-  "25da1999d2877f85": [
-   "2026-11-19",
-   "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE"
-  ],
   "2db6b3321c4adad3": [
    "2026-11-26",
    "Italy and Switzerland warn of autonomous AI-driven cyberattacks"
@@ -454,6 +468,10 @@
   "30cc53b683374fed": [
    "2026-11-23",
    "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach"
+  ],
+  "351b5b8a0160f9e5": [
+   "2026-11-27",
+   "Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs"
   ],
   "38cf60cc6d5ce256": [
    "2026-11-20",
@@ -479,9 +497,17 @@
    "2026-11-20",
    "Alerta de Vulnerabilidade - Oracle Java SE, GraalVM e OpenJDK"
   ],
+  "48b3e301f687a9d4": [
+   "2026-11-27",
+   "New NFS2ROOT Linux flaw can let attackers gain root privileges"
+  ],
   "4ddbdd08cfee5824": [
    "2026-11-24",
    "McDonald's Japan data breach exposes customer location information"
+  ],
+  "4eca8ae0baa679c8": [
+   "2026-11-27",
+   "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access"
   ],
   "529a7333254447a4": [
    "2026-11-24",
@@ -498,10 +524,6 @@
   "615cfb43db4be193": [
    "2026-11-25",
    "Hackers now exploit critical Drupal RCE flaw to hijack sites"
-  ],
-  "63f1e09ffc573954": [
-   "2026-11-19",
-   "NVIDIA investigating Gentlemen ransomware breach claims"
   ],
   "67950d6e7b41a482": [
    "2026-11-23",
@@ -531,10 +553,6 @@
    "2026-11-23",
    "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning"
   ],
-  "7daf3a34579d4cc8": [
-   "2026-11-19",
-   "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication"
-  ],
   "7e660110fc7cc405": [
    "2026-11-20",
    "Alerta de Vulnerabilidades - F5 BIG-IP"
@@ -563,10 +581,6 @@
    "2026-11-20",
    "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data"
   ],
-  "8f85c1537b6df735": [
-   "2026-11-19",
-   "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites"
-  ],
   "9006aa48e0f5b716": [
    "2026-11-26",
    "Fake paid expert interviews impersonate brands to steal Google logins"
@@ -586,10 +600,6 @@
   "96c8d7eae4a8313e": [
    "2026-11-26",
    "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation"
-  ],
-  "9d9cc3e98b3a5f0f": [
-   "2026-11-19",
-   "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms"
   ],
   "9f0e5059bb42b404": [
    "2026-11-23",
@@ -671,9 +681,17 @@
    "2026-11-20",
    "Alerta de Vulnerabilidade - Citrix NetScaler ADC e NetScaler Gateway (atualização)"
   ],
+  "c7b7a6ada50a3023": [
+   "2026-11-27",
+   "Drupal warns of new site takeover flaw exploited in attacks"
+  ],
   "c800980ef7a9375e": [
    "2026-11-21",
    "FBI reportedly hacked again, this time targeting nationwide police database"
+  ],
+  "cb18963f7b7c4045": [
+   "2026-11-27",
+   "US Air Force cloud platform reportedly hacked in latest federal breach"
   ],
   "cb38ad7fb2850261": [
    "2026-11-20",
@@ -687,6 +705,10 @@
    "2026-11-22",
    "BADBOX botnet returns with record-breaking 40 billion daily ad requests"
   ],
+  "cf84035141f50530": [
+   "2026-11-27",
+   "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators"
+  ],
   "d0d24808f86d0e79": [
    "2026-11-24",
    "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns"
@@ -699,6 +721,10 @@
    "2026-11-22",
    "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps"
   ],
+  "dde7ec1efeee8be1": [
+   "2026-11-27",
+   "Unpatched Cacti zero-day with public PoC gives remote code execution"
+  ],
   "de617b151a9ebaf1": [
    "2026-11-25",
    "Credential Remediation Is Slow When You Don’t Know What Will Break"
@@ -707,17 +733,9 @@
    "2026-11-21",
    "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats"
   ],
-  "e04b7de2e185fe5e": [
-   "2026-11-19",
-   "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required"
-  ],
-  "e2c7cfd35f159391": [
-   "2026-11-19",
-   "Five warning signs of ransomware breach before encryption or data theft"
-  ],
-  "e72ed61136a9deca": [
-   "2026-11-19",
-   "Drupal patches critical RCE flaw, warns exploits may surface quickly"
+  "eb24adb962d6b1dd": [
+   "2026-11-27",
+   "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign"
   ],
   "ebdd02e8167f29e3": [
    "2026-11-20",
@@ -727,17 +745,9 @@
    "2026-11-23",
    "Spanish LaLiga confirms hackers stole soccer fans’ personal data"
   ],
-  "f7bf9df273ff8097": [
-   "2026-11-19",
-   "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution"
-  ],
   "fa3e0f60c75f7839": [
    "2026-11-23",
    "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions"
-  ],
-  "fe01a99f0fcd80fe": [
-   "2026-11-19",
-   "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks"
   ],
   "kev:CVE-2023-25914": [
    "2026-11-26",
@@ -746,10 +756,6 @@
   "kev:CVE-2023-25915": [
    "2026-11-26",
    "CVE-2023-25915: Danfoss AK-SM 800A Series Improper Input Validation Vulnerability"
-  ],
-  "kev:CVE-2024-10441": [
-   "2026-11-19",
-   "CVE-2024-10441: Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability"
   ],
   "kev:CVE-2025-41450": [
    "2026-11-26",
@@ -811,21 +817,9 @@
    "2026-11-24",
    "CVE-2026-134624: N-able MailAssure (SpamExperts) Server-Side Request Forgery (SSRF) Vulnerability"
   ],
-  "kev:CVE-2026-40217": [
-   "2026-11-19",
-   "CVE-2026-40217: BerriAI LiteLLM Unprotected Alternate Channel Vulnerability"
-  ],
   "kev:CVE-2026-76466": [
    "2026-11-21",
    "CVE-2026-76466: Cisco Expressway Series Use of Hard-coded Credentials Vulnerability"
-  ],
-  "kev:CVE-2026-90436": [
-   "2026-11-19",
-   "CVE-2026-90436: Apache Axis Unsafe Reflection Vulnerability"
-  ],
-  "kev:CVE-2026-90817": [
-   "2026-11-19",
-   "CVE-2026-90817: Vanderbilt University Research Electronic Data Capture (REDCap) Code Injection Vulnerability"
   ]
  }
 }
