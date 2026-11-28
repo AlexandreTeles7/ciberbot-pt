@@ -1,0 +1,213 @@
+{
+ "data": "2026-11-28",
+ "gerado_em": "2026-11-28T16:01:26.519071+00:00",
+ "itens": [
+  {
+   "id": "kev:CVE-2026-120705",
+   "titulo": "CVE-2026-120705: OSGeo GeoServer XML Injection Vulnerability",
+   "resumo": "OsGeo GeoServer contains an XML injection vulnerability that allows an unauthenticated remote attacker to cause the server to read local text files accessible to the GeoServer process or fetch attacker-specified HTTP or HTTPS URLs via a crafted ID parameter in the WFS 2.0 GetFeatureById stored query. This vulnerability can be chained with CVE-2026-129244, CVE-2026-129243, CVE-2026-129245, and CVE-2026-129242 to achieve unauthenticated remote code execution on an affected GeoServer instance.",
+   "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-120705",
+   "fonte": "CISA — Vulnerabilidades exploradas (KEV)",
+   "idioma": "en",
+   "categoria": "exploradas",
+   "publicado": "2026-11-27T12:00:00+00:00",
+   "pontuacao": 74.2,
+   "cves": [
+    "CVE-2026-120705"
+   ],
+   "etiquetas": [
+    "Explorada ativamente",
+    "Prazo CISA: 30/11/2026"
+   ],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "kev:CVE-2026-129243",
+   "titulo": "CVE-2026-129243: OSGeo GeoServer Incorrect Authorization Vulnerability",
+   "resumo": "GeoServer contains an incorrect authorization vulnerability that allows an unauthenticated remote attacker to bypass service-level role checks and invoke operations protected solely by those checks via a request with a prefixed service parameter. This vulnerability can be chained with CVE-2026-129244, CVE-2026-120705, CVE-2026-129245, and CVE-2026-129242 to achieve unauthenticated remote code execution on an affected GeoServer instance.",
+   "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-129243",
+   "fonte": "CISA — Vulnerabilidades exploradas (KEV)",
+   "idioma": "en",
+   "categoria": "exploradas",
+   "publicado": "2026-11-27T12:00:00+00:00",
+   "pontuacao": 74.2,
+   "cves": [
+    "CVE-2026-129243"
+   ],
+   "etiquetas": [
+    "Explorada ativamente",
+    "Prazo CISA: 30/11/2026"
+   ],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "kev:CVE-2026-136716",
+   "titulo": "CVE-2026-136716: Drupal Core Improper Check for Unusual or Exceptional Conditions Vulnerability",
+   "resumo": "Drupal Core contains an improper check for unusual or exceptional conditions vulnerability that allows an unauthenticated remote attacker to take over a site via the exposed Drupal installer when the site is in one of the affected unusual or incomplete installation states.",
+   "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-136716",
+   "fonte": "CISA — Vulnerabilidades exploradas (KEV)",
+   "idioma": "en",
+   "categoria": "exploradas",
+   "publicado": "2026-11-27T12:00:00+00:00",
+   "pontuacao": 62.2,
+   "cves": [
+    "CVE-2026-136716"
+   ],
+   "etiquetas": [
+    "Explorada ativamente",
+    "Prazo CISA: 30/11/2026"
+   ],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "5160caee55ecacfd",
+   "titulo": "New Boston Scientific data breach exposes personal, medical info",
+   "resumo": "Medical technology company Boston Scientific is sending data breach notices to individuals affected by a cyberattack on the firm. [...]",
+   "url": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
+   "fonte": "BleepingComputer",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-27T18:57:42+00:00",
+   "pontuacao": 39.1,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "5100b55f7332b4b3",
+   "titulo": "Q-Dir and DesktopOK Windows utilities compromised to push Python RAT",
+   "resumo": "Official distribution channels for the Q-Dir and DesktopOK Windows utilities were compromised to deliver trojanized installers containing Python-based remote access malware. [...]",
+   "url": "https://www.bleepingcomputer.com/news/security/q-dir-and-desktopok-windows-utilities-compromised-to-push-python-rat/",
+   "fonte": "BleepingComputer",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-28T15:32:49+00:00",
+   "pontuacao": 34.9,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "8c0a28070e55b649",
+   "titulo": "pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts",
+   "resumo": "Cross-platform password manager pCloud Pass has confirmed it was targeted by a cyber attack after users reported seeing unknown devices being connected to their accounts. \"A cyber attack targeting pCloud Pass occurred, which was promptly contained by the pCloud team,\" the Swiss company said in response to a number of posts on Reddit. \"Unfortunately, a small number of pCloud Pass user email",
+   "url": "https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html",
+   "fonte": "The Hacker News",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-28T08:08:11+00:00",
+   "pontuacao": 32.8,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "a3aa588af9f78bea",
+   "titulo": "pCloud confirms password manager hack after suspicious login alerts",
+   "resumo": "The pCloud Pass password manager suffered a cyberattack, with users reporting that unknown devices had connected to their accounts even with two-factor authentication (2FA) enabled. [...]",
+   "url": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
+   "fonte": "BleepingComputer",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-27T19:26:04+00:00",
+   "pontuacao": 29.3,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "faa444e2cead4761",
+   "titulo": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
+   "resumo": "Cybersecurity researchers have disclosed details of a cyber attack in which a threat actor leveraged a Microsoft Store application to deliver a remote access trojan (RAT) called Vinci RAT. The intrusion, according to eSentire, begins with a redirection to a bogus site for a sniping tool (\"snipp.codes-team[.]com\"), from where a Microsoft-signed installer called \"Snipping-Tool.exe\" is",
+   "url": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html",
+   "fonte": "The Hacker News",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-27T11:49:34+00:00",
+   "pontuacao": 27.2,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "e6b9ead62bcfd856",
+   "titulo": "Microsoft removes WSUS server role in Windows Server 2028",
+   "resumo": "Microsoft will remove the WSUS server role from Windows Server 2028, the next major release of its server operating system. [...]",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/",
+   "fonte": "BleepingComputer",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-27T11:18:36+00:00",
+   "pontuacao": 27.0,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "39c383ec9ee6097e",
+   "titulo": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
+   "resumo": "Most security metrics are not built to be used. They are built to be shown. Somewhere between the quarterly review and the next status update, a set of numbers gets assembled that looks reassuring in a room and tells almost no one what is actually happening across the environment that week. Someone pulls them together the week before, cleans them up, and presents a picture of a program that is,",
+   "url": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html",
+   "fonte": "The Hacker News",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-27T10:32:18+00:00",
+   "pontuacao": 26.8,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "9c7fdeaf3b4ceabc",
+   "titulo": "SAP confirms security incident after suspicious GitHub activity",
+   "resumo": "SAP has confirmed to BleepingComputer that it took urgent action to protect its customers after detecting suspicious activity in its IT environment. [...]",
+   "url": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
+   "fonte": "BleepingComputer",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-27T09:56:36+00:00",
+   "pontuacao": 26.6,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  },
+  {
+   "id": "2a05d88537599d61",
+   "titulo": "Microsoft pushes emergency hotpatch to fix Windows Server crashes",
+   "resumo": "Microsoft has released an emergency hotpatch update to address Windows Server 2025 crashes triggered after installing this month's security hotpatch update (KB5131077). [...]",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/",
+   "fonte": "BleepingComputer",
+   "idioma": "en",
+   "categoria": "noticias",
+   "publicado": "2026-11-27T09:08:16+00:00",
+   "pontuacao": 26.4,
+   "cves": [],
+   "etiquetas": [],
+   "titulo_pt": "",
+   "resumo_pt": "",
+   "traduzido": false
+  }
+ ]
+}
